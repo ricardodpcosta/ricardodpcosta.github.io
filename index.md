@@ -18,9 +18,17 @@ _Here you can find my latest research activity, projects, publications, reposito
 
 You can also visit my other social pages:
 
-![Alt text](public/researchgate.png)(www.researchgate.net/profile/ricardo-costa-21){width=100}
-![Alt text](public/orcid.png)(https://orcid.org/0000-0002-1904-8317){width=100}
-![Alt text](public/cienciavitae.png)(https://www.cienciavitae.pt/2F14-5623-03EB){width=100}
+<div class="row">
+  <div class="column">
+    <img style="width: 9em; margin-left: 1em; margin-bottom: 2em" src="public/researchgate.png" href="www.researchgate.net/profile/ricardo-costa-21">
+  </div>
+  <div class="column">
+    <img style="width: 9em; margin-left: 1em; margin-bottom: 2em" src="public/orcid.png" href="https://orcid.org/0000-0002-1904-8317">
+  </div>
+  <div class="column">
+    <img style="width: 9em; margin-left: 1em; margin-bottom: 2em" src="public/cienciaid.png" href="https://www.cienciavitae.pt/2F14-5623-03EB">
+  </div>
+</div>
 
 <!-- <div class="posts">
   {% for post in paginator.posts %}

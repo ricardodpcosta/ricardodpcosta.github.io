@@ -5,8 +5,8 @@ title: About me
 
 ### _Welcome to my personal page!_
 
-</br>
-</br>
+&nbsp;
+&nbsp;
 
 <img style="float: right; width: 9em; margin-left: 1em; margin-bottom: 2em" src="public/photo.jpg">
 

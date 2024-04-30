@@ -1,31 +1,26 @@
-# requiring the environment of NodeJS 10
-image: node:10
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-# add 'node_modules' to cache for speeding up builds
-cache:
-  paths:
-    - node_modules/ # Node modules and dependencies
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-before_script:
-  - npm install gitbook-cli -g # install gitbook
-  - gitbook fetch 3.2.3 # fetch final stable version
-  - gitbook install # add any requested plugins in book.json
+# Setup
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
 
-test:
-  stage: test
-  script:
-    - gitbook build . public # build to public path
-  rules:
-    - if: $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH
-    
-# the 'pages' job will deploy and build your site to the 'public' path
-pages:
-  stage: deploy
-  script:
-    - gitbook build . public # build to public path
-  artifacts:
-    paths:
-      - public
-    expire_in: 1 week
-  rules:
-    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde

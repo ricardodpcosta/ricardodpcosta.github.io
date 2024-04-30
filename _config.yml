@@ -9,8 +9,8 @@ highlighter:      pygments
 # Setup
 title:            Ricardo Costa
 tagline:          'Ricardo Costa'
-description:      'Personal page of Ricardo Costa'
-url:              http://ricardodpcost.github.io
+description:      'Personal page'
+url:              http://ricardodpcosta.github.io
 baseurl:          /
 
 author:

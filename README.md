@@ -8,8 +8,4 @@ coverY: 0
 
 Thkdjkdjdk
 
-```xml
-<img style="float: right;" src=
-```
-
 jdkjdkjdkdjkd&#x20;

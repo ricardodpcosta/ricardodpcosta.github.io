@@ -1,6 +1,4 @@
----
-coverY: 0
----
+
 
 # About me
 

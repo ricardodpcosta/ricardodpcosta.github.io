@@ -20,7 +20,7 @@ You can also visit my other social pages:
 
 <div class="row">
   <div class="column">
-    <a href="www.researchgate.net/profile/ricardo-costa-21">
+    <a href="https://www.researchgate.net/profile/ricardo-costa-21">
       <img style="height: 2em; margin-left: 1em; margin-bottom: 2em" src="public/researchgate.png">
     </a>
   </div>

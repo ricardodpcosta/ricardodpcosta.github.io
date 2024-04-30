@@ -14,7 +14,13 @@ I am a post-doc researcher at University of Minho (in the beautiful city of Guim
 
 The research I have been conducting mainly concerns the development of novel numerical methods in **finite volume** and **discontinuous Galerkin** philosophies with high-order of accuracy, focusing on their numerical properties and implementation challenges in high-performance computing platforms as well as their application in the fields of **computational fluid dynamics** and **computational rheology.**
 
+&nbsp;
+&nbsp;
+
 _Here you can find my latest research activity, projects, publications, repositories, and much more!_
+
+&nbsp;
+&nbsp;
 
 You can also visit my other social pages:
 

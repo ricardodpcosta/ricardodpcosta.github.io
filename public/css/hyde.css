@@ -122,8 +122,9 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
+  padding-top: 4rem;
   padding-bottom: 4rem;
+  text-align: justify;
 }
 
 @media (min-width: 48em) {
@@ -131,6 +132,7 @@ a.sidebar-nav-item:focus {
     max-width: 38rem;
     margin-left: 20rem;
     margin-right: 2rem;
+    text-align: justify;
   }
 }
 
@@ -138,6 +140,7 @@ a.sidebar-nav-item:focus {
   .content {
     margin-left: 22rem;
     margin-right: 4rem;
+    text-align: justify;
   }
 }
 

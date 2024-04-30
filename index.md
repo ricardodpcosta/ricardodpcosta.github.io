@@ -3,7 +3,7 @@ layout: home
 title: About me
 ---
 
-<img style="float: right;" src="public/photo.jpg">
+<img style="float: right;" width="150" src="public/photo.jpg">
 
 _Welcome to my personal page!_
 

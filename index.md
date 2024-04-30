@@ -27,7 +27,7 @@ You can also visit my other social pages:
 <div class="row">
   <div class="column">
     <a href="https://www.researchgate.net/profile/ricardo-costa-21">
-      <img style="height: 2em; margin-left: 2em;" src="public/researchgate.png">
+      <img style="height: 2em; margin-left: 4em;" src="public/researchgate.png">
     </a>
   </div>
   <div class="column">

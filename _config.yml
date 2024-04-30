@@ -11,7 +11,7 @@ title:            Ricardo Costa
 tagline:          'Ricardo Costa'
 description:      'Personal page of Ricardo Costa'
 url:              http://ricardodpcost.github.io
-baseurl:          http://ricardodpcost.github.io
+baseurl:          /
 
 author:
   name:           'Mark Otto'

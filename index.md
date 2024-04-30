@@ -10,11 +10,17 @@ title: About me
 
 <img style="float: right; width: 9em; margin-left: 1em; margin-bottom: 2em" src="public/photo.jpg">
 
-I am a post-doc researcher at University of Minho (in the beautiful city of Guimarães, Portugal) and a passionate about applied mathematics and scientific computing.
+I am a post-doc researcher at University of Minho (in the beautiful city of Guimarães, Portugal) and a passionate scientist about applied mathematics and scientific computing.
 
-The research I have been conducting mainly concerns the development of novel numerical methods in **finite volume** and **discontinuous Galerkin philosophy** with high-order of accuracy, focusing on their numerical and implementation challenges in high-performance computing platforms as well as their application in the fields of **computational fluid dynamics** and **computational rheology.**
+The research I have been conducting mainly concerns the development of novel numerical methods in **finite volume** and **discontinuous Galerkin** philosophies with high-order of accuracy, focusing on their numerical properties and implementation challenges in high-performance computing platforms as well as their application in the fields of **computational fluid dynamics** and **computational rheology.**
 
 _Here you can find my latest research activity, projects, publications, repositories, and much more!_
+
+You can also visit my other social pages:
+
+![Alt text](public/researchgate.png)(www.researchgate.net/profile/ricardo-costa-21){width=100}
+![Alt text](public/orcid.png)(https://orcid.org/0000-0002-1904-8317){width=100}
+![Alt text](public/cienciavitae.png)(https://www.cienciavitae.pt/2F14-5623-03EB){width=100}
 
 <!-- <div class="posts">
   {% for post in paginator.posts %}

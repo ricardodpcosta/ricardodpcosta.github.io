@@ -260,26 +260,12 @@ a.sidebar-nav-item:focus {
   box-sizing: border-box;
 }
 
-.row {
-  display: flex;
+.column {
+    float: left;
 }
 
-.columnn {
-  flex: 50%;
-  padding: 5px;
-}
-
-.columnnn {
-  flex: 33.33%;
-  padding: 5px;
-}
-
-.column4 {
-  flex: 25%;
-  padding: 5px;
-}
-
-.column5 {
-  flex: 20%;
-  padding: 5px;
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }

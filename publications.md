@@ -94,7 +94,7 @@ In: B. Murgante et al. (eds.), Computational Science and Its Applications — IC
 **Lecture Notes in Computer Science** 8579, 87-102, Springer, 2014.\
 DOI: [https://doi.org/10.1007/978-3-319-09144-0_7](https://doi.org/10.1007/978-3-319-09144-0_7).
 
-### Dissertations and Theses (2)
+### Dissertations and theses (2)
 
 <p style="margin-bottom: 1cm;"></p>
 

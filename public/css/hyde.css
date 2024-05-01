@@ -263,25 +263,25 @@ a.sidebar-nav-item:focus {
 .column-2 {
   float: center;
   width: 45%;
-  padding: 5px;
+  padding: 0px;
 }
 
 .column-3 {
   float: center;
   width: 30%;
-  padding: 5px;
+  padding: 0px;
 }
 
 .column-4 {
   float: center;
   width: 22.5%;
-  padding: 5px;
+  padding: 0px;
 }
 
 .column-5 {
   float: center;
   width: 18%;
-  padding: 5px;
+  padding: 0px;
 }
 
 /* Clearfix (clear floats) */

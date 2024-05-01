@@ -121,8 +121,7 @@ Available [here](https://www.ubi.pt/Ficheiros/Paginas/684/Proceedings.pdf).
 
 1. **R. Costa**, S. Teixeira, and I. Loureiro,\
 <span style="color:blue">_Numerical modeling of the physical parameters of the environment in industrial contexts_</span>,\
-Pedro M. Arezes et al. (Eds.),\
-Proceedings of the SHO 2016, **International Symposium on Occupational Safety and Hygiene**,\
+Pedro M. Arezes et al. (Eds.), Proceedings of the SHO 2016, **International Symposium on Occupational Safety and Hygiene**,\
 March 23-24, 2016, Guimarães, Portugal,\
 **Occupational Safety and Hygiene IV**, 281-285, CRC Press, 2016.\
 Available [here](http://doi.org/10.1201/B21172-56).

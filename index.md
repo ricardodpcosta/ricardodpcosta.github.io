@@ -19,8 +19,10 @@ _Here you can find my latest research activity, projects, publications, reposito
 
 <br>
 
-<font size="4">  
-You can also visit my other social pages:
+<p style="margin-bottom: 1cm;">
+  <font size="4">
+    You can also visit my other social pages:
+  </p>
 </font>
 
 <div class="row">

@@ -3,49 +3,50 @@ layout: page
 title: Publications
 ---
 
+# Published
 
-J. Castro, J.M. N'obrega, and **R. Costa**,
+J. Castro, J.M. Nóbrega, and **R. Costa**,
 _Computational framework to model the selective laser sintering process_,
 **Materials** 17(8), 1845, 2024. DOI: [https://doi.org/10.3390/ma17081845](https://doi.org/10.3390/ma17081845).
 
 
-**R. Costa**, S. Clain, G.J. Machado, J.M. N\'obrega, H. Beir\~ao da Veiga, and F. Crispo,
+**R. Costa**, S. Clain, G.J. Machado, J.M. Nóbrega, H. Beirão da Veiga, and F. Crispo,
 _Imposing general slip conditions on curved boundaries for 3D incompressible flows with a very high-order accurate finite volume scheme on polygonal meshes_,
 **Computer Methods in Applied Mechanics and Engineering** 415, 116274, 2023. DOI: [https://doi.org/10.1016/j.cma.2023.116274](https://doi.org/10.1016/j.cma.2023.116274).
 
 
-J. Castro, J.M. N\'obrega, and **R. Costa**,
+J. Castro, J.M. Nóbrega, and **R. Costa**,
 Computational modelling of the selective laser sintering process,
 **AIP Conference Proceedings** 2997(1), 050001, AIP Publishing, 2023. DOI: [https://doi.org/10.1063/5.0159825](https://doi.org/10.1063/5.0159825).
 
 
-B. Ram\^oa, **R. Costa**, F. Chinesta, and J.M. N\'obrega,
+B. Ram\^oa, **R. Costa**, F. Chinesta, and J.M. Nóbrega,
 _A semi-automatic approach based on the method of manufactured solutions to assess the convergence order in OpenFOAM_,
 **OpenFOAM Journal** 2, 148-165, 2022. DOI: [https://doi.org/10.51560/ofj.v2.75](https://doi.org/10.51560/ofj.v2.75).
 
 
-**R. Costa**, S. Clain, G.J. Machado, and J.M. N\'obrega,
+**R. Costa**, S. Clain, G.J. Machado, and J.M. Nóbrega,
 _Very high-order accurate finite volume method for the steady-state incompressible Navier-Stokes equations with polygonal meshes on arbitrary curved boundaries_,
 **Computer Methods in Applied Mechanics and Engineering** 396, 115064, 2022. DOI: [https://doi.org/10.1016/j.cma.2022.115064](https://doi.org/10.1016/j.cma.2022.115064).
 
-**R. Costa**, J.M. N\'obrega, S. Clain, and G.J. Machado,
+**R. Costa**, J.M. Nóbrega, S. Clain, and G.J. Machado,
 _High-order accurate conjugate heat transfer solutions with a finite volume method in anisotropic meshes with application in polymer processing_,
 **International Journal for Numerical Methods in Engineering** 123(4), 1146-1185, 2022. DOI: [https://doi.org/10.1002/nme.6892](https://doi.org/10.1002/nme.6892).
 
-**R. Costa**, J.M. N\'obrega, S. Clain, and G.J. Machado,
+**R. Costa**, J.M. Nóbrega, S. Clain, and G.J. Machado,
 _Efficient very high-order accurate polyhedral mesh finite volume scheme for 3D conjugate heat transfer problems in curved domains_,
 **Journal of Computational Physics**, 445, 110604, 2021. DOI: [https://doi.org/10.1016/j.jcp.2021.110604](https://doi.org/10.1016/j.jcp.2021.110604).
 
-**R. Costa**, J.M. N\'obrega, S. Clain, and G.J. Machado,
+**R. Costa**, J.M. Nóbrega, S. Clain, and G.J. Machado,
 _Very high-order accurate polygonal mesh finite volume scheme for conjugate heat transfer problems with curved interfaces and imperfect contacts_,
 **Computer Methods in Applied Mechanics and Engineering** 357, 112560, 2019. DOI: [https://doi.org/10.1016/j.cma.2019.07.029](https://doi.org/10.1016/j.cma.2019.07.029).
 
-**R. Costa**, J.M. N\'obrega, S. Clain, G.J. Machado, and R. Loub\`ere,
+**R. Costa**, J.M. Nóbrega, S. Clain, G.J. Machado, and R. Loubère,
 _Very high-order accurate finite volume scheme for the convection-diffusion equation with general boundary conditions on arbitrary curved domains_,
 **International Journal for Numerical Methods in Engineering** 117(2), 188-220, 2019. DOI: [https://doi.org/10.1002/nme.5953](https://doi.org/10.1002/nme.5953).
 
 
-**R. Costa**, S. Clain, R. Loub\`ere, and G.J. Machado,
+**R. Costa**, S. Clain, R. Loubère, and G.J. Machado,
 _Very high-order accurate finite volume scheme on curved boundaries for the two-dimensional steady-state convection-diffusion equation with Dirichlet condition_,
 **Applied Mathematical Modelling** 54, 752-767, 2018. DOI: [https://doi.org/10.1016/j.apm.2017.10.016](https://doi.org/10.1016/j.apm.2017.10.016).
 
@@ -55,7 +56,7 @@ _A sixth-order finite volume method for the steady-state incompressible Stokes e
 **Journal of Computational Physics** 349, 501-527, 2017. DOI: [https://doi.org/10.1016/j.jcp.2017.07.047](https://doi.org/10.1016/j.jcp.2017.07.047).
 
 
-**R. Costa**, S. Clain, G.J. Machado, and R. Loub\`ere,
+**R. Costa**, S. Clain, G.J. Machado, and R. Loubère,
 _A very-high order accurate staggered finite volume scheme for the stationary incompressible Navier-Stokes and Euler equations on unstructured meshes_,
 **Journal of Scientific Computing** 71, 1375-1411, 2017. DOI: [https://doi.org/10.1007/s10915-016-0348-9](https://doi.org/10.1007/s10915-016-0348-9).
 

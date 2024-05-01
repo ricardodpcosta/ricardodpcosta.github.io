@@ -11,19 +11,31 @@ The FVLib code is a library of advanced computational algorithms and numerical m
 
 These are the main capabilities of the FVLib code:
 
-### <span style="color:blue">**Modern object-oriented Fortran (2003/2008 standards)**</span>
+<span style="color:blue">**Modern object-oriented Fortran (2003/2008 standards)**</span>
 
-The FVLib code is programmed in modern Fortran (2003/2008 standards) with an object oriented paradigm for better code reuse and maintenance. Its architecture is organised in three levels:
+The FVLib code is programmed in modern Fortran (2003/2008 standards) with an object-oriented paradigm for better code reuse and maintenance. Its architecture is organised in three levels:
 
-- **core level**, the general-purpose functions and routines (linear algebra algorithms, IO handlers, mesh handlers, field handlers, etc.)
-- **applications level**, the specific model solvers as well as pre- and post-processing tools
-- **case level**, the parameters files and scripts setup.
+- **core level**: the linear algebra algorithms, IO handlers, mesh handlers, field handlers, etc.
+- **apps level**: the specific model solvers as well as pre-processing and post-processing tools
+- **case level**: the geometry files, mesh files, parameters files and scripts setup
 
-#### <span style="color:blue">**Very high-order accuracy in space and time**</span>
+<span style="color:blue">**Very high-order accuracy in space and time**</span>
 
-- *High-scalability with multi-threading execution* - to take advantage of modern HPC systems
-- *Unstructured meshes with general element shapes* - for complex geometries in real applications
-- *Very high-order of convergence both in space and time* - for highly-accurate and reliable solutions
+The discretisation methods implemented in the FVLib code are highly accurate in space and time, effectively achieving up to the eighth-order of convergence. Comprehensive benchmarking proves that high-order accurate schemes benefit from a better trade-off between accuracy and efficiency than the counterpart lower-order accurate ones. Hence, this property can be exploited in two different ways:
+
+- **Improving accuracy**: for the same discrete geometrical representation level, high-order accurate schemes provide _significantly more accurate solutions_ than those obtained with the traditional first- and second-order accurate schemes.
+
+- **Enhancing efficiency**: for the same approximate solution accuracy level, high-order accurate schemes provide _significantly more efficient computations_ than those of the traditional first- and second-order accurate schemes.
+
+
+<span style="color:blue">**High-scalability with multi-threading execution**</span>
+
+- to take advantage of modern HPC systems
+
+<span style="color:blue">**Unstructured meshes with general element shapes**</span>
+
+- for complex geometries in real applications
+
 
 Currently, the following problems can be solved in the FVLib code:
 

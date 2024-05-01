@@ -92,32 +92,31 @@ DOI: [https://doi.org/10.1007/978-3-319-09144-0_7](https://doi.org/10.1007/978-3
 
 <p style="margin-bottom: 1cm;"></p>
 
-
-**_R. Costa_**, S. Teixeira, and I. Loureiro,
+1. **_R. Costa_**, S. Teixeira, and I. Loureiro,
 _Numerical assessment of thermal environments for decision-making in industrial engineering and management_,
-Proceedings of the ENEGI 2016 — Encontro Nacional de Engenharia e Gestão Industrial,
+Proceedings of the ENEGI 2016, **Encontro Nacional de Engenharia e Gestão Industrial**,
 November 17-18, 2016, Covilhã, Portugal,
 28-29, ENEGI UBI, 2016.
 Proceeding available [here](https://www.ubi.pt/Ficheiros/Paginas/684/Proceedings.pdf).
 
-**_R. Costa_**, S. Teixeira, and I. Loureiro,
+1. **_R. Costa_**, S. Teixeira, and I. Loureiro,
 _Numerical modeling of the physical parameters of the environment in industrial contexts_,
 Pedro M. Arezes et al. (Eds.),
-Proceedings of the SHO 2016, International Symposium on Occupational Safety and Hygiene,
+Proceedings of the SHO 2016, **International Symposium on Occupational Safety and Hygiene**,
 March 23-24, 2016, Guimarães, Portugal,
-\textbf{Occupational Safety and Hygiene IV}, 281-285, CRC Press, 2016.
+**Occupational Safety and Hygiene IV**, 281-285, CRC Press, 2016.
 Proceeding available [here](http://doi.org/10.1201/B21172-56).
 
-**_R. Costa_**, S. Clain, and G.J. Machado,
+1. **_R. Costa_**, S. Clain, and G.J. Machado,
 _6-th order finite volume approximations for the Stokes equations with a curved boundary_,
-Proceedings of the SYMCOMP 2015, 2nd International Conference on Numerical and Symbolic Computation: Developments and Applications,
+Proceedings of the SYMCOMP 2015, **2nd International Conference on Numerical and Symbolic Computation: Developments and Applications**,
 March 26-27, 2015, Faro, Portugal,
 365-382, APMTAC, 2015.
 Proceeding available [here](http://repositorium.sdum.uminho.pt/handle/1822/35092).
 
-**_R. Costa_**, S. Clain, and G.J. Machado,
+1. **_R. Costa_**, S. Clain, and G.J. Machado,
 _Bending of a beam with finite volume schemes_,
-Proceedings of the SYMCOMP 2013, International Conference on Algebraic and Symbolic Computation,
+Proceedings of the SYMCOMP 2013, **International Conference on Algebraic and Symbolic Computation**,
 September 9-10, 2013, Lisbon, Portugal,
 207-218, APMTAC, 2014.
 Proceeding available [here](http://repositorium.sdum.uminho.pt/handle/1822/27452).

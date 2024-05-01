@@ -11,6 +11,8 @@ The FVLib code is a library of advanced computational algorithms and numerical m
 
 These are the main capabilities of the FVLib code:
 
+---
+
 #### **Modern object-oriented Fortran (2003/2008 standards)**
 
 The FVLib code is programmed in modern Fortran (2003/2008 standards) with an object-oriented paradigm for better code reuse and maintenance. Its architecture is organised in three levels:
@@ -18,6 +20,8 @@ The FVLib code is programmed in modern Fortran (2003/2008 standards) with an obj
 - **core level**: linear algebra algorithms, input/output, mesh and field handlers, etc.
 - **apps level**: specific model solvers, pre-processing, and post-processing tools.
 - **case level**: geometry files, mesh files, parameters files and scripts setup.
+
+<img style="width: 80%; display: block; margin-left: auto; margin-right: auto;" src="public/code.png">
 
 ---
 

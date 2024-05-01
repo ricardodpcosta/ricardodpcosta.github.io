@@ -250,8 +250,7 @@ a.sidebar-nav-item:focus {
 }
 
 .column {
-  float: left;
-  width: 33.33%;
+  float: center;
   padding: 5px;
 }
 

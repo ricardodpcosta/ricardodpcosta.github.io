@@ -269,7 +269,7 @@ a.sidebar-nav-item:focus {
   padding: 5px;
 }
 
-.column3 {
+.column {
   flex: 33.33%;
   padding: 5px;
 }

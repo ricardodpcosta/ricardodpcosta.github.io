@@ -21,9 +21,9 @@ The FVLib code is programmed in modern Fortran (2003/2008 standards) with an obj
 - **apps level**: specific model solvers, pre-processing, and post-processing tools.
 - **case level**: geometry files, mesh files, parameters files and scripts setup.
 
-<p style="margin-bottom: 0.5cm;"></p>
+<p style="margin-bottom: 1cm;"></p>
 
-<img style="width: 100%; display: block; margin-left: auto; margin-right: auto;" src="public/code.png">
+<img style="width: 90%; display: block; margin-left: auto; margin-right: auto;" src="public/code.png">
 
 ---
 
@@ -35,7 +35,7 @@ The discretisation methods implemented in the FVLib code are highly accurate in 
 
 - **Enhancing efficiency**: for the same approximate solution accuracy level, high-order accurate schemes provide <span style="color:blue">_significantly more efficient computations_</span> (execution time) than those of the traditional first- and second-order accurate schemes.
 
-<p style="margin-bottom: 0.5cm;"></p>
+<p style="margin-bottom: 1cm;"></p>
 
 <div class="row">
   <div class="column" style="width: 50%;">

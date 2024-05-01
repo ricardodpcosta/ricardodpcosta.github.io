@@ -60,12 +60,14 @@ Complex geometries arise in many problems of physics and engineering application
 
 <div class="row">
   <div class="column" style="width: 50%;">
-    <img style="width: 80%; display: block; margin-left: auto; margin-right: auto;" src="public/geometry.png">
+    <img style="width: 70%; display: block; margin-left: auto; margin-right: auto;" src="public/geometry.png">
   </div>
   <div class="column" style="width: 50%;">
-    <img style="width: 80%; display: block; margin-left: auto; margin-right: auto;" src="public/mesh.png">
+    <img style="width: 70%; display: block; margin-left: auto; margin-right: auto;" src="public/mesh.png">
   </div>
 </div>
+
+<p style="margin-bottom: 1cm;"></p>
 
 - The FVLib code is fully compatible with [Gmsh](https://gmsh.info/), an <span style="color:blue">_open source 3D mesh generator with built-in pre- and post-processing facilities_</span>, designed to provide a fast, light and user-friendly meshing tool with parametric input and flexible visualisation capabilities.
 

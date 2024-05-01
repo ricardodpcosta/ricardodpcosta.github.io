@@ -260,6 +260,20 @@ a.sidebar-nav-item:focus {
   box-sizing: border-box;
 }
 
+
+
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+
+
 .column-2 {
   float: center;
   width: 45%;
@@ -282,11 +296,4 @@ a.sidebar-nav-item:focus {
   float: center;
   width: 18%;
   padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
 }

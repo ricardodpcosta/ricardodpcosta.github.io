@@ -4,7 +4,7 @@ title: Publications
 ---
 
 <div class="message">
-  Incomplete list. Please refer to the <i>Curriculum Vitae</i>.
+  List of the most relevant publications. Please refer to the <i>Curriculum Vitae</i> for a complete list.
 </div>
 
 ### Peer-reviewed publications in international journals (16)
@@ -105,7 +105,7 @@ Available [here](https://repositorium.sdum.uminho.pt/handle/1822/77102).
 
 1. **R. Costa**,\
 <span style="color:blue">_Numerical modeling and assessment of the thermal environment in an industrial premise of automotive components_</span>,\
-(Master's thesis), University of Minho, Guimarães, Portugal, 2015.\
+(Master's dissertation), University of Minho, Guimarães, Portugal, 2015.\
 Available [here](http://repositorium.sdum.uminho.pt/handle/1822/39251).
 
 <p style="margin-bottom: 2cm;"></p>

@@ -22,23 +22,29 @@ _Here you can find my latest research activity, projects, publications, reposito
 <p style="margin-bottom: 1cm;">
   <font size="4">
     You can also visit my other social pages:
-  </p>
-</font>
+  </font>
+</p>
 
 <div class="row">
   <div class="column-3">
     <a href="https://www.researchgate.net/profile/ricardo-costa-21">
-      <img style="width: 50%;" src="public/researchgate.png">
+      <img style="width: 50%; display: block;
+  margin-left: auto;
+  margin-right: auto;" src="public/researchgate.png">
     </a>
   </div>
   <div class="column-3">
     <a href="https://orcid.org/0000-0002-1904-8317">
-      <img style="width: 50%;" src="public/orcid.png">
+      <img style="width: 50%; display: block;
+  margin-left: auto;
+  margin-right: auto;" src="public/orcid.png">
     </a>
   </div>
   <div class="column-3">
     <a href="https://www.cienciavitae.pt/2F14-5623-03EB">
-      <img style="width: 50%;" src="public/cienciaid.png">
+      <img style="width: 50%; display: block;
+  margin-left: auto;
+  margin-right: auto;" src="public/cienciaid.png">
     </a>
   </div>
 </div>

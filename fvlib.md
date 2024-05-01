@@ -11,7 +11,7 @@ The FVLib code is a library of advanced computational algorithms and numerical m
 
 These are the main capabilities of the FVLib code:
 
-#### $$\diamond$$ **Modern object-oriented Fortran (2003/2008 standards)**
+#### **Modern object-oriented Fortran (2003/2008 standards)**
 
 The FVLib code is programmed in modern Fortran (2003/2008 standards) with an object-oriented paradigm for better code reuse and maintenance. Its architecture is organised in three levels:
 
@@ -19,13 +19,15 @@ The FVLib code is programmed in modern Fortran (2003/2008 standards) with an obj
 - **apps level**: specific model solvers, pre-processing, and post-processing tools.
 - **case level**: geometry files, mesh files, parameters files and scripts setup.
 
+---
+
 #### **Very high-order accuracy in space and time**
 
 The discretisation methods implemented in the FVLib code are highly accurate in space and time, effectively achieving up to the eighth-order of convergence. Comprehensive benchmarking proves that high-order accurate schemes benefit from a better trade-off between accuracy and efficiency than the counterpart lower-order accurate ones. Hence, this property can be exploited in two different ways:
 
-- **Improving accuracy**: for the same discrete geometrical representation level, high-order accurate schemes provide <span style="color:blue">_significantly more accurate solutions_</span> than those obtained with the traditional first- and second-order accurate schemes.
+- **Improving accuracy**: for the same discrete geometrical representation level (number of degrees of freedom), high-order accurate schemes provide <span style="color:blue">_significantly more accurate solutions_</span> than those obtained with the traditional first- and second-order accurate schemes.
 
-- **Enhancing efficiency**: for the same approximate solution accuracy level, high-order accurate schemes provide <span style="color:blue">_significantly more efficient computations_</span> than those of the traditional first- and second-order accurate schemes.
+- **Enhancing efficiency**: for the same approximate solution accuracy level, high-order accurate schemes provide <span style="color:blue">_significantly more efficient computations_</span> (execution time) than those of the traditional first- and second-order accurate schemes.
 
 <div class="row">
   <div class="column" style="width: 50%;">
@@ -36,9 +38,13 @@ The discretisation methods implemented in the FVLib code are highly accurate in 
   </div>
 </div>
 
+---
+
 #### **Unstructured meshes with general element shapes**
 
 - for complex geometries in real applications
+
+---
 
 #### **Arbitrary curved domains with piecewise linear meshes**
 

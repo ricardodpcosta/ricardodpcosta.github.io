@@ -43,6 +43,12 @@ _Here you can find my latest research activity, projects, publications, reposito
   </div>
 </div>
 
+
+![placeholder](public/researchgate.png "Small example image")
+![placeholder](public/researchgate.png "Small example image")
+![placeholder](public/researchgate.png "Small example image")
+
+
 <!-- <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">

@@ -262,25 +262,25 @@ a.sidebar-nav-item:focus {
 
 .column-2 {
   float: left;
-  width: 50%;
+  width: 45%;
   padding: 5px;
 }
 
 .column-3 {
   float: left;
-  width: 33.33%;
+  width: 30%;
   padding: 5px;
 }
 
 .column-4 {
   float: left;
-  width: 25%;
+  width: 22.5%;
   padding: 5px;
 }
 
 .column-5 {
   float: left;
-  width: 20%;
+  width: 15%;
   padding: 5px;
 }
 

@@ -20,7 +20,7 @@ _Here you can find my latest research activity, projects, publications, reposito
 <br>
 
 <p style="margin-bottom: 1cm;">
-  <font size="4">
+  <font size="smaller">
     Check out my other social pages:
   </font>
 </p>

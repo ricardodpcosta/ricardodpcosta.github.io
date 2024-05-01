@@ -90,6 +90,22 @@ In: B. Murgante et al. (eds.), Computational Science and Its Applications — IC
 
 <p style="margin-bottom: 2cm;"></p>
 
+### Dissertations and Theses (2)
+
+<p style="margin-bottom: 1cm;"></p>
+
+1. **R. Costa**,\
+<span style="color:blue">_Advanced computational methods towards high-performance polymer processing simulations} (Doctoral thesis)_</span>,\
+University of Minho, Guimar\~aes, Portugal, 2020.\
+<span style="font-size:smaller">Proceeding available [here](https://repositorium.sdum.uminho.pt/handle/1822/77102).</span>
+
+1. **R. Costa**,\
+<span style="color:blue">_Numerical modeling and assessment of the thermal environment in an industrial premise of automotive components} (Master's thesis)_</span>,\
+University of Minho, Guimar\~aes, Portugal, 2015.
+<span style="font-size:smaller">Proceeding available [here](http://repositorium.sdum.uminho.pt/handle/1822/39251).</span>
+
+<p style="margin-bottom: 2cm;"></p>
+
 ### Peer-reviewed publications in international conferences (4)
 
 <p style="margin-bottom: 1cm;"></p>

@@ -92,8 +92,6 @@ In: B. Murgante et al. (eds.), Computational Science and Its Applications — IC
 **Lecture Notes in Computer Science** 8579, 87-102, Springer, 2014.\
 DOI: [https://doi.org/10.1007/978-3-319-09144-0_7](https://doi.org/10.1007/978-3-319-09144-0_7).
 
-<p style="margin-bottom: 2cm;"></p>
-
 ### Dissertations and Theses (2)
 
 <p style="margin-bottom: 1cm;"></p>
@@ -107,8 +105,6 @@ Available [here](https://repositorium.sdum.uminho.pt/handle/1822/77102).
 <span style="color:blue">_Numerical modeling and assessment of the thermal environment in an industrial premise of automotive components_</span>,\
 (Master's dissertation), University of Minho, Guimarães, Portugal, 2015.\
 Available [here](http://repositorium.sdum.uminho.pt/handle/1822/39251).
-
-<p style="margin-bottom: 2cm;"></p>
 
 ### Peer-reviewed publications in international conferences (4)
 

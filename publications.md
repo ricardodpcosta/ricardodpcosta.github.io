@@ -95,14 +95,14 @@ DOI: [https://doi.org/10.1007/978-3-319-09144-0_7](https://doi.org/10.1007/978-3
 <p style="margin-bottom: 1cm;"></p>
 
 1. **R. Costa**,\
-<span style="color:blue">_Advanced computational methods towards high-performance polymer processing simulations} (Doctoral thesis)_</span>,\
-University of Minho, Guimarães, Portugal, 2020.\
-Proceeding available [here](https://repositorium.sdum.uminho.pt/handle/1822/77102).
+<span style="color:blue">_Advanced computational methods towards high-performance polymer processing simulations_</span>,\
+(Doctoral thesis), University of Minho, Guimarães, Portugal, 2020.\
+Available [here](https://repositorium.sdum.uminho.pt/handle/1822/77102).
 
 1. **R. Costa**,\
-<span style="color:blue">_Numerical modeling and assessment of the thermal environment in an industrial premise of automotive components} (Master's thesis)_</span>,\
-University of Minho, Guimarães, Portugal, 2015.\
-Proceeding available [here](http://repositorium.sdum.uminho.pt/handle/1822/39251).
+<span style="color:blue">_Numerical modeling and assessment of the thermal environment in an industrial premise of automotive components_</span>,\
+(Master's thesis), University of Minho, Guimarães, Portugal, 2015.\
+Available [here](http://repositorium.sdum.uminho.pt/handle/1822/39251).
 
 <p style="margin-bottom: 2cm;"></p>
 
@@ -115,7 +115,7 @@ Proceeding available [here](http://repositorium.sdum.uminho.pt/handle/1822/39251
 Proceedings of the ENEGI 2016, **Encontro Nacional de Engenharia e Gestão Industrial**,\
 November 17-18, 2016, Covilhã, Portugal,\
 28-29, ENEGI UBI, 2016.\
-Proceeding available [here](https://www.ubi.pt/Ficheiros/Paginas/684/Proceedings.pdf).
+Available [here](https://www.ubi.pt/Ficheiros/Paginas/684/Proceedings.pdf).
 
 1. **R. Costa**, S. Teixeira, and I. Loureiro,\
 <span style="color:blue">_Numerical modeling of the physical parameters of the environment in industrial contexts_</span>,\
@@ -123,18 +123,18 @@ Pedro M. Arezes et al. (Eds.),\
 Proceedings of the SHO 2016, **International Symposium on Occupational Safety and Hygiene**,\
 March 23-24, 2016, Guimarães, Portugal,\
 **Occupational Safety and Hygiene IV**, 281-285, CRC Press, 2016.\
-Proceeding available [here](http://doi.org/10.1201/B21172-56).
+Available [here](http://doi.org/10.1201/B21172-56).
 
 1. **R. Costa**, S. Clain, and G.J. Machado,\
 <span style="color:blue">_6-th order finite volume approximations for the Stokes equations with a curved boundary_</span>,\
 Proceedings of the SYMCOMP 2015, **2nd International Conference on Numerical and Symbolic Computation: Developments and Applications**,\
 March 26-27, 2015, Faro, Portugal,\
 365-382, APMTAC, 2015.\
-Proceeding available [here](http://repositorium.sdum.uminho.pt/handle/1822/35092).
+Available [here](http://repositorium.sdum.uminho.pt/handle/1822/35092).
 
 1. **R. Costa**, S. Clain, and G.J. Machado,\
 <span style="color:blue">_Bending of a beam with finite volume schemes_</span>,\
 Proceedings of the SYMCOMP 2013, **International Conference on Algebraic and Symbolic Computation**,\
 September 9-10, 2013, Lisbon, Portugal,\
 207-218, APMTAC, 2014.\
-Proceeding available [here](http://repositorium.sdum.uminho.pt/handle/1822/27452).
+Available [here](http://repositorium.sdum.uminho.pt/handle/1822/27452).

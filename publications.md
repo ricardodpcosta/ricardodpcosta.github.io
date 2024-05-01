@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+<div class="message">
+  Incomplete list. Please refer to the <i>Curriculum Vitae</i>.
+</div>
+
 ### Peer-reviewed publications in international journals (16)
 
 <p style="margin-bottom: 1cm;"></p>

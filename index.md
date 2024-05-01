@@ -21,14 +21,14 @@ _Here you can find my latest research activity, projects, publications, reposito
 
 <p style="margin-bottom: 1cm;">
   <font size="4">
-    You can also visit my other social pages:
+    Check out my other social pages:
   </font>
 </p>
 
 <div class="row">
   <div class="column-3">
     <a href="https://www.researchgate.net/profile/ricardo-costa-21">
-      <img style="height: 2.5em; display: block; margin-left: 2cm; margin-right: auto;" src="public/researchgate.png">
+      <img style="height: 2.5em; display: block; margin-left: auto; margin-right: auto;" src="public/researchgate.png">
     </a>
   </div>
   <div class="column-3">

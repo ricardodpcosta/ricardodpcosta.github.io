@@ -256,6 +256,10 @@ a.sidebar-nav-item:focus {
 }
 
 /* Tabulars */
+* {
+  box-sizing: border-box;
+}
+
 .column-2 {
   float: left;
   width: 50%;

@@ -11,15 +11,15 @@ The FVLib code is a library of advanced computational algorithms and numerical m
 
 These are the main capabilities of the FVLib code:
 
-<span style="color:blue">**Modern object-oriented Fortran (2003/2008 standards)**</span>
+<p style="color:blue">**Modern object-oriented Fortran (2003/2008 standards)**</p>
 
 The FVLib code is programmed in modern Fortran (2003/2008 standards) with an object-oriented paradigm for better code reuse and maintenance. Its architecture is organised in three levels:
 
-- **core level**: the linear algebra algorithms, IO handlers, mesh handlers, field handlers, etc.
-- **apps level**: the specific model solvers as well as pre-processing and post-processing tools
-- **case level**: the geometry files, mesh files, parameters files and scripts setup
+- **core level**: linear algebra algorithms, input/output, mesh and field handlers, etc.
+- **apps level**: specific model solvers, pre-processing, and post-processing tools.
+- **case level**: geometry files, mesh files, parameters files and scripts setup.
 
-<span style="color:blue">**Very high-order accuracy in space and time**</span>
+<p style="color:blue">**Very high-order accuracy in space and time**</p>
 
 The discretisation methods implemented in the FVLib code are highly accurate in space and time, effectively achieving up to the eighth-order of convergence. Comprehensive benchmarking proves that high-order accurate schemes benefit from a better trade-off between accuracy and efficiency than the counterpart lower-order accurate ones. Hence, this property can be exploited in two different ways:
 

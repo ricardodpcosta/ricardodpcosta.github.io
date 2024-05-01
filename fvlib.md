@@ -52,7 +52,9 @@ The discretisation methods implemented in the FVLib code are highly accurate in 
 
 #### **Unstructured meshes with general element shapes**
 
-Complex geometries arise in many problems of physics and engineering applications, for which Cartesian grid embedded boundary domain approaches still lack the <span style="color:blue">_flexibility and robustness of domain fitted unstructured mesh approaches_</span>, especially in 3D. The high-order accurate discretisation methods implemented in the FVLib code can handle 2D and 3D unstructured meshes with general element shapesfor the most demanding problems with intricate geometries.
+Complex geometries arise in many problems of physics and engineering applications, for which Cartesian grid embedded boundary domain approaches still lack the flexibility and robustness of domain fitted unstructured mesh approaches, especially in 3D.
+
+- The high-order accurate discretisation methods implemented in the FVLib code can handle <span style="color:blue">2D and 3D unstructured meshes with general element shapes_</span> for the most demanding problems with intricate geometries.
 
 <p style="margin-bottom: 1cm;"></p>
 
@@ -65,6 +67,7 @@ Complex geometries arise in many problems of physics and engineering application
   </div>
 </div>
 
+- The FVLib code is fully compatible with [Gmsh](https://gmsh.info/), an open source 3D mesh generator with built-in pre- and post-processing facilities, designed to provide a fast, light and user-friendly meshing tool with parametric input and flexible visualisation capabilities.
 
 <p style="margin-bottom: 1cm;"></p>
 

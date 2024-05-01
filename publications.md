@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-# Published (16)
+### Peer-reviewed publications in international journals (16)
 
 1. J. Castro, J.M. Nóbrega, and **R. Costa**,
 _Computational framework to model the selective laser sintering process_,
@@ -17,7 +17,7 @@ _Imposing general slip conditions on curved boundaries for 3D incompressible flo
 Computational modelling of the selective laser sintering process,
 **AIP Conference Proceedings** 2997(1), 050001, AIP Publishing, 2023. DOI: [https://doi.org/10.1063/5.0159825](https://doi.org/10.1063/5.0159825).
 
-1. B. Ram\^oa, **R. Costa**, F. Chinesta, and J.M. Nóbrega,
+1. B. Ramôa, **R. Costa**, F. Chinesta, and J.M. Nóbrega,
 _A semi-automatic approach based on the method of manufactured solutions to assess the convergence order in OpenFOAM_,
 **OpenFOAM Journal** 2, 148-165, 2022. DOI: [https://doi.org/10.51560/ofj.v2.75](https://doi.org/10.51560/ofj.v2.75).
 
@@ -63,7 +63,7 @@ _Sixth-order finite volume method for the 1D biharmonic operator: application to
 
 1. **R. Costa**, S. Clain, and G.J. Machado,
 _New cell-vertex reconstruction for finite volume scheme: application to the convection-diffusion-reaction equation_,
-**Computers \& Mathematics with Applications** 68, 1229-1249, 2014. DOI: [https://doi.org/10.1016/j.camwa.2014.08.015](https://doi.org/10.1016/j.camwa.2014.08.015).
+**Computers & Mathematics with Applications** 68, 1229-1249, 2014. DOI: [https://doi.org/10.1016/j.camwa.2014.08.015](https://doi.org/10.1016/j.camwa.2014.08.015).
 
 1. **R. Costa**, S. Clain, and G.J. Machado,
 _Finite volume scheme based on cell-vertex reconstructions for anisotropic diffusion problems with discontinuous coefficients_,

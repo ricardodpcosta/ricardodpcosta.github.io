@@ -264,12 +264,12 @@ a.sidebar-nav-item:focus {
   display: flex;
 }
 
-.column2 {
+.columnn {
   flex: 50%;
   padding: 5px;
 }
 
-.column {
+.columnnn {
   flex: 33.33%;
   padding: 5px;
 }

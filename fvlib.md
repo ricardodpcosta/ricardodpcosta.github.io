@@ -3,7 +3,7 @@ layout: page
 title: FVLib code
 ---
 
-### 1. Description
+<p style="margin-bottom: 1cm;"></p>
 
 The FVLib code is a library of advanced computational algorithms and numerical methods to solve partial differential equations (PDEs) within the **finite volume philosophy**. The project aims to deliver **high-accurate**, **high-performance**, and **high-efficient** simulations of a wide range of physics and mechanics problems in relevant industrial, environmental, and biomedical applications.
 
@@ -11,7 +11,7 @@ The FVLib code is a library of advanced computational algorithms and numerical m
 
 These are the main capabilities of the FVLib code:
 
-<p style="color:blue">**Modern object-oriented Fortran (2003/2008 standards)**</p>
+#### **Modern object-oriented Fortran (2003/2008 standards)**
 
 The FVLib code is programmed in modern Fortran (2003/2008 standards) with an object-oriented paradigm for better code reuse and maintenance. Its architecture is organised in three levels:
 
@@ -19,7 +19,7 @@ The FVLib code is programmed in modern Fortran (2003/2008 standards) with an obj
 - **apps level**: specific model solvers, pre-processing, and post-processing tools.
 - **case level**: geometry files, mesh files, parameters files and scripts setup.
 
-<p style="color:blue">**Very high-order accuracy in space and time**</p>
+#### **Very high-order accuracy in space and time**
 
 The discretisation methods implemented in the FVLib code are highly accurate in space and time, effectively achieving up to the eighth-order of convergence. Comprehensive benchmarking proves that high-order accurate schemes benefit from a better trade-off between accuracy and efficiency than the counterpart lower-order accurate ones. Hence, this property can be exploited in two different ways:
 
@@ -27,14 +27,20 @@ The discretisation methods implemented in the FVLib code are highly accurate in 
 
 - **Enhancing efficiency**: for the same approximate solution accuracy level, high-order accurate schemes provide <span style="color:blue">_significantly more efficient computations_</span> than those of the traditional first- and second-order accurate schemes.
 
-
-<span style="color:blue">**High-scalability with multi-threading execution**</span>
-
-- to take advantage of modern HPC systems
-
-<span style="color:blue">**Unstructured meshes with general element shapes**</span>
+#### **Unstructured meshes with general element shapes**
 
 - for complex geometries in real applications
+
+#### **Arbitrary curved domains with piecewise linear meshes**
+
+- for complex geometries in real applications
+
+
+#### **Parallel computing for HPC environments**
+
+The FVLib code  take advantage of modern HPC systems
+
+
 
 
 Currently, the following problems can be solved in the FVLib code:

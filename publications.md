@@ -3,8 +3,10 @@ layout: page
 title: Publications
 ---
 
+<p style="margin-bottom: 1cm;"></p>
+
 <div class="message">
-  List of the most relevant publications. Please refer to the <i>Curriculum Vitae</i> for a complete list.
+  List of the most relevant publications only. Please refer to the <i>Curriculum Vitae</i> for a complete list.
 </div>
 
 ### Peer-reviewed publications in international journals (16)

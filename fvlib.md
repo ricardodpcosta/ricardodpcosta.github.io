@@ -70,10 +70,10 @@ Complex geometries arise in many problems of physics and engineering application
 
 <div class="row">
   <div class="column" style="width: 50%;">
-    <img style="width: 80%; display: block; margin-left: auto; margin-right: auto;" src="public/gmsh1.png">
+    <img style="width: 95%; display: block; margin-left: auto; margin-right: auto;" src="public/gmsh1.png">
   </div>
   <div class="column" style="width: 50%;">
-    <img style="width: 80%; display: block; margin-left: auto; margin-right: auto;" src="public/gmsh2.png">
+    <img style="width: 95%; display: block; margin-left: auto; margin-right: auto;" src="public/gmsh2.png">
   </div>
 </div>
 

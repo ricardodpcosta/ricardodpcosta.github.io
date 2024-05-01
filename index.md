@@ -13,11 +13,11 @@ I am a post-doc researcher at University of Minho (in the beautiful city of Guim
 
 The research I have been conducting mainly concerns the development of novel numerical methods in **finite volume** and **discontinuous Galerkin** philosophies with high-order of accuracy, focusing on their numerical properties and implementation challenges in high-performance computing platforms as well as their application in the fields of **computational fluid dynamics** and **computational rheology.**
 
-&nbsp;
+<br>
 
 _Here you can find my latest research activity, projects, publications, repositories, and much more!_
 
-&nbsp;
+<br>
 
 <font size="4">  
 You can also visit my other social pages:
@@ -26,17 +26,17 @@ You can also visit my other social pages:
 <div class="row">
   <div class="column-3">
     <a href="https://www.researchgate.net/profile/ricardo-costa-21">
-      <img style="height: 2em; margin-left: 1em;" src="public/researchgate.png">
+      <img style="height: 2em; margin-left: 2em;" src="public/researchgate.png">
     </a>
   </div>
   <div class="column-3">
     <a href="https://orcid.org/0000-0002-1904-8317">
-      <img style="height: 2em; margin-left: 1em;" src="public/orcid.png">
+      <img style="height: 2em; margin-left: 2em;" src="public/orcid.png">
     </a>
   </div>
   <div class="column-3">
     <a href="https://www.cienciavitae.pt/2F14-5623-03EB">
-      <img style="height: 2em; margin-left: 1em;" src="public/cienciaid.png">
+      <img style="height: 2em; margin-left: 2em;" src="public/cienciaid.png">
     </a>
   </div>
 </div>

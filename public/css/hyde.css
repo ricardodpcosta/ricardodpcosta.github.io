@@ -257,25 +257,25 @@ a.sidebar-nav-item:focus {
 
 /* Tabulars */
 .column-2 {
-  float: left;
+  float: center;
   width: 50%;
   padding: 5px;
 }
 
 .column-3 {
-  float: left;
+  float: center;
   width: 33.33%;
   padding: 5px;
 }
 
 .column-4 {
-  float: left;
+  float: center;
   width: 25%;
   padding: 5px;
 }
 
 .column-5 {
-  float: left;
+  float: center;
   width: 20%;
   padding: 5px;
 }

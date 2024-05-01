@@ -29,11 +29,11 @@ The discretisation methods implemented in the FVLib code are highly accurate in 
 
 <div class="row">
   <div class="column" style="width: 50%;">
-      <img style="height: 2.5em; display: block; margin-left: auto; margin-right: auto;" src="public/error_vs_dof.pdf">
+      <img style="width: 50%; display: block; margin-left: auto; margin-right: auto;" src="public/error_vs_dof.png">
     </a>
   </div>
   <div class="column" style="width: 50%;">
-      <img style="height: 2.5em; display: block; margin-left: auto; margin-right: auto;" src="public/error_vs_time.pdf">
+      <img style="width: 50%; display: block; margin-left: auto; margin-right: auto;" src="public/error_vs_time.png">
     </a>
   </div>
 </div>

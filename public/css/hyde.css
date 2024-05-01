@@ -289,4 +289,5 @@ a.sidebar-nav-item:focus {
   content: "";
   clear: both;
   display: table;
+  margin-left: 20rem
 }

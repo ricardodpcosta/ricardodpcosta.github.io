@@ -27,7 +27,7 @@ The FVLib code is programmed in modern Fortran (2003/2008 standards) with an obj
 
 ---
 
-#### **Very high-order accuracy in space and time**
+#### **Highly accurate schemes in space and time**
 
 The discretisation methods implemented in the FVLib code are highly accurate in space and time, effectively achieving up to the eighth-order of convergence. Comprehensive benchmarking proves that high-order accurate schemes benefit from a better trade-off between accuracy and efficiency than the counterpart lower-order accurate ones. Hence, this property can be exploited in different ways:
 
@@ -50,7 +50,7 @@ The discretisation methods implemented in the FVLib code are highly accurate in 
 
 ---
 
-#### **Unstructured meshes with general element shapes**
+#### **Complex geometries in real-world problems**
 
 Complex geometries arise in many problems of physics and engineering applications, for which Cartesian grid embedded boundary domain approaches still lack the flexibility and robustness of domain fitted unstructured mesh approaches, especially in 3D.
 

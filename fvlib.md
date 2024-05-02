@@ -63,19 +63,7 @@ Complex geometries arise in many real-world problems of physics and engineering 
 
 - **General element shapes**: the high-order accurate discretisation methods implemented in the FVLib code can handle <span style="color:blue">_2D and 3D unstructured meshes with general element shapes_</span> for the most demanding problems in intricate geometries.
 
-- **Gmsh interface**: the FVLib code provides a compatibility interface with [Gmsh](https://gmsh.info/), an open source <span style="color:blue">_3D mesh generator with built-in pre- and post-processing facilities_</span>, designed to provide a fast, light and user-friendly meshing tool with parametric input and flexible visualisation capabilities.
-
-<p style="margin-bottom: 1cm;"></p>
-
-<div class="row">
-  <div class="column" style="width: 50%;">
-    <img style="width: 95%; display: block; margin-left: auto; margin-right: auto;" src="public/gmsh1.png">
-  </div>
-  <div class="column" style="width: 50%;">
-    <img style="width: 95%; display: block; margin-left: auto; margin-right: auto;" src="public/gmsh2.png">
-  </div>
-</div>
-
+- **Linear piece-wise meshes**: the high-order accurate discretisation methods implemented in the FVLib code preserve the optimal <span style="color:blue">_high-orders of convergence with the standard linear piecewise elements_</span>, overcoming the cumbersomeness of generating and dealing with curved meshes of the traditional approaches.
 
 <p style="margin-bottom: 1cm;"></p>
 
@@ -88,12 +76,21 @@ Complex geometries arise in many real-world problems of physics and engineering 
   </div>
 </div>
 
+
+- **Gmsh compatible interface**: the FVLib code provides a compatibility interface with [Gmsh](https://gmsh.info/), an open source <span style="color:blue">_3D mesh generator with built-in pre- and post-processing facilities_</span>, designed to provide a fast, light and user-friendly meshing tool with parametric input and flexible visualisation capabilities.
+
+<p style="margin-bottom: 1cm;"></p>
+
+<div class="row">
+  <div class="column" style="width: 50%;">
+    <img style="width: 95%; display: block; margin-left: auto; margin-right: auto;" src="public/gmsh1.png">
+  </div>
+  <div class="column" style="width: 50%;">
+    <img style="width: 95%; display: block; margin-left: auto; margin-right: auto;" src="public/gmsh2.png">
+  </div>
+</div>
+
 ---
-
-#### **Arbitrary curved domains with piecewise linear meshes**
-
-- for complex geometries in real applications
-
 
 #### **Parallel computing for HPC environments**
 

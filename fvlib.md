@@ -7,7 +7,7 @@ title: FVLib code
 
 The FVLib code is a library of advanced computational algorithms and numerical methods to solve partial differential equations (PDEs) within the **finite volume philosophy**. The project aims to deliver **high-accurate**, **high-performance**, and **high-efficient** simulations of a wide range of physics and mechanics problems in relevant industrial, environmental, and biomedical applications.
 
-The FVLib code is the result of years of dedication and passion for applied mathematics and scientific computing, and the ambition of pushing the limits of numerical simulation even further in serving the scientific knowledge and technological innovation.
+The FVLib code is the result of years of dedication and passion for applied mathematics and scientific computing, and the ambition of **pushing the limits of numerical simulation even further** in serving the scientific knowledge and technological innovation.
 
 ### Main features
 

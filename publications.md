@@ -24,7 +24,7 @@ DOI: [https://doi.org/10.3390/ma17081845](https://doi.org/10.3390/ma17081845).
 DOI: [https://doi.org/10.1016/j.cma.2023.116274](https://doi.org/10.1016/j.cma.2023.116274).
 
 1. J. Castro, J.M. Nóbrega, and **R. Costa**,\
-Computational modelling of the selective laser sintering process,\
+<span style="color:blue">_Computational modelling of the selective laser sintering process_</span>,\
 **AIP Conference Proceedings** 2997(1), 050001, AIP Publishing, 2023.\
 DOI: [https://doi.org/10.1063/5.0159825](https://doi.org/10.1063/5.0159825).
 

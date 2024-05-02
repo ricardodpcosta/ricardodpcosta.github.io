@@ -21,7 +21,7 @@ The FVLib code is programmed in modern Fortran (2003/2008 standards) with an obj
 
 - **core level**: including linear algebra algorithms, input/output interfaces, mesh and field handlers, sparse matrix structures, etc.
 
-- **applications level**: including specific model solvers, specific boundary and interface conditions, pre-processing, and post-processing tools.
+- **applications level**: including specific model solvers, specific boundary and interface conditions, and pre-processing and post-processing tools.
 
 - **cases level**: including geometry files, mesh generation scripts, models and schemes parameters files, and running and post-processing scripts.
 

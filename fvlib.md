@@ -23,13 +23,20 @@ The FVLib code is programmed in modern Fortran (2003/2008 standards) with an obj
 
 <p style="margin-bottom: 1cm;"></p>
 
-<img style="width: 90%; display: block; margin-left: auto; margin-right: auto;" src="public/fortran.png">
+<div class="row">
+  <div class="column" style="width: 50%;">
+    <img style="width: 95%; display: block; margin-left: auto; margin-right: auto;" src="public/apps.png">
+  </div>
+  <div class="column" style="width: 50%;">
+    <img style="width: 95%; display: block; margin-left: auto; margin-right: auto;" src="public/case.png">
+  </div>
+</div>
 
 ---
 
 #### **Highly accurate schemes in space and time**
 
-The discretisation methods implemented in the FVLib code are highly accurate in space and time, effectively achieving up to the eighth-order of convergence. Comprehensive benchmarking proves that high-order accurate schemes benefit from a better trade-off between accuracy and efficiency than the counterpart lower-order accurate ones. Hence, this property can be exploited in different ways:
+The discretisation methods implemented in the FVLib code are highly accurate in space and time, effectively achieving up to the eighth-order of convergence. Comprehensive benchmarking proves that high-order accurate schemes benefit from a better trade-off between accuracy and efficiency than the counterpart lower-order accurate ones. This property can be exploited in different ways:
 
 - **Improved accuracy**: for the same discrete geometrical representation level (number of degrees of freedom), high-order accurate schemes provide <span style="color:blue">_significantly more accurate solutions_</span> than those obtained with the traditional first- and second-order accurate schemes.
 
@@ -50,26 +57,13 @@ The discretisation methods implemented in the FVLib code are highly accurate in 
 
 ---
 
-#### **Complex geometries in real-world problems**
+#### **Unstructured meshes for complex geometries**
 
-Complex geometries arise in many problems of physics and engineering applications, for which Cartesian grid embedded boundary domain approaches still lack the flexibility and robustness of domain fitted unstructured mesh approaches, especially in 3D.
+Complex geometries arise in many real-world problems of physics and engineering applications, for which domain fitted unstructured meshes are still the preferred approach for its <span style="color:blue">flexibility and robustness_</span>, especially in 3D.
 
-- The high-order accurate discretisation methods implemented in the FVLib code can handle <span style="color:blue">_2D and 3D unstructured meshes with general element shapes_</span> for the most demanding problems with intricate geometries.
+- **General element shapes**: the high-order accurate discretisation methods implemented in the FVLib code can handle <span style="color:blue">_2D and 3D unstructured meshes with general element shapes_</span> for the most demanding problems in intricate geometries.
 
-<p style="margin-bottom: 1cm;"></p>
-
-<div class="row">
-  <div class="column" style="width: 50%;">
-    <img style="width: 70%; display: block; margin-left: auto; margin-right: auto;" src="public/geometry.png">
-  </div>
-  <div class="column" style="width: 50%;">
-    <img style="width: 70%; display: block; margin-left: auto; margin-right: auto;" src="public/mesh.png">
-  </div>
-</div>
-
-<p style="margin-bottom: 1cm;"></p>
-
-- The FVLib code is fully compatible with [Gmsh](https://gmsh.info/), an <span style="color:blue">_open source 3D mesh generator with built-in pre- and post-processing facilities_</span>, designed to provide a fast, light and user-friendly meshing tool with parametric input and flexible visualisation capabilities.
+- **Gmsh interface**: the FVLib code provides a compatibility interface with [Gmsh](https://gmsh.info/), an open source <span style="color:blue">_3D mesh generator with built-in pre- and post-processing facilities_</span>, designed to provide a fast, light and user-friendly meshing tool with parametric input and flexible visualisation capabilities.
 
 <p style="margin-bottom: 1cm;"></p>
 
@@ -79,6 +73,18 @@ Complex geometries arise in many problems of physics and engineering application
   </div>
   <div class="column" style="width: 50%;">
     <img style="width: 95%; display: block; margin-left: auto; margin-right: auto;" src="public/gmsh2.png">
+  </div>
+</div>
+
+
+<p style="margin-bottom: 1cm;"></p>
+
+<div class="row">
+  <div class="column" style="width: 50%;">
+    <img style="width: 70%; display: block; margin-left: auto; margin-right: auto;" src="public/geometry.png">
+  </div>
+  <div class="column" style="width: 50%;">
+    <img style="width: 70%; display: block; margin-left: auto; margin-right: auto;" src="public/mesh.png">
   </div>
 </div>
 

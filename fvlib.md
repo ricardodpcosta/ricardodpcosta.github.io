@@ -99,12 +99,9 @@ Complex geometries arise in many real-world problems of physics and engineering 
 
 #### **Parallel computing for HPC environments**
 
-The FVLib code take advantage of modern HPC systems by implementing
+The FVLib code multiprocessing capabilities are implemented based on the <span style="color:blue">_shared-memory and message-passing parallel programming models_</span> through the OpenMP and OpenMPI application programming interfaces. It allows the development and deployment of portable and scalable large-scale parallel applications that take advantage of modern HPC systems.
 
-
-
-
-
+---
 
 ### Contributing
 

@@ -40,7 +40,7 @@ The FVLib code is programmed in modern Fortran (2003/2008 standards) with an obj
 
 #### **Highly accurate schemes in space and time**
 
-The discretisation methods implemented in the FVLib code are highly accurate in space and time, effectively achieving up to the eighth-order of convergence. Comprehensive benchmarking proves that high-order accurate schemes benefit from a better trade-off between accuracy and efficiency than the counterpart lower-order accurate ones. This property can be exploited in different ways:
+The discretisation methods implemented in the FVLib code are highly accurate in space and time, effectively achieving up to the eighth-order of convergence. Comprehensive benchmarking proves that high-order accurate schemes benefit from a <span style="color:blue">_better trade-off between accuracy and efficiency_</span> than the counterpart lower-order accurate ones. This property can be exploited in different ways:
 
 - **Improved accuracy**: for the same discrete geometrical representation level (number of degrees of freedom), high-order accurate schemes provide <span style="color:blue">_significantly more accurate solutions_</span> than those obtained with the traditional first- and second-order accurate schemes.
 

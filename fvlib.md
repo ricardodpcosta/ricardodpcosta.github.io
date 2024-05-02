@@ -67,7 +67,7 @@ Complex geometries arise in many real-world problems of physics and engineering 
 
 - **General element shapes**: the high-order accurate discretisation methods implemented in the FVLib code can handle <span style="color:blue">_2D and 3D unstructured meshes with general element shapes_</span> for the most demanding problems in intricate geometries.
 
-- **Linear piece-wise meshes**: the high-order accurate discretisation methods implemented in the FVLib code preserve the optimal <span style="color:blue">_high-orders of convergence with the standard linear piecewise elements_</span>, overcoming the cumbersomeness of generating and dealing with curved meshes as the traditional approaches.
+- **Linear piecewise meshes**: the high-order accurate discretisation methods implemented in the FVLib code preserve the optimal <span style="color:blue">_high-orders of convergence with the standard linear piecewise elements_</span>, overcoming the cumbersomeness of generating and dealing with curved meshes as the traditional approaches.
 
 <p style="margin-bottom: 1cm;"></p>
 
@@ -108,4 +108,4 @@ The FVLib code take advantage of modern HPC systems by implementing
 
 ### Contributing
 
-The FVLib code is not currently an open-source project. However, anyone willing to contribute to the project and/or making use of its potentialities on a collaboration basis is welcome. If you are interested in using it or need further details, you can always [contact me](mailto:rcosta@dep.uminho.pt).
+The FVLib code is not currently an open-source project. However, anyone willing to contribute to the project and/or making use of its capabilities on a collaboration basis is welcome. If you are interested in using it or need further details, you can always [contact me](mailto:rcosta@dep.uminho.pt).

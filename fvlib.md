@@ -7,9 +7,11 @@ title: FVLib code
 
 The FVLib code is a library of advanced computational algorithms and numerical methods to solve partial differential equations (PDEs) within the **finite volume philosophy**. The project aims to deliver **high-accurate**, **high-performance**, and **high-efficient** simulations of a wide range of physics and mechanics problems in relevant industrial, environmental, and biomedical applications.
 
+The FVLib code is the result of years of dedication and passion for applied mathematics and scientific computing, and the ambition of pushing the limits of numerical simulation even further.
+
 ### Main features
 
-These are the main capabilities of the FVLib code:
+Below you can find the most relevant features of the FVLib code.
 
 ---
 
@@ -59,11 +61,11 @@ The discretisation methods implemented in the FVLib code are highly accurate in 
 
 #### **Unstructured meshes for complex geometries**
 
-Complex geometries arise in many real-world problems of physics and engineering applications, for which domain fitted unstructured meshes are still the preferred approach for its <span style="color:blue">flexibility and robustness_</span>, especially in 3D.
+Complex geometries arise in many real-world problems of physics and engineering applications, for which domain fitted unstructured meshes are still the preferred approach for its <span style="color:blue">_flexibility and robustness_</span>, especially in 3D.
 
 - **General element shapes**: the high-order accurate discretisation methods implemented in the FVLib code can handle <span style="color:blue">_2D and 3D unstructured meshes with general element shapes_</span> for the most demanding problems in intricate geometries.
 
-- **Linear piece-wise meshes**: the high-order accurate discretisation methods implemented in the FVLib code preserve the optimal <span style="color:blue">_high-orders of convergence with the standard linear piecewise elements_</span>, overcoming the cumbersomeness of generating and dealing with curved meshes of the traditional approaches.
+- **Linear piece-wise meshes**: the high-order accurate discretisation methods implemented in the FVLib code preserve the optimal <span style="color:blue">_high-orders of convergence with the standard linear piecewise elements_</span>, overcoming the cumbersomeness of generating and dealing with curved meshes as the traditional approaches.
 
 <p style="margin-bottom: 1cm;"></p>
 
@@ -76,6 +78,7 @@ Complex geometries arise in many real-world problems of physics and engineering 
   </div>
 </div>
 
+<p style="margin-bottom: 1cm;"></p>
 
 - **Gmsh compatible interface**: the FVLib code provides a compatibility interface with [Gmsh](https://gmsh.info/), an open source <span style="color:blue">_3D mesh generator with built-in pre- and post-processing facilities_</span>, designed to provide a fast, light and user-friendly meshing tool with parametric input and flexible visualisation capabilities.
 
@@ -94,19 +97,13 @@ Complex geometries arise in many real-world problems of physics and engineering 
 
 #### **Parallel computing for HPC environments**
 
-The FVLib code  take advantage of modern HPC systems
+The FVLib code take advantage of modern HPC systems by implementing
 
 
 
 
-Currently, the following problems can be solved in the FVLib code:
 
-- Convection-diffusion problems for heat and species transfer
-- Conjugate heat transfer with solid/solid and solid/fluid interfaces
-- Incompressible isothermal fluid flows with the Euler/Stokes/Navier-Stokes formulation
-- Incompressible non-isothermal fluid flows with the Euler/Stokes/Navier-Stokes formulation
-- Incompressible non-Newtonian fluid flows with the Stokes/Navier-Stokes formulation
 
 ### Contributing
 
-The FVLib code is not currently an open-source project. However, anyone willing to contribute to the project and/or making use of its potentialities on a collaboration basis is welcome. Please, [contact me](mailto:rcosta@dep.uminho.pt).
+The FVLib code is not currently an open-source project. However, anyone willing to contribute to the project and/or making use of its potentialities on a collaboration basis is welcome. If you are interested in using it or need further details, you can always [contact me](mailto:rcosta@dep.uminho.pt).

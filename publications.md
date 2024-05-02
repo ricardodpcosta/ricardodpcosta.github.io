@@ -94,7 +94,7 @@ In: B. Murgante et al. (eds.), Computational Science and Its Applications — IC
 **Lecture Notes in Computer Science** 8579, 87-102, Springer, 2014.\
 DOI: [https://doi.org/10.1007/978-3-319-09144-0_7](https://doi.org/10.1007/978-3-319-09144-0_7).
 
-<p style="margin-bottom: 0.4cm;"></p>
+<p style="margin-bottom: 0.8cm;"></p>
 
 ### Dissertations and theses (2)
 
@@ -110,7 +110,7 @@ Available [here](https://repositorium.sdum.uminho.pt/handle/1822/77102).
 (Master's dissertation), University of Minho, Guimarães, Portugal, 2015.\
 Available [here](http://repositorium.sdum.uminho.pt/handle/1822/39251).
 
-<p style="margin-bottom: 0.4cm;"></p>
+<p style="margin-bottom: 0.8cm;"></p>
 
 ### Peer-reviewed publications in international conferences (4)
 

@@ -29,10 +29,10 @@ The FVLib code is programmed in modern Fortran (2003/2008 standards) with an obj
 
 <div class="row">
   <div class="column" style="width: 50%;">
-    <img style="width: 95%; display: block; margin-left: auto; margin-right: auto;" src="public/apps.png">
+    <img style="width: 100%; display: block; margin-left: auto; margin-right: auto;" src="public/apps.png">
   </div>
   <div class="column" style="width: 50%;">
-    <img style="width: 95%; display: block; margin-left: auto; margin-right: auto;" src="public/case.png">
+    <img style="width: 100%; display: block; margin-left: auto; margin-right: auto;" src="public/case.png">
   </div>
 </div>
 
@@ -88,10 +88,10 @@ Complex geometries arise in many real-world problems of physics and engineering 
 
 <div class="row">
   <div class="column" style="width: 50%;">
-    <img style="width: 95%; display: block; margin-left: auto; margin-right: auto;" src="public/gmsh1.png">
+    <img style="width: 100%; display: block; margin-left: auto; margin-right: auto;" src="public/gmsh1.png">
   </div>
   <div class="column" style="width: 50%;">
-    <img style="width: 95%; display: block; margin-left: auto; margin-right: auto;" src="public/gmsh2.png">
+    <img style="width: 100%; display: block; margin-left: auto; margin-right: auto;" src="public/gmsh2.png">
   </div>
 </div>
 

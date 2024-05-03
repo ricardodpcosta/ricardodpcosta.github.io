@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FVLib code – The Great Finite Volume Library
+title: FVLib code – <span style="color:grey">The Great <span style="color:grey">**F**</span>inite <span style="color:grey">**V**</span>olume <span style="color:grey">**Lib**</span>rary</span>
 ---
 
 <p style="margin-bottom: 1cm;"></p>

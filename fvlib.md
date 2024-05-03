@@ -11,7 +11,7 @@ The FVLib code is the result of years of dedication and passion for applied math
 
 ### Main features
 
-Below you can find the most relevant features of the FVLib code.
+Below you can find the highlighted features of the FVLib code.
 
 ---
 

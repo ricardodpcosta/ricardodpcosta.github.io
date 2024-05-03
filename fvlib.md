@@ -9,9 +9,7 @@ The FVLib code is a library of advanced computational algorithms and numerical m
 
 The FVLib code is the result of years of dedication and passion for applied mathematics and scientific computing, and the ambition of **pushing the limits of numerical simulation even further** in serving the scientific knowledge and technological innovation.
 
-### Main features
-
-Highlighted features of the FVLib code.
+### Highlighted features
 
 ---
 

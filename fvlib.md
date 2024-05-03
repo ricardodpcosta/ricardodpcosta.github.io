@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FVLib code\: The Great Finite Volume Library
+title: FVLib code – The Great Finite Volume Library
 ---
 
 <p style="margin-bottom: 1cm;"></p>
@@ -11,7 +11,7 @@ The FVLib code is the result of years of dedication and passion for applied math
 
 ### Main features
 
-Below you can find the highlighted features of the FVLib code.
+Highlighted features of the FVLib code.
 
 ---
 

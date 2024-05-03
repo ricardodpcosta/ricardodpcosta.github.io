@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FVLib code – <span style="color:grey">The Great <span style="color:grey">**F**</span>inite <span style="color:grey">**V**</span>olume <span style="color:grey">**Lib**</span>rary</span>
+title: FVLib code – <span style="color:grey">The Great <span style="color:grey"><strong>F</strong></span>inite <span style="color:grey"><strong>V</strong></span>olume <span style="color:grey"><strong>Lib</strong></span>rary</span>
 ---
 
 <p style="margin-bottom: 1cm;"></p>

@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-<p style="margin-bottom: 1cm;"></p>
+<p style="margin-bottom:1cm;"></p>
 
 <div class="message">
   List of the most relevant publications only. Please refer to the <i>Curriculum Vitae</i> for a complete list.
@@ -11,7 +11,7 @@ title: Publications
 
 ### Peer-reviewed publications in international journals (16)
 
-<p style="margin-bottom: 1cm;"></p>
+<p style="margin-bottom:1cm;"></p>
 
 1. J. Castro, J.M. Nóbrega, and **R. Costa**,\
 <span style="color:blue">_Computational framework to model the selective laser sintering process_</span>,\
@@ -98,7 +98,7 @@ DOI: [https://doi.org/10.1007/978-3-319-09144-0_7](https://doi.org/10.1007/978-3
 
 ### Dissertations and theses (2)
 
-<p style="margin-bottom: 1cm;"></p>
+<p style="margin-bottom:1cm;"></p>
 
 1. **R. Costa**,\
 <span style="color:blue">_Advanced computational methods towards high-performance polymer processing simulations_</span>,\
@@ -114,7 +114,7 @@ Available [here](http://repositorium.sdum.uminho.pt/handle/1822/39251).
 
 ### Peer-reviewed publications in international conferences (4)
 
-<p style="margin-bottom: 1cm;"></p>
+<p style="margin-bottom:1cm;"></p>
 
 1. **R. Costa**, S. Teixeira, and I. Loureiro,\
 <span style="color:blue">_Numerical assessment of thermal environments for decision-making in industrial engineering and management_</span>,\

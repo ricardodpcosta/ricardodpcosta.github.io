@@ -3,7 +3,7 @@ layout: page
 title: FVLib code – <span style="color:grey">The Great </span>F<span style="color:grey">inite</span> V<span style="color:grey">olume</span> Lib<span style="color:grey">rary</span>
 ---
 
-<p style="margin-bottom: 1cm;"></p>
+<p style="margin-bottom:1cm;"></p>
 
 The FVLib code is a library of advanced computational algorithms and numerical methods to solve partial differential equations (PDEs) within the **finite volume philosophy**. The project aims to deliver **high-accurate**, **high-performance**, and **high-efficient** simulations of a wide range of physics and mechanics problems in relevant industrial, environmental, and biomedical applications.
 
@@ -23,14 +23,14 @@ The FVLib code is programmed in modern Fortran (2003/2008 standards) with an obj
 
 - **cases level**: including geometry files, mesh generation scripts, models and schemes parameters files, and running and post-processing scripts.
 
-<p style="margin-bottom: 1cm;"></p>
+<p style="margin-bottom:1cm;"></p>
 
 <div class="row">
-  <div class="column" style="width: 50%;">
-    <img style="width: 100%; display: block; margin-left: auto; margin-right: auto;" src="public/apps.png">
+  <div class="column" style="width:50%;">
+    <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/apps.png">
   </div>
-  <div class="column" style="width: 50%;">
-    <img style="width: 100%; display: block; margin-left: auto; margin-right: auto;" src="public/case.png">
+  <div class="column" style="width:50%;">
+    <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/case.png">
   </div>
 </div>
 
@@ -46,14 +46,14 @@ The discretisation methods implemented in the FVLib code are highly accurate in 
 
 - **Resource-use efficiency**: for the same approximate solution accuracy level, high-order accurate schemes consume <span style="color:blue">_significantly less resources_</span> (power and memory) than those of the traditional first- and second-order accurate schemes.
 
-<p style="margin-bottom: 1cm;"></p>
+<p style="margin-bottom:1cm;"></p>
 
 <div class="row">
-  <div class="column" style="width: 50%;">
-    <img style="width: 80%; display: block; margin-left: auto; margin-right: auto;" src="public/error_vs_dof.png">
+  <div class="column" style="width:50%;">
+    <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/error_vs_dof.png">
   </div>
-  <div class="column" style="width: 50%;">
-    <img style="width: 80%; display: block; margin-left: auto; margin-right: auto;" src="public/error_vs_time.png">
+  <div class="column" style="width:50%;">
+    <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/error_vs_time.png">
   </div>
 </div>
 
@@ -67,29 +67,29 @@ Complex geometries arise in many real-world problems of physics and engineering 
 
 - **Linear piecewise meshes**: the high-order accurate discretisation methods implemented in the FVLib code preserve the optimal <span style="color:blue">_high-orders of convergence with the standard linear piecewise elements_</span>, overcoming the cumbersomeness of generating and dealing with curved meshes as the traditional approaches.
 
-<p style="margin-bottom: 1cm;"></p>
+<p style="margin-bottom:1cm;"></p>
 
 <div class="row">
-  <div class="column" style="width: 50%;">
-    <img style="width: 70%; display: block; margin-left: auto; margin-right: auto;" src="public/geometry.png">
+  <div class="column" style="width:50%;">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/geometry.png">
   </div>
-  <div class="column" style="width: 50%;">
-    <img style="width: 70%; display: block; margin-left: auto; margin-right: auto;" src="public/unstructured_mesh.png">
+  <div class="column" style="width:50%;">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/unstructured_mesh.png">
   </div>
 </div>
 
-<p style="margin-bottom: 1cm;"></p>
+<p style="margin-bottom:1cm;"></p>
 
 - **Gmsh compatible interface**: the FVLib code provides a compatibility interface with [Gmsh](https://gmsh.info/), an open source <span style="color:blue">_3D mesh generator with built-in pre- and post-processing facilities_</span>, designed to provide a fast, light and user-friendly meshing tool with parametric input and flexible visualisation capabilities.
 
-<p style="margin-bottom: 1cm;"></p>
+<p style="margin-bottom:1cm;"></p>
 
 <div class="row">
-  <div class="column" style="width: 50%;">
-    <img style="width: 100%; display: block; margin-left: auto; margin-right: auto;" src="public/gmsh1.png">
+  <div class="column" style="width:50%;">
+    <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/gmsh1.png">
   </div>
-  <div class="column" style="width: 50%;">
-    <img style="width: 100%; display: block; margin-left: auto; margin-right: auto;" src="public/gmsh2.png">
+  <div class="column" style="width:50%;">
+    <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/gmsh2.png">
   </div>
 </div>
 

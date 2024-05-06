@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-<p style="margin-bottom: 1cm;"></p>
+<p style="margin-bottom:1cm;"></p>
 
 <div class="message">
       Short description on the research topics I have been investigating. Please refer to the <i>Curriculum Vitae</i> for a complete list.
@@ -19,20 +19,20 @@ In the finite element context, the **isoparametric elements method** has become 
 - **Cumbersome quadrature rules** for integration on the curved elements.
 - **Complex nonlinear transformations** for the mapping between curved and standard elements.
 
-<p style="margin-bottom: 1cm;"></p>
+<p style="margin-bottom:1cm;"></p>
 
 <div class="row">
-  <div class="column" style="width: 50%; text-align:center;">
-    <img style="width: 70%; display: block; margin-left: auto; margin-right: auto;" src="public/curved_mesh.png">
+  <div class="column" style="width:50%; text-align:center;">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/curved_mesh.png">
     Curved mesh.
   </div>
-  <div class="column" style="width: 50%; text-align:center;">
-    <img style="width: 70%; display: block; margin-left: auto; margin-right: auto;" src="public/polygonal_mesh.png">
+  <div class="column" style="width:50%; text-align:center;">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/polygonal_mesh.png">
     Polygonal mesh.
   </div>
 </div>
 
-<p style="margin-bottom: 1cm;"></p>
+<p style="margin-bottom:1cm;"></p>
 
 In [1,2] a novel approach is proposed, the **reconstruction for off-site data (ROD) method**, to recover the high-order of convergence for arbitrary curved boundaries while overcoming such limitations. The ROD method transfers the prescribed boundary conditions from the physical boundary to the mesh boundary through specific constrained polynomial reconstructions, while the problem unknowns are defined on the mesh and the discretisation is performed on polygonal elements solely. Therefore:
 
@@ -48,20 +48,20 @@ The technique was developed in the FVM context for the 2D convection-diffusion p
 
 Another essential challenge in the numerical simulation of real engineering applications is the development of accurate and robust discretisation methods for elliptic equations with discontinuous coefficients, where two adjacent domains with different properties share an interface, as in conjugate heat transfer problems. Specific interface conditions are prescribed on the interface, imposing a discontinuous temperature normal derivative due to thermal energy conservation. Thermal resistance from one domain into another can also exist, resulting in discontinuous solutions across the interface. For these reasons, treating multidomain problems with discontinuous coefficients requires a special interface treatment, particularly for achieving a high-order of convergence. In that concern, the candidate proposed in [6,7,8] a technique that applies a Dirichlet-Neumann or Neumann-Neumann decomposition on the interface to transform the conjugate problem into separated partitioned subproblems. Each subproblem can then be discretised as a conventional boundary-valued convection-diffusion problem, and the thermal coupling between subdomains is recovered through specific polynomial reconstructions on the interface. The method was developed in the FVM paradigm for the 2D and 3D conjugate heat transfer problem with general interface conditions and was equipped with the ROD method to handle arbitrary curved interfaces, effectively achieving the sixth-order of convergence on unstructured meshes.
 
-<p style="margin-bottom: 1cm;"></p>
+<p style="margin-bottom:1cm;"></p>
 
 <div class="row">
-  <div class="column" style="width: 50%; text-align:center;">
-    <img style="width: 90%; display: block; margin-left: auto; margin-right: auto;" src="public/continuity_interface_condition.png">
+  <div class="column" style="width:50%; text-align:center;">
+    <img style="width:90%; display:block; margin-left:auto; margin-right:auto;" src="public/continuity_interface_condition.png">
     Continuity interface condition.
   </div>
-  <div class="column" style="width: 50%; text-align:center;">
-    <img style="width: 90%; display: block; margin-left: auto; margin-right: auto;" src="public/jump_interface_condition.png">
+  <div class="column" style="width:50%; text-align:center;">
+    <img style="width:90%; display:block; margin-left:auto; margin-right:auto;" src="public/jump_interface_condition.png">
     Jump interface condition.
   </div>
 </div>
 
-<p style="margin-bottom: 1cm;"></p>
+<p style="margin-bottom:1cm;"></p>
 
 ---
 
@@ -75,17 +75,17 @@ The numerical solution of the Navier-Stokes equations is fundamental in computat
 
 The conventional no-slip (Dirichlet) boundary condition does not always hold in several fluid flow problems and must be replaced with appropriate slip conditions. These conditions are particularly challenging to impose, and their numerical treatment is a delicate issue far from being well-developed. Indeed, despite its importance from inviscid to viscoelastic fluid flow problems, the literature on the subject is limited, and the existing methods can only achieve the second-order of convergence. In that concern, the candidate proposed in [12] a simple and efficient numerical treatment in the FVM paradigm of general slip boundary conditions prescribed on arbitrary curved boundaries for 3D fluid flow problems governed by the incompressible Navier–Stokes equations. On curved boundaries, the slip boundary conditions are reformulated on a local reference system, allowing a direct application of the ROD method to achieve the eighth-order of convergence on unstructured meshes.
 
-<p style="margin-bottom: 1cm;"></p>
+<p style="margin-bottom:1cm;"></p>
 
 <div class="row">
-  <div class="column" style="width: 50%; text-align:center;">
-    <img style="width: 50%; display: block; margin-left: auto; margin-right: auto;" src="public/boundary_maximum_curvature.png">
+  <div class="column" style="width:50%; text-align:center; display:flex; justify-content:center; align-items:center;">
+    <img style="width:50%; display:block; margin-left:auto; margin-right:auto;" src="public/boundary_maximum_curvature.png">
     Boundary maximum curvature.
   </div>
-  <div class="column" style="width: 50%; text-align:center;">
-    <img style="width: 50%; display: block; margin-left: auto; margin-right: auto; display:flex; justify-content:center; align-items:center;" src="public/boundary_minimum_curvature.png">
+  <div class="column" style="width:50%; text-align:center; display:flex; justify-content:center; align-items:center;">
+    <img style="width:50%; display:block; margin-left:auto; margin-right:auto;" src="public/boundary_minimum_curvature.png">
     Boundary minimum curvature.
   </div>
 </div>
 
-<p style="margin-bottom: 1cm;"></p>
+<p style="margin-bottom:1cm;"></p>

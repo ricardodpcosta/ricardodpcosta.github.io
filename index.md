@@ -7,7 +7,7 @@ title: About me
 
 &nbsp;
 
-<img style="float: right; width: 9em; margin-left: 1em; margin-bottom: 1em" src="public/photo.jpg">
+<img style="float:right; width:9em; margin-left:1em; margin-bottom:1em" src="public/photo.jpg">
 
 I am a post-doc researcher at University of Minho (in the beautiful and historical city of Guimarães, Portugal) and a passionate scientist about applied mathematics and scientific computing.
 
@@ -19,26 +19,26 @@ _Here you can find my latest research activity, projects, publications, reposito
 
 <br>
 
-<p style="margin-bottom: 1cm;">
+<p style="margin-bottom:1cm;">
   <font size="smaller">
     Check out my other social pages:
   </font>
 </p>
 
 <div class="row">
-  <div class="column" style="width: 33.33%;">
+  <div class="column" style="width:33.33%;">
     <a href="https://www.researchgate.net/profile/ricardo-costa-21">
-      <img style="height: 2.5em; display: block; margin-left: auto; margin-right: auto;" src="public/researchgate.png">
+      <img style="height:2.5em; display:block; margin-left:auto; margin-right:auto;" src="public/researchgate.png">
     </a>
   </div>
-  <div class="column" style="width: 33.33%;">
+  <div class="column" style="width:33.33%;">
     <a href="https://orcid.org/0000-0002-1904-8317">
-      <img style="height: 2.5em; display: block; margin-left: auto; margin-right: auto;" src="public/orcid.png">
+      <img style="height:2.5em; display:block; margin-left:auto; margin-right:auto;" src="public/orcid.png">
     </a>
   </div>
-  <div class="column" style="width: 33.33%;">
+  <div class="column" style="width:33.33%;">
     <a href="https://www.cienciavitae.pt/2F14-5623-03EB">
-      <img style="height: 2.5em; display: block; margin-left: auto; margin-right: auto;" src="public/cienciaid.png">
+      <img style="height:2.5em; display:block; margin-left:auto; margin-right:auto;" src="public/cienciaid.png">
     </a>
   </div>
 </div>

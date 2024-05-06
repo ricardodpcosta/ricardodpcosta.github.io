@@ -22,7 +22,7 @@ In the finite element context, the **isoparametric elements method** has become 
 <p style="margin-bottom: 1cm;"></p>
 
 <div class="row">
-  <div class="column" style="width: 50%;">
+  <div class="column" style="width: 50%; text-align:center>
     <img style="width: 100%; display: block; margin-left: auto; margin-right: auto;" src="public/curved_mesh.png">
     Curved mesh.
   </div>
@@ -31,6 +31,8 @@ In the finite element context, the **isoparametric elements method** has become 
     Polygonal mesh.
   </div>
 </div>
+
+<p style="margin-bottom: 1cm;"></p>
 
 In [1,2] a novel approach is proposed, the **reconstruction for off-site data (ROD) method**, to recover the high-order of convergence for arbitrary curved boundaries while overcoming such limitations. The ROD method transfers the prescribed boundary conditions from the physical boundary to the mesh boundary through specific constrained polynomial reconstructions, while the problem unknowns are defined on the mesh and the discretisation is performed on polygonal elements solely. Therefore:
 

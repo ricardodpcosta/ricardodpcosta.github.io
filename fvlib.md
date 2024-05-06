@@ -74,7 +74,7 @@ Complex geometries arise in many real-world problems of physics and engineering 
     <img style="width: 70%; display: block; margin-left: auto; margin-right: auto;" src="public/geometry.png">
   </div>
   <div class="column" style="width: 50%;">
-    <img style="width: 70%; display: block; margin-left: auto; margin-right: auto;" src="public/mesh.png">
+    <img style="width: 70%; display: block; margin-left: auto; margin-right: auto;" src="public/unstructured_mesh.png">
   </div>
 </div>
 

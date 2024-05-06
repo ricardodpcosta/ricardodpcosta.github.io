@@ -15,7 +15,7 @@ In the finite element context, the **isoparametric elements method** has become 
 
 - **Sophisticated meshing algorithms** for generating meshes with curved elements.
 - **Cumbersome quadrature rules** for integration on the curved elements.
-- **Complex nonlinear transformations** for the mapping between the curved elements and the standard elements.
+- **Complex nonlinear transformations** for the mapping between curved and standard elements.
 
 In [1,2] a novel approach is proposed, the **reconstruction for off-site data (ROD) method**, to recover the high-order of convergence for arbitrary curved boundaries while overcoming such limitations. The ROD method transfers the prescribed boundary conditions from the physical boundary to the mesh boundary through specific constrained polynomial reconstructions. Thus, the problem unknowns are defined on the mesh, and the discretisation is performed on polygonal elements solely. Therefore:
 

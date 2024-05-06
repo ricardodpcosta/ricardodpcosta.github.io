@@ -7,7 +7,7 @@ title: About me
 
 &nbsp;
 
-<img style="float: right; width: 9em; margin-left: 1em; margin-bottom: 4em" src="public/photo.jpg">
+<img style="float: right; width: 9em; margin-left: 1em; margin-bottom: 1em" src="public/photo.jpg">
 
 I am a post-doc researcher at University of Minho (in the beautiful and historical city of Guimarães, Portugal) and a passionate scientist about applied mathematics and scientific computing.
 

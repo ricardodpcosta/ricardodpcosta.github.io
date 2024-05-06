@@ -3,6 +3,8 @@ layout: page
 title: Research
 ---
 
+<p style="margin-bottom: 1cm;"></p>
+
 <div class="message">
       Short description on the research topics I have been investigating. Please refer to the <i>Curriculum Vitae</i> for a complete list.
 </div>
@@ -17,13 +19,26 @@ In the finite element context, the **isoparametric elements method** has become 
 - **Cumbersome quadrature rules** for integration on the curved elements.
 - **Complex nonlinear transformations** for the mapping between curved and standard elements.
 
-In [1,2] a novel approach is proposed, the **reconstruction for off-site data (ROD) method**, to recover the high-order of convergence for arbitrary curved boundaries while overcoming such limitations. The ROD method transfers the prescribed boundary conditions from the physical boundary to the mesh boundary through specific constrained polynomial reconstructions. Thus, the problem unknowns are defined on the mesh, and the discretisation is performed on polygonal elements solely. Therefore:
+<p style="margin-bottom: 1cm;"></p>
 
-- **Conventional meshing algorithms**  for generating meshes with polygonal elements.
+<div class="row">
+  <div class="column" style="width: 50%;">
+    <img style="width: 100%; display: block; margin-left: auto; margin-right: auto;" src="public/curved_mesh.png">
+    Curved mesh.
+  </div>
+  <div class="column" style="width: 50%;">
+    <img style="width: 100%; display: block; margin-left: auto; margin-right: auto;" src="public/polygonal_mesh.png">
+    Polygonal mesh.
+  </div>
+</div>
+
+In [1,2] a novel approach is proposed, the **reconstruction for off-site data (ROD) method**, to recover the high-order of convergence for arbitrary curved boundaries while overcoming such limitations. The ROD method transfers the prescribed boundary conditions from the physical boundary to the mesh boundary through specific constrained polynomial reconstructions, while the problem unknowns are defined on the mesh and the discretisation is performed on polygonal elements solely. Therefore:
+
+- **Conventional meshing algorithms** for generating meshes with polygonal elements.
 - **Simple quadrature rules** for integration on the polygonal elements.
 - **There are no transformations** for the mapping since curved elements are avoided.
 
-The technique was developed in the FVM for the 2D convection-diffusion problem with **general boundary conditions**, effectively achieving the sixth-order of convergence on unstructured meshes. The proposed approach has received significant attention from the scientific community for its **simplicity**, **efficiency**, and **generality** in handling any boundary condition, and the extension to the FDM and DGM has already been successfully accomplished [3,4,5].
+The technique was developed in the FVM context for the 2D convection-diffusion problem with **general boundary conditions**, effectively achieving the sixth-order of convergence on unstructured meshes. The proposed approach has received significant attention from the scientific community for its **simplicity**, **efficiency**, and **generality** in handling any boundary condition, and the extension to the FDM and DGM has already been successfully accomplished [3,4,5].
 
 ### Conjugate heat transfer problems
 

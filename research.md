@@ -46,6 +46,21 @@ The technique was developed in the FVM context for the 2D convection-diffusion p
 
 Another essential challenge in the numerical simulation of real engineering applications is the development of accurate and robust discretisation methods for elliptic equations with discontinuous coefficients, where two adjacent domains with different properties share an interface, as in conjugate heat transfer problems. Specific interface conditions are prescribed on the interface, imposing a discontinuous temperature normal derivative due to thermal energy conservation. Thermal resistance from one domain into another can also exist, resulting in discontinuous solutions across the interface. For these reasons, treating multidomain problems with discontinuous coefficients requires a special interface treatment, particularly for achieving a high-order of convergence. In that concern, the candidate proposed in [6,7,8] a technique that applies a Dirichlet-Neumann or Neumann-Neumann decomposition on the interface to transform the conjugate problem into separated partitioned subproblems. Each subproblem can then be discretised as a conventional boundary-valued convection-diffusion problem, and the thermal coupling between subdomains is recovered through specific polynomial reconstructions on the interface. The method was developed in the FVM paradigm for the 2D and 3D conjugate heat transfer problem with general interface conditions and was equipped with the ROD method to handle arbitrary curved interfaces, effectively achieving the sixth-order of convergence on unstructured meshes.
 
+<p style="margin-bottom: 1cm;"></p>
+
+<div class="row">
+  <div class="column" style="width: 50%; text-align:center;">
+    <img style="width: 90%; display: block; margin-left: auto; margin-right: auto;" src="public/continuity_interface_condition.png">
+    Continuity interface condition.
+  </div>
+  <div class="column" style="width: 50%; text-align:center;">
+    <img style="width: 90%; display: block; margin-left: auto; margin-right: auto;" src="public/jump_interface_condition.png">
+    Jump interface condition.
+  </div>
+</div>
+
+<p style="margin-bottom: 1cm;"></p>
+
 ### Incompressible fluid flow problems
 
 The numerical solution of the Navier-Stokes equations is fundamental in computational fluid dynamics. When the incompressibility constraint (div-grad duality) is considered, significant challenges arise for developing accurate, robust, and stable discretisations, particularly in the high-order accurate context. In that concern, the candidate proposed in [9,10] a very high-order accurate FVM based on specific polynomial reconstructions computed on a staggered mesh construction to handle the div-grad duality. The solution of the resulting velocity-pressure coupled system was also improved with a novel incomplete inverse preconditioning technique based on the Schur complement for the saddle-point matrix. The method was further improved and equipped with the ROD method [11] to solve 2D fluid flow problems in arbitrary curved boundaries, effectively achieving the sixth-order of convergence on unstructured meshes.
@@ -53,3 +68,18 @@ The numerical solution of the Navier-Stokes equations is fundamental in computat
 ### General slip boundary conditions
 
 The conventional no-slip (Dirichlet) boundary condition does not always hold in several fluid flow problems and must be replaced with appropriate slip conditions. These conditions are particularly challenging to impose, and their numerical treatment is a delicate issue far from being well-developed. Indeed, despite its importance from inviscid to viscoelastic fluid flow problems, the literature on the subject is limited, and the existing methods can only achieve the second-order of convergence. In that concern, the candidate proposed in [12] a simple and efficient numerical treatment in the FVM paradigm of general slip boundary conditions prescribed on arbitrary curved boundaries for 3D fluid flow problems governed by the incompressible Navier–Stokes equations. On curved boundaries, the slip boundary conditions are reformulated on a local reference system, allowing a direct application of the ROD method to achieve the eighth-order of convergence on unstructured meshes.
+
+<p style="margin-bottom: 1cm;"></p>
+
+<div class="row">
+  <div class="column" style="width: 50%; text-align:center;">
+    <img style="width: 70%; display: block; margin-left: auto; margin-right: auto;" src="public/boundary_maximum_curvature.png">
+    Curved mesh.
+  </div>
+  <div class="column" style="width: 50%; text-align:center;">
+    <img style="width: 70%; display: block; margin-left: auto; margin-right: auto;" src="public/boundary_minimum_curvature.png">
+    Polygonal mesh.
+  </div>
+</div>
+
+<p style="margin-bottom: 1cm;"></p>

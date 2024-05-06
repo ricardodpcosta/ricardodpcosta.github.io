@@ -1,13 +1,29 @@
 ---
-layout: default
+layout: page
 title: Research
 ---
 
-Main research topics I have been investigating.
+<div class="message">
+      Short description on the research topics I have been investigating. Please refer to the <i>Curriculum Vitae</i> for a complete list.
+</div>
 
 ### Arbitrary curved boundaries
 
-Treating complex geometries is critical in developing high-order accurate discretisation methods (above the second-order) for the numerical simulation of real engineering applications. However, most works published in that context only consider simple polygonal domains, substantially limiting their practical applicability. In particular, the treatment of curved domains requires sophisticated techniques to overcome the geometrical mismatch between the physical boundary (where the boundary conditions are prescribed) and the mesh boundary (where the equations are discretised). In the finite element context, the isoparametric elements method has become the conventional approach for treating curved boundaries and recovering the optimal high-order of convergence. The technique employs curved meshes to geometrically fit the physical boundary, and similar techniques have been proposed for the finite volume (FVM) and discontinuous Galerkin (DGM) methods. Although effective, these techniques suffer from significant drawbacks, such as the need for sophisticated meshing algorithms for generating curved meshes, cumbersome quadrature rules for curved elements, and complex nonlinear transformations. In that concern, the candidate proposed in [1,2] a novel approach, called the reconstruction for off-site data (ROD), to recover the high-order of convergence for arbitrary curved boundaries while overcoming such limitations. The ROD method transfers the prescribed boundary conditions from the physical boundary to the mesh boundary through specific constrained polynomial reconstructions. Thus, the problem unknowns are defined on the mesh, and the discretisation is performed on polygonal elements solely. Therefore, conventional meshing algorithms for polygonal meshes can be used, simple quadrature rules for polygonal elements can be applied, and the method completely avoids complex nonlinear transformations. The technique was developed in the FVM for the 2D convection-diffusion problem with general boundary conditions, effectively achieving the sixth-order of convergence on unstructured meshes. The proposed approach has received significant attention from the scientific community for its simplicity, efficiency, and generality in handling any boundary condition, and the extension to the FDM and DGM has already been successfully accomplished [3,4,5].
+Treating complex geometries is critical in developing high-order accurate discretisation methods (above the second-order) for the numerical simulation of real engineering applications. However, most works published in that context only consider simple polygonal domains, substantially limiting their practical applicability. In particular, the treatment of curved domains requires sophisticated techniques to overcome the geometrical mismatch between the physical boundary (where the boundary conditions are prescribed) and the mesh boundary (where the equations are discretised).
+
+In the finite element context, the **isoparametric elements method** has become the conventional approach for treating curved boundaries and recovering the optimal high-order of convergence. The technique employs **curved meshes** to geometrically fit the physical boundary, and similar techniques have been proposed for the finite volume (FVM) and discontinuous Galerkin (DGM) methods. Although effective, these techniques suffer from significant drawbacks, such as:
+
+- **Sophisticated meshing algorithms** for generating meshes with curved elements.
+- **Cumbersome quadrature rules** for integration on the curved elements.
+- **Complex nonlinear transformations** for the mapping between the curved elements and the standard elements.
+
+In [1,2] a novel approach is proposed, the **reconstruction for off-site data (ROD) method**, to recover the high-order of convergence for arbitrary curved boundaries while overcoming such limitations. The ROD method transfers the prescribed boundary conditions from the physical boundary to the mesh boundary through specific constrained polynomial reconstructions. Thus, the problem unknowns are defined on the mesh, and the discretisation is performed on polygonal elements solely. Therefore:
+
+- **Conventional meshing algorithms**  for generating meshes with polygonal elements.
+- **Simple quadrature rules** for integration on the polygonal elements.
+- **There are no transformations** for the mapping since curved elements are avoided.
+
+The technique was developed in the FVM for the 2D convection-diffusion problem with **general boundary conditions**, effectively achieving the sixth-order of convergence on unstructured meshes. The proposed approach has received significant attention from the scientific community for its **simplicity**, **efficiency**, and **generality** in handling any boundary condition, and the extension to the FDM and DGM has already been successfully accomplished [3,4,5].
 
 ### Conjugate heat transfer problems
 

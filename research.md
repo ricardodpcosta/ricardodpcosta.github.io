@@ -22,12 +22,12 @@ In the finite element context, the **isoparametric elements method** has become 
 <p style="margin-bottom: 1cm;"></p>
 
 <div class="row">
-  <div class="column" style="width: 50%; text-align:center>
-    <img style="width: 100%; display: block; margin-left: auto; margin-right: auto;" src="public/curved_mesh.png">
+  <div class="column" style="width: 50%; text-align:center">
+    <img style="width: 70%; display: block; margin-left: auto; margin-right: auto;" src="public/curved_mesh.png">
     Curved mesh.
   </div>
-  <div class="column" style="width: 50%;">
-    <img style="width: 100%; display: block; margin-left: auto; margin-right: auto;" src="public/polygonal_mesh.png">
+  <div class="column" style="width: 50%; text-align:center">
+    <img style="width: 70%; display: block; margin-left: auto; margin-right: auto;" src="public/polygonal_mesh.png">
     Polygonal mesh.
   </div>
 </div>

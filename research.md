@@ -52,11 +52,11 @@ Another essential challenge in the numerical simulation of real engineering appl
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:90%; display:block; margin-left:auto; margin-right:auto;" src="public/continuity_interface_condition.png">
+    <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/continuity_interface_condition.png">
     Continuity interface condition.
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:90%; display:block; margin-left:auto; margin-right:auto;" src="public/jump_interface_condition.png">
+    <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/jump_interface_condition.png">
     Jump interface condition.
   </div>
 </div>
@@ -83,7 +83,7 @@ The conventional no-slip (Dirichlet) boundary condition does not always hold in 
     Boundary maximum curvature.
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:50%; display:block; margin-left:auto; margin-right:auto; padding-top:2em;" src="public/boundary_minimum_curvature.png">
+    <img style="width:50%; display:block; margin-left:auto; margin-right:auto; padding-top:5em;" src="public/boundary_minimum_curvature.png">
     Boundary minimum curvature.
   </div>
 </div>

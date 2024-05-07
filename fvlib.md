@@ -15,6 +15,8 @@ The FVLib code is the result of years of dedication and passion for applied math
 
 #### **Modern object-oriented Fortran (2003/2008 standards)**
 
+<p style="margin-bottom:1cm;"></p>
+
 The FVLib code is programmed in modern Fortran (2003/2008 standards) with an object-oriented paradigm for better <span style="color:blue">_code reuse, maintenance, and readability_</span>. Its architecture is organised in three levels:
 
 - **core level**: including linear algebra algorithms, input/output interfaces, mesh and field handlers, sparse matrix structures, etc.
@@ -38,6 +40,8 @@ The FVLib code is programmed in modern Fortran (2003/2008 standards) with an obj
 
 #### **Highly accurate schemes in space and time**
 
+<p style="margin-bottom:1cm;"></p>
+
 The discretisation methods implemented in the FVLib code are highly accurate in space and time, effectively achieving up to the eighth-order of convergence. Comprehensive benchmarking proves that high-order accurate schemes benefit from a <span style="color:blue">_better trade-off between accuracy and efficiency_</span> than the counterpart lower-order accurate ones. This property can be exploited in different ways:
 
 - **Improved accuracy**: for the same discrete geometrical representation level (number of degrees of freedom), high-order accurate schemes provide <span style="color:blue">_significantly more accurate solutions_</span> than those obtained with the traditional first- and second-order accurate schemes.
@@ -60,6 +64,8 @@ The discretisation methods implemented in the FVLib code are highly accurate in 
 ---
 
 #### **Unstructured meshes for complex geometries**
+
+<p style="margin-bottom:1cm;"></p>
 
 Complex geometries arise in many real-world problems of physics and engineering applications, for which domain fitted unstructured meshes are still the preferred approach for its <span style="color:blue">_flexibility and robustness_</span>, especially in 3D.
 
@@ -97,10 +103,14 @@ Complex geometries arise in many real-world problems of physics and engineering 
 
 #### **Parallel computing for HPC environments**
 
+<p style="margin-bottom:1cm;"></p>
+
 The FVLib code multi-processing capabilities are implemented based on the <span style="color:blue">_shared-memory and message-passing parallel programming models_</span> through the OpenMP and OpenMPI application programming interfaces. It allows the development and deployment of portable and scalable large-scale parallel applications that take advantage of modern HPC systems.
 
 ---
 
 ### Contributing
+
+<p style="margin-bottom:1cm;"></p>
 
 The FVLib code is not currently an open-source project. However, anyone willing to contribute to the project and/or making use of its capabilities on a collaboration basis is welcome. If you are interested in using it or need further details, you can always [contact me](mailto:rcosta@dep.uminho.pt).

@@ -81,6 +81,27 @@ Another essential challenge in the numerical simulation of real engineering appl
 
 The numerical solution of the Navier-Stokes equations is fundamental in computational fluid dynamics. When the incompressibility constraint (div-grad duality) is considered, significant challenges arise for developing accurate, robust, and stable discretisations, particularly in the high-order accurate context. In that concern, the candidate proposed in [9,10] a very high-order accurate FVM based on specific polynomial reconstructions computed on a staggered mesh construction to handle the div-grad duality. The solution of the resulting velocity-pressure coupled system was also improved with a novel incomplete inverse preconditioning technique based on the Schur complement for the saddle-point matrix. The method was further improved and equipped with the ROD method [11] to solve 2D fluid flow problems in arbitrary curved boundaries, effectively achieving the sixth-order of convergence on unstructured meshes.
 
+<p style="margin-bottom:1cm;"></p>
+
+<div class="row">
+  <div class="column" style="width:50%; text-align:center;">
+    <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/pressure.png">
+  </div>
+  <div class="column" style="width:50%; text-align:center;">
+    <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/streamlines.png">
+  </div>
+</div>
+<div class="row">
+  <div class="column" style="width:50%; text-align:center;">
+    Pressure.
+  </div>
+  <div class="column" style="width:50%; text-align:center;">
+    Streamlines.
+  </div>
+</div>
+
+<p style="margin-bottom:1cm;"></p>
+
 ---
 
 ### General slip boundary conditions

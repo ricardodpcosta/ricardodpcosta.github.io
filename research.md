@@ -50,7 +50,7 @@ In [[here](https://doi.org/10.1016/j.apm.2017.10.016),[here](https://doi.org/10.
 - **Simple quadrature rules** for integration on the polygonal elements.
 - **There are no transformations** for the mapping since curved elements are avoided.
 
-The technique was developed in the FVM paradigm for the 2D convection-diffusion problem with **general boundary conditions**, effectively achieving the sixth-order of convergence on unstructured meshes. The proposed approach has received significant attention from the scientific community for its **simplicity**, **efficiency**, and **generality** in handling any boundary condition, and the extension to the FDM and DGM has already been successfully accomplished [3,4,5].
+The technique was developed in the FVM paradigm for the 2D convection-diffusion problem with **general boundary conditions**, effectively achieving the sixth-order of convergence on unstructured meshes. The proposed approach has received significant attention from the scientific community for its **simplicity**, **efficiency**, and **generality** in handling any boundary condition, and the extension to the FDM and DGM has already been successfully accomplished [[here](https://doi.org/10.1016/j.cma.2019.112782),[here](https://doi.org/10.1016/j.jcp.2021.110217)].
 
 ---
 

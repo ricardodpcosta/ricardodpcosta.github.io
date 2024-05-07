@@ -83,7 +83,7 @@ The conventional no-slip (Dirichlet) boundary condition does not always hold in 
     Boundary maximum curvature.
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:50%; display:block; margin-left:auto; margin-right:auto; padding-top:5em;" src="public/boundary_minimum_curvature.png">
+    <img style="width:50%; display:block; margin-left:auto; margin-right:auto; padding-top:3em;" src="public/boundary_minimum_curvature.png">
     Boundary minimum curvature.
   </div>
 </div>

@@ -3,7 +3,7 @@ layout: page
 title: FVLib code
 ---
 
-## <span style="color:grey">The Great </span>F<span style="color:grey">inite</span> V<span style="color:grey">olume</span> Lib<span style="color:grey">rary</span>
+## <span style="color:lightgrey">The Great </span>F<span style="color:lightgrey">inite</span> V<span style="color:lightgrey">olume</span> Lib<span style="color:lightgrey">rary</span>
 
 <p style="margin-bottom:1cm;"></p>
 

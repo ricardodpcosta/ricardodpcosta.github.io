@@ -11,6 +11,8 @@ title: Research
 
 ### Arbitrary curved boundaries
 
+<p style="margin-bottom:1cm;"></p>
+
 Treating complex geometries is critical in developing high-order accurate discretisation methods (above the second-order) for the numerical simulation of real engineering applications. However, most works published in that context only consider simple polygonal domains, substantially limiting their practical applicability. In particular, the treatment of curved domains requires sophisticated techniques to overcome the geometrical mismatch between the physical boundary (where the boundary conditions are prescribed) and the mesh boundary (where the equations are discretised).
 
 In the finite element context, the **isoparametric elements method** has become the conventional approach for treating curved boundaries and recovering the optimal high-order of convergence. The technique employs **curved meshes** to geometrically fit the physical boundary, and similar techniques have been proposed for the finite volume (FVM) and discontinuous Galerkin (DGM) methods. Although effective, these techniques suffer from significant drawbacks, such as:
@@ -52,6 +54,8 @@ The technique was developed in the FVM context for the 2D convection-diffusion p
 
 ### Conjugate heat transfer problems
 
+<p style="margin-bottom:1cm;"></p>
+
 Many real engineering applications concern **non-isothermal physical systems** that involve thermodynamic processes between solids and fluids, consisting of materials with different thermal properties that are **thermally coupled** through non-adiabatic contacts. The **conjugate heat transfer** (CHT) problem consists in determining the temperature distribution in these **multi-material domains** with specific thermodynamic laws applied for the heat transfer on the contacts.
 
 Many multi-physics problems in fluid mechanics, solid mechanics, and electromagnetics involve multi-material domains and physical quantities that depend on the temperature, such as **thermomechanics**, **thermoelasticity**, **electrothermomagnetics**, and **fluid-thermal-structure interaction**. Thus, the development of accurate and robust discretisation methods for elliptic and parabolic equations with discontinuous coefficients is an essential challenge in the numerical simulation of real engineering applications.
@@ -85,6 +89,8 @@ Treating multi-domain problems with discontinuous coefficients requires a specia
 
 ### Incompressible fluid flow problems
 
+<p style="margin-bottom:1cm;"></p>
+
 The numerical solution of the Navier-Stokes equations is fundamental in computational fluid dynamics. When the incompressibility constraint (div-grad duality) is considered, significant challenges arise for developing accurate, robust, and stable discretisations, particularly in the high-order accurate context. In that concern, the candidate proposed in [9,10] a very high-order accurate FVM based on specific polynomial reconstructions computed on a staggered mesh construction to handle the div-grad duality. The solution of the resulting velocity-pressure coupled system was also improved with a novel incomplete inverse preconditioning technique based on the Schur complement for the saddle-point matrix. The method was further improved and equipped with the ROD method [11] to solve 2D fluid flow problems in arbitrary curved boundaries, effectively achieving the sixth-order of convergence on unstructured meshes.
 
 <p style="margin-bottom:1cm;"></p>
@@ -111,6 +117,8 @@ The numerical solution of the Navier-Stokes equations is fundamental in computat
 ---
 
 ### General slip boundary conditions
+
+<p style="margin-bottom:1cm;"></p>
 
 The conventional no-slip (Dirichlet) boundary condition does not always hold in several fluid flow problems and must be replaced with appropriate slip conditions. These conditions are particularly challenging to impose, and their numerical treatment is a delicate issue far from being well-developed. Indeed, despite its importance from inviscid to viscoelastic fluid flow problems, the literature on the subject is limited, and the existing methods can only achieve the second-order of convergence. In that concern, the candidate proposed in [12] a simple and efficient numerical treatment in the FVM paradigm of general slip boundary conditions prescribed on arbitrary curved boundaries for 3D fluid flow problems governed by the incompressible Navier–Stokes equations. On curved boundaries, the slip boundary conditions are reformulated on a local reference system, allowing a direct application of the ROD method to achieve the eighth-order of convergence on unstructured meshes.
 

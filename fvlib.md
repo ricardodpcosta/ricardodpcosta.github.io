@@ -19,11 +19,11 @@ The FVLib code is the result of years of dedication and passion for applied math
 
 The FVLib code is programmed in modern Fortran (2003/2008 standards) with an object-oriented paradigm for better <span style="color:blue">_code reuse, maintenance, and readability_</span>. Its architecture is organised in three levels:
 
-- **core level**: including linear algebra algorithms, input/output interfaces, mesh and field handlers, sparse matrix structures, etc.
+- **Core level**: including linear algebra algorithms, input/output interfaces, mesh and field handlers, sparse matrix structures, etc.
 
-- **applications level**: including specific model solvers, specific boundary and interface conditions, and pre-processing and post-processing tools.
+- **Applications level**: including specific model solvers, specific boundary and interface conditions, and pre-processing and post-processing tools.
 
-- **cases level**: including geometry files, mesh generation scripts, models and schemes parameters files, and running and post-processing scripts.
+- **Cases level**: including geometry files, mesh generation scripts, models and schemes parameters files, and running and post-processing scripts.
 
 <p style="margin-bottom:1cm;"></p>
 

@@ -78,12 +78,12 @@ The conventional no-slip (Dirichlet) boundary condition does not always hold in 
 <p style="margin-bottom:1cm;"></p>
 
 <div class="row">
-  <div class="column" style="width:50%; text-align:center; display:flex; justify-content:center; align-items:center;">
+  <div class="column" style="width:50%; text-align:center;">
     <img style="width:50%; display:block; margin-left:auto; margin-right:auto;" src="public/boundary_maximum_curvature.png">
     Boundary maximum curvature.
   </div>
-  <div class="column" style="width:50%; text-align:center; display:flex; justify-content:center; align-items:center;">
-    <img style="width:50%; display:block; margin-left:auto; margin-right:auto;" src="public/boundary_minimum_curvature.png">
+  <div class="column" style="width:50%; text-align:center;">
+    <img style="width:50%; display:block; margin-left:auto; margin-right:auto; padding-top:2em;" src="public/boundary_minimum_curvature.png">
     Boundary minimum curvature.
   </div>
 </div>

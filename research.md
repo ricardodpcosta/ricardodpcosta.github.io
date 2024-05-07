@@ -9,6 +9,8 @@ title: Research
       Short description on the most relevant research topics I have investigated. Please refer to the <i>Curriculum Vitae</i> for a complete list.
 </div>
 
+---
+
 ### Arbitrary curved boundaries
 
 <p style="margin-bottom:1cm;"></p>

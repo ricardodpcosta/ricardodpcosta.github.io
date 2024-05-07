@@ -11,11 +11,9 @@ The FVLib code is a library of advanced computational algorithms and numerical m
 
 The FVLib code is the result of years of dedication and passion for applied mathematics and scientific computing, and the ambition of **pushing the limits of numerical simulation even further** in serving the scientific knowledge and technological innovation.
 
-### Highlighted features
-
 ---
 
-#### **Modern object-oriented Fortran (2003/2008 standards)**
+### **Modern object-oriented Fortran (2003/2008 standards)**
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -40,7 +38,7 @@ The FVLib code is programmed in modern Fortran (2003/2008 standards) with an obj
 
 ---
 
-#### **Highly accurate schemes in space and time**
+### **Highly accurate schemes in space and time**
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -65,7 +63,7 @@ The discretisation methods implemented in the FVLib code are highly accurate in 
 
 ---
 
-#### **Unstructured meshes for complex geometries**
+### **Unstructured meshes for complex geometries**
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -103,7 +101,7 @@ Complex geometries arise in many real-world problems of physics and engineering 
 
 ---
 
-#### **Parallel computing for HPC environments**
+### **Parallel computing for HPC environments**
 
 <p style="margin-bottom:1cm;"></p>
 

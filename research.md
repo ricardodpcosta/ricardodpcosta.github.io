@@ -6,7 +6,7 @@ title: Research
 <p style="margin-bottom:1cm;"></p>
 
 <div class="message">
-      Short description on the most relevant research topics I have investigated. Please refer to the <i>Curriculum Vitae</i> for a complete list.
+  Short description on the most relevant research topics I have investigated. Please refer to the <i>Curriculum Vitae</i> for a complete list.
 </div>
 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About me
+title: Home
 ---
 
 ### _Welcome to my personal page!_

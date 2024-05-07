@@ -24,10 +24,16 @@ In the finite element context, the **isoparametric elements method** has become 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
     <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/curved_mesh.png">
-    Curved mesh.
   </div>
   <div class="column" style="width:50%; text-align:center;">
     <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/polygonal_mesh.png">
+  </div>
+</div>
+<div class="row">
+  <div class="column" style="width:50%; text-align:center;">
+    Curved mesh.
+  </div>
+  <div class="column" style="width:50%; text-align:center;">
     Polygonal mesh.
   </div>
 </div>
@@ -53,10 +59,16 @@ Another essential challenge in the numerical simulation of real engineering appl
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
     <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/continuity_interface_condition.png">
-    Continuity interface condition.
   </div>
   <div class="column" style="width:50%; text-align:center;">
     <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/jump_interface_condition.png">
+  </div>
+</div>
+<div class="row">
+  <div class="column" style="width:50%; text-align:center;">
+    Continuity interface condition.
+  </div>
+  <div class="column" style="width:50%; text-align:center;">
     Jump interface condition.
   </div>
 </div>
@@ -80,11 +92,9 @@ The conventional no-slip (Dirichlet) boundary condition does not always hold in 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
     <img style="width:50%; display:block; margin-left:auto; margin-right:auto;" src="public/boundary_maximum_curvature.png">
-    Boundary maximum curvature.
   </div>
   <div class="column" style="width:50%; text-align:center;">
     <img style="width:50%; display:block; margin-left:auto; margin-right:auto; padding-top:3em;" src="public/boundary_minimum_curvature.png">
-    Boundary minimum curvature.
   </div>
 </div>
  <div class="row">

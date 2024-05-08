@@ -5,9 +5,15 @@ title: Events
 
 <p style="margin-bottom:1cm;"></p>
 
+<div class="message">
+  List of the events I have attended. Please refer to the <i>Curriculum Vitae</i> for a complete list.
+</div>
+
 ---
 
 ### Organised mini-symposia in conferences/workshops
+
+<p style="margin-bottom:1cm;"></p>
 
 M. Santos and **R. Costa**,\
 <span style="color:blue">_Recent challenges in high-order accurate numerical methods for differential equations_</span>,\
@@ -18,6 +24,8 @@ June 26-30, 2023, Wrocław, Poland.
 ---
 
 ### Organised international conferences
+
+<p style="margin-bottom:1cm;"></p>
 
 **SHARK-FV-2023 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
 May 22-26, 2023, São Félix, Portugal.\
@@ -54,6 +62,8 @@ April 28-May 2, 2014, Ofir, Portugal.\
 ---
 
 ### Attended conferences
+
+<p style="margin-bottom:1cm;"></p>
 
 **CIMA-2023 – II Congreso Internacional de Matem\'atica y Aplicaciones**,\
 September 18-22, 2023, Ica, Peru (online).
@@ -136,6 +146,8 @@ September 9-10, 2013, Lisbon, Portugal.
 ---
 
 ### Attended workshops
+
+<p style="margin-bottom:1cm;"></p>
 
 **exaFOAM-2023 – exaFOAM Workshop**,\
 June 12-13, 2023 (online).

@@ -29,10 +29,10 @@ The FVLib code is programmed in modern Fortran (2003/2008 standards) with an obj
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/apps.png">
+    <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/applications_level.png">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/case.png">
+    <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/cases_level.png">
   </div>
 </div>
 <div class="row">

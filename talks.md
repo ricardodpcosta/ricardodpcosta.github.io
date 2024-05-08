@@ -120,7 +120,8 @@ May 18-22, 2015, Ofir, Portugal.\
 1. **R. Costa**, S. Clain, and G.J. Machado,\
 <span style="color:blue">_6-th order finite volume approximations for the Stokes equations with a curved boundary_</span>,\
 SYMCOMP 2015 – 2nd International Conference on Numerical and Symbolic Computation: Developments and Applications,\
-March 26-27, 2015, Faro, Portugal.
+March 26-27, 2015, Faro, Portugal.\
+[http://symcomp.net/](http://symcomp.net/).
 
 1. **R. Costa**, S. Clain, and G.J. Machado,\
 <span style="color:blue">_A sixth-order finite volume scheme for the steady-state incompressible Stokes equations on staggered unstructured meshes_</span>,\
@@ -131,7 +132,8 @@ March 16-20, 2015, Trento, Italy.\
 1. **R. Costa**, S. Clain, and G.J. Machado,\
 <span style="color:blue">_Finite volume scheme based on cell-vertex reconstructions for anisotropic diffusion problems with discontinuous coefficients_</span>,\
 ICCSA 2014 – International Conference on Computational Science and Its Applications,\
-June 30-July 3, 2014, Guimarães, Portugal.
+June 30-July 3, 2014, Guimarães, Portugal.\
+[https://2014.iccsa.org/index.html](https://2014.iccsa.org/index.html).
 
 1. **R. Costa**, S. Clain, and G.J. Machado,\
 <span style="color:blue">_A new cell-vertex reconstruction method for finite volume schemes_</span>,\
@@ -142,7 +144,8 @@ April 28-May 2, 2014, Ofir, Portugal.\
 1. **R. Costa**, S. Clain, and G.J. Machado,\
 <span style="color:blue">_Bending of a beam with finite volume schemes_</span>,\
 Proceedings of the SYMCOMP 2013, International Conference on Algebraic and Symbolic Computation,\
-September 9-10, 2013, Lisbon, Portugal.
+September 9-10, 2013, Lisbon, Portugal.\
+[https://www.symcomp2023.uevora.pt/](https://www.symcomp2023.uevora.pt/).
 
 ---
 

@@ -6,12 +6,12 @@ title: Publications
 <p style="margin-bottom:1cm;"></p>
 
 <div class="message">
-  List of the most relevant publications. Please refer to the <i>Curriculum Vitae</i> for a complete list.
+  List of peer-reviewed publications. Please refer to the <i>Curriculum Vitae</i> for a complete list.
 </div>
 
 ---
 
-### Peer-reviewed publications in international journals (16)
+### Peer-reviewed publications in international journals
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -98,7 +98,7 @@ DOI: [https://doi.org/10.1007/978-3-319-09144-0_7](https://doi.org/10.1007/978-3
 
 <p style="margin-bottom: 0.8cm;"></p>
 
-### Dissertations and theses (2)
+### Dissertations and theses
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -114,7 +114,7 @@ Available [here](http://repositorium.sdum.uminho.pt/handle/1822/39251).
 
 <p style="margin-bottom: 0.8cm;"></p>
 
-### Peer-reviewed publications in international conferences (4)
+### Peer-reviewed publications in international conferences
 
 <p style="margin-bottom:1cm;"></p>
 

@@ -6,7 +6,7 @@ title: Events
 <p style="margin-bottom:1cm;"></p>
 
 <div class="message">
-  List of the events I have attended. Please refer to the <i>Curriculum Vitae</i> for a complete list.
+  List of attended and organised international conferences and workshops. Please refer to the <i>Curriculum Vitae</i> for a complete list.
 </div>
 
 ---

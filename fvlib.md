@@ -35,6 +35,14 @@ The FVLib code is programmed in modern Fortran (2003/2008 standards) with an obj
     <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/case.png">
   </div>
 </div>
+<div class="row">
+  <div class="column" style="width:50%;">
+    Applications level.
+  </div>
+  <div class="column" style="width:50%;">
+    Cases setup.
+  </div>
+</div>
 
 ---
 
@@ -60,6 +68,14 @@ The discretisation methods implemented in the FVLib code are highly accurate in 
     <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/error_vs_time.png">
   </div>
 </div>
+<div class="row">
+  <div class="column" style="width:50%;">
+    Error <em>versus</em> number of unknowns.
+  </div>
+  <div class="column" style="width:50%;">
+    Error <em>versus</em> execution time.
+  </div>
+</div>
 
 ---
 
@@ -83,6 +99,14 @@ Complex geometries arise in many real-world problems of physics and engineering 
     <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/unstructured_mesh.png">
   </div>
 </div>
+<div class="row">
+  <div class="column" style="width:50%;">
+    Intricate curved geometry.
+  </div>
+  <div class="column" style="width:50%;">
+    Unstructured linear piecewise mesh.
+  </div>
+</div>
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -96,6 +120,14 @@ Complex geometries arise in many real-world problems of physics and engineering 
   </div>
   <div class="column" style="width:50%;">
     <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/gmsh2.png">
+  </div>
+</div>
+<div class="row">
+  <div class="column" style="width:50%;">
+    Gmsh snapshot with geometry.
+  </div>
+  <div class="column" style="width:50%;">
+    Gmsh snapshot with mesh.
   </div>
 </div>
 

@@ -99,7 +99,7 @@ ENEGI 2016 – Encontro Nacional de Engenharia e Gestão Industrial,\
 November 17-18, 2016, Covilhã, Portugal.\
 [https://www.ubi.pt/Pagina/enegi_2016/](https://www.ubi.pt/Pagina/enegi_2016/).
 
-1. **R. Costa**, S. Clain, G.J. Machado, and R. Loub\`ere,\
+1. **R. Costa**, S. Clain, G.J. Machado, and R. Loubère,\
 <span style="color:blue">_High-order accurate finite volume method for curved boundaries and non-matching domain-mesh problems_</span>,\
 SHARK-FV 2016 – Sharing High-order Advanced Research Know-how on Finite Volume,\
 May 23-27, 2016, São Félix, Portugal.\
@@ -293,6 +293,8 @@ February 26, 2015, Guimarães, Portugal.
 ---
 
 ### Proposed poster presentations in conferences/workshops
+
+<p style="margin-bottom:1cm;"></p>
 
 1. **R. Costa**, J.M. Nóbrega, S. Clain, and G.J. Machado,\
 <span style="color:blue">_Improving the performance of computational modelling tools for polymer processing applications through innovative numerical methods_</span>,\

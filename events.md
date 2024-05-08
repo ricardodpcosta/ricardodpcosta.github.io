@@ -11,7 +11,7 @@ title: Events
 
 ---
 
-### Organised mini-symposia in conferences/workshops
+### Organised mini-symposia in conferences
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -65,14 +65,17 @@ April 28-May 2, 2014, Ofir, Portugal.\
 
 <p style="margin-bottom:1cm;"></p>
 
-**CIMA-2023 – II Congreso Internacional de Matem\'atica y Aplicaciones**,\
+**FOAM@IBERIA-2023 – 5th Iberian Meeting of OpenFOAM technology users**,\
+November 2-3, 2023, Guimarães, Portugal.
+
+**CIMA-2023 – II Congreso Internacional de Matemática y Aplicaciones**,\
 September 18-22, 2023, Ica, Peru (online).
 
 **ENUMATH-2023 – European Conference on Numerical Mathematics and Advanced Applications**,\
 September 4-8, 2023, Lisbon, Portugal.
 
 **ECMI-2023 – 22nd Conference on Industrial and Applied Mathematics**,\
-June 26-30, 2023, Wroc\l aw, Poland.
+June 26-30, 2023, Wrocław, Poland.
 
 **SHARK-FV-2023 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
 May 22-26, 2023, São Félix, Portugal.
@@ -84,7 +87,7 @@ April 25-28, 2023, Cannes, France.
 September 12-14, 2022, Las Palmas de Gran Canaria, Spain.
 
 **OFW-2022 – 17th OpenFOAM Workshop**,\
-July 11-14, 2022, Cambridge, United Kingdom.
+July 11-14, 2022, Cambridge, United Kingdom (online).
 
 **SHARK-FV-2022 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
 May 23-27, 2022, São Félix, Portugal.
@@ -149,7 +152,10 @@ September 9-10, 2013, Lisbon, Portugal.
 
 <p style="margin-bottom:1cm;"></p>
 
-**exaFOAM-2023 – exaFOAM Workshop**,\
+**exaFOAM-2024 – 2nd exaFOAM Workshop**,\
+March 22, 2024 (online).
+
+**exaFOAM-2023 – 1st exaFOAM Workshop**,\
 June 12-13, 2023 (online).
 
 **MUG-2021 – 1st MACC User Group Workshop**,\

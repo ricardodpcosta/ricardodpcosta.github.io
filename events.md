@@ -67,8 +67,8 @@ April 28-May 2, 2014, Ofir, Portugal.\
 
 - **AI4CM-2023 – Artificial Intelligence for Computational Mechanics**,\
 December 1, 2023, A Coruña, Spain.
-      
-- **FOAM@IBERIA-2023 – 5th Iberian Meeting of OpenFOAM technology users**,\
+
+- **FOAM@IBERIA-2023 – 5th Iberian Meeting of OpenFOAM Technology Users**,\
 November 2-3, 2023, Guimarães, Portugal.
 
 - **CIMA-2023 – II Congreso Internacional de Matemática y Aplicaciones**,\
@@ -104,16 +104,16 @@ February 24-26, 2021, London, United Kingdom (online).
 - **CMN-2019 – Congress on Numerical Methods in Engineering**,\
 July 1-3, 2019, Guimarães, Portugal.
 
-- **FOAM@IBERIA-2019 – 3rd Iberian Meeting of OpenFOAM technology users**,\
+- **FOAM@IBERIA-2019 – 3rd Iberian Meeting of OpenFOAM Technology Users**,\
 June 11-12, 2019, Porto, Portugal.
 
 - **PPS-2019 – 35th International Conference of the Polymer Processing Society**,\
 May 26-30, 2019, Cesme, Turkey.
 
-- **FOAM@IBERIA-2018 – 2nd Iberian Meeting of OpenFOAM technology users**,\
+- **FOAM@IBERIA-2018 – 2nd Iberian Meeting of OpenFOAM Technology Users**,\
 March 28-29, 2018, Santiago de Compostela, Spain.
 
-- **FOAM@IBERIA-2017 – 1st Iberian Meeting of OpenFOAM technology users**,\
+- **FOAM@IBERIA-2017 – 1st Iberian Meeting of OpenFOAM Technology Users**,\
 March 1-2, 2017, Coimbra, Portugal.
 
 - **SYMCOMP-2017 – 3rd International Conference on Numerical and Symbolic Computation: Developments and Applications**,\

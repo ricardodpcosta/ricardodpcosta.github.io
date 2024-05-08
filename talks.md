@@ -195,7 +195,7 @@ October 23, 2013,Braga, Portugal.
 
 1. **R. Costa**, S. Clain, and G.J. Machado,\
 <span style="color:blue">_A new second-order finite volume scheme for 2D and 3D convection-diffusion problems_</span>,\
-MMNSEA 2013 – Mathematical Modelling and Numerical Simulation for Engineering Applications
+**MMNSEA 2013 – Mathematical Modelling and Numerical Simulation for Engineering Applications**,
 September 13, 2013, Guimarães, Portugal.
 
 1. **R. Costa**, S. Clain, and G.J. Machado,\
@@ -222,22 +222,22 @@ August 28 – September 1, 2023, Matera, Italy.\
 [https://web.unibas.it/simai2023/](https://web.unibas.it/simai2023/).
 
 1. A. Araújo, S. Barbeiro, S. Clain, **R. Costa**, G.J. Machado, and M. Santos,\
-The reconstruction for off-site data for the discontinuous Galerkin method,\
-EWM General Meeting 2022,\
+<span style="color:blue">_The reconstruction for off-site data for the discontinuous Galerkin method_</span>,\
+**EWM General Meeting 2022**,\
 August 22-26, 2022 Espoo (Aalto University), Finland.\
 [https://www.europeanwomeninmaths.org/activities/all-our-activities/gm2022/](https://www.europeanwomeninmaths.org/activities/all-our-activities/gm2022/).
 
 1. S.B. Naqvi, M. Karimi, **R. Costa**, and J.M. Nóbrega,\
 <span style="color:blue">_Improvement of the three-dimensional CFD solver PUFoam for industrial applications_</span>,\
-**FOAM@IBERIA 2022 – 4th  Iberian Meeting of OpenFOAM technology users**,\
+**FOAM@IBERIA 2022 – 4th Iberian Meeting of OpenFOAM technology users**,\
 September 21-22, 2022, Satander, Spain.\
-[https://foam-iberia.eu/](https://foam-iberia.eu/).
+[https://2022.foam-iberia.eu/](https://2022.foam-iberia.eu/).
 
 1. R. Ribeiro, B. Ramôa, **R. Costa**, and J.M. Nóbrega,\
 <span style="color:blue">_Injection molding simulation in footwear industry_</span>,\
-**FOAM@IBERIA 2022 – 4th  Iberian Meeting of OpenFOAM technology users**,\
+**FOAM@IBERIA 2022 – 4th Iberian Meeting of OpenFOAM technology users**,\
 September 21-22, 2022, Satander, Spain.\
-[https://foam-iberia.eu/](https://foam-iberia.eu/).
+[https://2022.foam-iberia.eu/](https://2022.foam-iberia.eu/).
 
 1. S.B. Naqvi, M. Karimi, **R. Costa**, and J.M. Nóbrega,\
 <span style="color:blue">_Improvement of a solver to model the formation of polyurethane foams_</span>,\
@@ -303,7 +303,7 @@ July 15, 2019, Guimarães, Portugal.
 
 1. **R. Costa**, J.M. Nóbrega, S. Clain, and G.J. Machado,\
 <span style="color:blue">_Improving the performance of computational modelling tools for polymer processing applications through innovative numerical methods_</span>,\
-**FOAM@IBERIA – 3rd  Iberian Meeting of OpenFOAM technology users**,\
+**FOAM@IBERIA – 3rd Iberian Meeting of OpenFOAM technology users**,\
 June 11-12, 2019, Porto, Portugal.
 
 1. **R. Costa**, J.M. Nóbrega, S. Clain, and G.J. Machado,\
@@ -346,15 +346,15 @@ May 22--26, 2023, St. Gallen, Switzerland.\
 
 1. J. Golhar, **R. Costa**, and J.M. Nóbrega,\
 <span style="color:blue">_Towards fractional viscoelastic models in OpenFOAM_</span>,\
-**FOAM@IBERIA 2022 – 4th  Iberian Meeting of OpenFOAM technology users**,\
+**FOAM@IBERIA 2022 – 4th Iberian Meeting of OpenFOAM technology users**,\
 September 21-22, 2022, Satander, Spain.\
-[https://foam-iberia.eu/](https://foam-iberia.eu/).
+[https://2022.foam-iberia.eu/](https://2022.foam-iberia.eu/).
 
 1. J. Castro, **R. Costa**, and J.M. Nóbrega,\
 <span style="color:blue">_Computational modelling of the selective laser sintering process in OpenFOAM_</span>,\
-**FOAM@IBERIA 2022 – 4th  Iberian Meeting of OpenFOAM technology users**,\
+**FOAM@IBERIA 2022 – 4th Iberian Meeting of OpenFOAM technology users**,\
 September 21-22, 2022, Satander, Spain.\
-[https://foam-iberia.eu/](https://foam-iberia.eu/).
+[https://2022.foam-iberia.eu/](https://2022.foam-iberia.eu/).
 
 1. A. FontaÍnhas, J. Pedro, J. Romero, **R. Costa**, J.M. Nóbrega, and C. Fernandes,\
 <span style="color:blue">_Development and verification of an open-source computational framework to simulate injection moulding_</span>,\

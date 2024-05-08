@@ -130,18 +130,18 @@ The literature on general slip boundary conditions is limited, and the existing 
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:50%; display:block; margin-left:auto; margin-right:auto;" src="public/boundary_maximum_curvature.png">
+    <img style="width:50%; display:block; margin-left:auto; margin-right:auto;" src="public/boundary_minimum_curvature.png">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:50%; display:block; margin-left:auto; margin-right:auto; padding-top:3em;" src="public/boundary_minimum_curvature.png">
+    <img style="width:50%; display:block; margin-left:auto; margin-right:auto; padding-top:3em;" src="public/boundary_maximum_curvature.png">
   </div>
 </div>
  <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    Boundary maximum curvature.
+    Boundary minimum curvature.
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    Boundary minimum curvature.
+    Boundary maximum curvature.
   </div>
 </div>
 

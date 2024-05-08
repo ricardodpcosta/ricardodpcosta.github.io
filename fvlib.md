@@ -28,18 +28,18 @@ The FVLib code is programmed in modern Fortran (2003/2008 standards) with an obj
 <p style="margin-bottom:1cm;"></p>
 
 <div class="row">
-  <div class="column" style="width:50%;">
+  <div class="column" style="width:50%; text-align:center;">
     <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/apps.png">
   </div>
-  <div class="column" style="width:50%;">
+  <div class="column" style="width:50%; text-align:center;">
     <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/case.png">
   </div>
 </div>
 <div class="row">
-  <div class="column" style="width:50%;">
+  <div class="column" style="width:50%; text-align:center;">
     Applications level.
   </div>
-  <div class="column" style="width:50%;">
+  <div class="column" style="width:50%; text-align:center;">
     Cases setup.
   </div>
 </div>
@@ -61,18 +61,18 @@ The discretisation methods implemented in the FVLib code are highly accurate in 
 <p style="margin-bottom:1cm;"></p>
 
 <div class="row">
-  <div class="column" style="width:50%;">
+  <div class="column" style="width:50%; text-align:center;">
     <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/error_vs_dof.png">
   </div>
-  <div class="column" style="width:50%;">
+  <div class="column" style="width:50%; text-align:center;">
     <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/error_vs_time.png">
   </div>
 </div>
 <div class="row">
-  <div class="column" style="width:50%;">
+  <div class="column" style="width:50%; text-align:center;">
     Error <em>versus</em> number of unknowns.
   </div>
-  <div class="column" style="width:50%;">
+  <div class="column" style="width:50%; text-align:center;">
     Error <em>versus</em> execution time.
   </div>
 </div>
@@ -92,18 +92,18 @@ Complex geometries arise in many real-world problems of physics and engineering 
 <p style="margin-bottom:1cm;"></p>
 
 <div class="row">
-  <div class="column" style="width:50%;">
+  <div class="column" style="width:50%; text-align:center;">
     <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/geometry.png">
   </div>
-  <div class="column" style="width:50%;">
+  <div class="column" style="width:50%; text-align:center;">
     <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/unstructured_mesh.png">
   </div>
 </div>
 <div class="row">
-  <div class="column" style="width:50%;">
+  <div class="column" style="width:50%; text-align:center;">
     Intricate curved geometry.
   </div>
-  <div class="column" style="width:50%;">
+  <div class="column" style="width:50%; text-align:center;">
     Unstructured linear piecewise mesh.
   </div>
 </div>
@@ -115,18 +115,18 @@ Complex geometries arise in many real-world problems of physics and engineering 
 <p style="margin-bottom:1cm;"></p>
 
 <div class="row">
-  <div class="column" style="width:50%;">
+  <div class="column" style="width:50%; text-align:center;">
     <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/gmsh1.png">
   </div>
-  <div class="column" style="width:50%;">
+  <div class="column" style="width:50%; text-align:center;">
     <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/gmsh2.png">
   </div>
 </div>
 <div class="row">
-  <div class="column" style="width:50%;">
+  <div class="column" style="width:50%; text-align:center;">
     Gmsh snapshot with geometry.
   </div>
-  <div class="column" style="width:50%;">
+  <div class="column" style="width:50%; text-align:center;">
     Gmsh snapshot with mesh.
   </div>
 </div>

@@ -65,6 +65,9 @@ April 28-May 2, 2014, Ofir, Portugal.\
 
 <p style="margin-bottom:1cm;"></p>
 
+- **AI4CM-2023 – Artificial Intelligence for Computational Mechanics**,\
+December 1, 2023, A Coruña, Spain.
+      
 - **FOAM@IBERIA-2023 – 5th Iberian Meeting of OpenFOAM technology users**,\
 November 2-3, 2023, Guimarães, Portugal.
 

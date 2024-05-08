@@ -193,12 +193,12 @@ October 16, 2014, Guimarães, Portugal.
 **EJIUM 2013 – II Encontro de Jovens Investigadores da U.Minho**,\
 October 23, 2013,Braga, Portugal.
 
-1. **R. Costa**, S. Clain and G.J. Machado,\
+1. **R. Costa**, S. Clain, and G.J. Machado,\
 <span style="color:blue">_A new second-order finite volume scheme for 2D and 3D convection-diffusion problems_</span>,\
 MMNSEA 2013 – Mathematical Modelling and Numerical Simulation for Engineering Applications
 September 13, 2013, Guimarães, Portugal.
 
-1. **R. Costa**, S. Clain and G.J. Machado,\
+1. **R. Costa**, S. Clain, and G.J. Machado,\
 <span style="color:blue">_Esquemas de volumes finitos com valores nos vértices para o problema da conveccção-difusão 2D e 3D (Finite volume schemes with vertex values for the 2D and 3D convection-diffusion problem)_</span>,\
 **POLYNUM 2013 – Numerical Simulation of Three-dimensional Polymer Flows and Application to Plastic Forming**,\
 June 24, 2013, Guimarães, Portugal.
@@ -335,12 +335,14 @@ September 12, 2012, Guimarães, Portugal.
 1. M. Santos, A. Araújo, S. Barbeiro, S. Clain, **R. Costa**, and G.J. Machado,\
 <span style="color:blue">_High-order discontinuous Galerkin method on curved boundaries_</span>,\
 **WM23 – 3rd Women in Mathematics Meeting**,\
-July 24--26, 2023, Coimbra, Portugal.
+July 24--26, 2023, Coimbra, Portugal.\
+[https://ucpages.uc.pt/events/wm23/](https://ucpages.uc.pt/events/wm23/).
 
 1. J. Castro, J.M. Nóbrega, and **R. Costa**,\
 <span style="color:blue">_Computational framework to model the selective laser sintering process_</span>,\
 **PPS-38 – 38th International Conference of the Polymer Processing Society**,\
-May 22--26, 2023, St. Gallen, Switzerland.
+May 22--26, 2023, St. Gallen, Switzerland.\
+[https://www.pps-38.org/](https://www.pps-38.org/).
 
 1. J. Golhar, **R. Costa**, and J.M. Nóbrega,\
 <span style="color:blue">_Towards fractional viscoelastic models in OpenFOAM_</span>,\
@@ -357,4 +359,5 @@ September 21-22, 2022, Satander, Spain.\
 1. A. FontaÍnhas, J. Pedro, J. Romero, **R. Costa**, J.M. Nóbrega, and C. Fernandes,\
 <span style="color:blue">_Development and verification of an open-source computational framework to simulate injection moulding_</span>,\
 **CMN 2019 – Congress on Numerical Methods in Engineering**,\
-July 1-3, 2019, Guimarães, Portugal.
+July 1-3, 2019, Guimarães, Portugal.\
+[http://www.cmn2019.pt/](http://www.cmn2019.pt/).

@@ -6,7 +6,7 @@ title: Talks
 <p style="margin-bottom:1cm;"></p>
 
 <div class="message">
-  List of talks and posters presented international conferences and workshops. Please refer to the <i>Curriculum Vitae</i> for a complete list.
+  List of talks and posters presented at international conferences and workshops. Please refer to the <i>Curriculum Vitae</i> for a complete list.
 </div>
 
 ---

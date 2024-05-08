@@ -13,6 +13,8 @@ title: Talks
 
 ### Invited keynote lectures in international conferences
 
+<p style="margin-bottom:1cm;"></p>
+
 1. **R. Costa**, S. Clain, G.J. Machado, J.M. Nóbrega, H. Beirão da Veiga, and F. Crispo,\
 <span style="color:blue">_A very high-order accurate finite volume scheme on polygonal meshes for 3D incompressible flows with general slip conditions on curved boundaries_</span>,\
 CFC 2023 – 2nd Computational Fluids Conference,\
@@ -23,6 +25,8 @@ April 25-28, 2023, Cannes, France.\
 
 ### Invited oral presentations in international conferences
 
+<p style="margin-bottom:1cm;"></p>
+
 1. **R. Costa**, S. Clain, G.J. Machado, J.M. Nóbrega, H. Beirão da Veiga, and F. Crispo,\
 <span style="color:blue">_The reconstruction for off-site data method for very high-order accurate finite volume schemes on arbitrary curved boundaries_</span>,\
 CIMA 2023 – II Congreso Internacional de Matem\'atica y Aplicaciones,\
@@ -32,6 +36,8 @@ September 18-22, 2023, Ica, Peru (online).\
 ---
 
 ### Proposed oral presentations in conferences/workshops
+
+<p style="margin-bottom:1cm;"></p>
 
 1. **R. Costa**, S. Clain, G.J. Machado, J.M. Nóbrega, H. Beirão da Veiga, and F. Crispo,\
 <span style="color:blue">_Imposing slip conditions on curved boundaries for 3D incompressible flows with a very high-order accurate finite volume scheme on polygonal meshes_</span>,\
@@ -151,6 +157,8 @@ September 9-10, 2013, Lisbon, Portugal.\
 
 ### Oral presentations in project workshops
 
+<p style="margin-bottom:1cm;"></p>
+
 1. **R. Costa**, and J.M. Nóbrega,\
 <span style="color:blue">_Viscoelastic fluid flows for industrial relevant case studies_</span>,\
 exaFOAM Workshop 2023,\
@@ -198,6 +206,8 @@ June 24, 2013, Guimarães, Portugal.
 ---
 
 ### Co-authorship of proposed oral presentations in conferences/workshops
+
+<p style="margin-bottom:1cm;"></p>
 
 1. J. Castro, J.M. Nóbrega, and **R. Costa**,\
 <span style="color:blue">_A computational framework to model the selective laser sintering process_</span>,\
@@ -257,6 +267,8 @@ June 13-17, 2016, Santiago de Compostela, Spain.\
 
 ### Invited oral presentations for science dissemination to the general public
 
+<p style="margin-bottom:1cm;"></p>
+
 1. **R. Costa**,\
 <span style="color:blue">_Simulação computacional (Computational simulation)_</span>,\
 Open Day at the Department of Polymer Engineering,\
@@ -315,6 +327,8 @@ September 12, 2012, Guimarães, Portugal.
 ---
 
 ### Co-authorship of proposed poster presentations in conferences/workshops
+
+<p style="margin-bottom:1cm;"></p>
 
 1. M. Santos, A. Araújo, S. Barbeiro, S. Clain, **R. Costa**, and G.J. Machado,\
 <span style="color:blue">_High-order discontinuous Galerkin method on curved boundaries_</span>,\

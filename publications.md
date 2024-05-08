@@ -9,6 +9,8 @@ title: Publications
   List of the most relevant publications. Please refer to the <i>Curriculum Vitae</i> for a complete list.
 </div>
 
+---
+
 ### Peer-reviewed publications in international journals (16)
 
 <p style="margin-bottom:1cm;"></p>

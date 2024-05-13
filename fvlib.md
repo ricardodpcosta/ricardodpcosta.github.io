@@ -129,7 +129,7 @@ Complex geometries arise in many real-world problems of physics and engineering 
   <div class="column" style="width:50%; text-align:center;">
     Snapshot of Gmsh with mesh.
   </div>
-  <p style="margin-bottom:0.5cm;"></p>
+  <p style="margin-bottom:1cm;"></p>
   <div class="column" style="width:50%; text-align:center;">
     <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/gmsh3.png">
   </div>

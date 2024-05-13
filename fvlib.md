@@ -37,10 +37,10 @@ The FVLib code is programmed in modern Fortran (2003/2008 standards) with an obj
 </div>
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    Applications level.
+    Snapshot of applications level.
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    Cases setup.
+    Snapshot of cases setup.
   </div>
 </div>
 
@@ -124,10 +124,10 @@ Complex geometries arise in many real-world problems of physics and engineering 
 </div>
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    Gmsh snapshot with geometry.
+    Snapshot of Gmsh with geometry.
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    Gmsh snapshot with mesh.
+    Snapshot of Gmsh with mesh.
   </div>
   <div class="column" style="width:50%; text-align:center;">
     <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/gmsh3.png">
@@ -138,10 +138,10 @@ Complex geometries arise in many real-world problems of physics and engineering 
 </div>
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    Gmsh snapshot with solution.
+    Snapshot of Gmsh with solution.
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    Gmsh snapshot with post-processing.
+    Snapshot of Gmsh with post-processing.
   </div>
 </div>
 

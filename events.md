@@ -29,7 +29,7 @@ June 26-30, 2023, Wrocław, Poland.
 
 - **SHARK-FV-2024 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
 May 27-31, 2024, São Félix, Portugal.\
-[https://shark-fv.eu/old-conferences/shark-fv-2023/](https://shark-fv.eu/old-conferences/shark-fv-2023/).
+[https://shark-fv.eu/home-shark/](https://shark-fv.eu/home-shark/).
 
 - **SHARK-FV-2023 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
 May 22-26, 2023, São Félix, Portugal.\

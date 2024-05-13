@@ -262,11 +262,17 @@ a.sidebar-nav-item:focus {
 }
 
 .column {
-    float: left;
+  float: left;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .row:after {
-    content: "";
-    display: table;
-    clear: both;
+  content: "";
+  display: table;
+  clear: both;
 }

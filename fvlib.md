@@ -129,6 +129,20 @@ Complex geometries arise in many real-world problems of physics and engineering 
   <div class="column" style="width:50%; text-align:center;">
     Gmsh snapshot with mesh.
   </div>
+  <div class="column" style="width:50%; text-align:center;">
+    <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/gmsh3.png">
+  </div>
+  <div class="column" style="width:50%; text-align:center;">
+    <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/gmsh4.png">
+  </div>
+</div>
+<div class="row">
+  <div class="column" style="width:50%; text-align:center;">
+    Gmsh snapshot with solution.
+  </div>
+  <div class="column" style="width:50%; text-align:center;">
+    Gmsh snapshot with post-processing.
+  </div>
 </div>
 
 ---

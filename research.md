@@ -109,10 +109,10 @@ Several stabilisation techniques were developed in the context of first- and sec
 </div>
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    Pressure.
+    Pressure distribution.
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    Streamlines.
+    Velocity streamlines.
   </div>
 </div>
 

@@ -17,8 +17,8 @@ title: Events
 
 - M. Santos and **R. Costa**,\
 <span style="color:blue">_Recent challenges in high-order accurate numerical methods for differential equations_</span>,\
-**ECMI 2023 – 22nd Conference on Industrial and Applied Mathematics**,
-June 26-30, 2023, Wrocław, Poland.
+**ECMI 2023 – 22nd Conference on Industrial and Applied Mathematics**,\
+June 26-30, 2023, Wrocław, Poland.\
 [https://ecmi2023.org/](https://ecmi2023.org/).
 
 ---

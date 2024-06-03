@@ -17,7 +17,7 @@ title: Talks
 
 1. **R. Costa**, S. Clain, G.J. Machado, J.M. Nóbrega, H. Beirão da Veiga, and F. Crispo,\
 <span style="color:blue">_A very high-order accurate finite volume scheme on polygonal meshes for 3D incompressible flows with general slip conditions on curved boundaries_</span>,\
-**CFC 2023 – 2nd Computational Fluids Conference**,\
+**CFC 2023 – 22nd Computational Fluids Conference**,\
 April 25-28, 2023, Cannes, France.\
 [https://cfc2023.iacm.info/](https://cfc2023.iacm.info/).
 

@@ -87,7 +87,7 @@ June 26-30, 2023, Wrocław, Poland.
 - **SHARK-FV-2023 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
 May 22-26, 2023, São Félix, Portugal.
 
-- **CFC-2023 – 2nd Computational Fluids Conference**,\
+- **CFC-2023 – 22nd Computational Fluids Conference**,\
 April 25-28, 2023, Cannes, France.
 
 - **CMN-2022 – Congress on Numerical Methods in Engineering**,\

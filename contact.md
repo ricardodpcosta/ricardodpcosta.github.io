@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-## Contact
+## Graduate and doctoral students
 
 <p style="margin-bottom:1cm;"></p>
 

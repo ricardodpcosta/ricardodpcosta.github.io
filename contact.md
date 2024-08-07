@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-### Students and collaborators
+### Students
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -15,6 +15,12 @@ Possible research topics range from applied mathematics to engineering applicati
 - Efficient data structures implementation for sparse matrix storage and manipulation.
 - Code profiling and performance analysis in high-performance computing systems.
 - Application to engineering problems involving fluids and solids mechanics.
+
+---
+
+### Collaborators
+
+<p style="margin-bottom:1cm;"></p>
 
 Potential collaborators for scientific projects are also invited to [contact me](mailto:rcosta@dep.uminho.pt).
 

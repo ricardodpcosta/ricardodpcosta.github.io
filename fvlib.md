@@ -29,10 +29,10 @@ The FVLib code is programmed in modern Fortran (2003/2008 standards) with an obj
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/applications_level.png">
+    <img style="width:90%; display:block; margin-left:auto; margin-right:auto;" src="public/applications_level.png">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/cases_level.png">
+    <img style="width:90%; display:block; margin-left:auto; margin-right:auto;" src="public/cases_level.png">
   </div>
 </div>
 <div class="row">
@@ -62,10 +62,10 @@ The discretisation methods implemented in the FVLib code are highly accurate in 
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/error_vs_dof.png">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/error_vs_dof.png">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/error_vs_time.png">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/error_vs_time.png">
   </div>
 </div>
 <div class="row">
@@ -93,10 +93,10 @@ Complex geometries arise in many real-world problems of physics and engineering 
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/geometry.png">
+    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="public/geometry.png">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/unstructured_mesh.png">
+    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="public/unstructured_mesh.png">
   </div>
 </div>
 <div class="row">
@@ -116,10 +116,10 @@ Complex geometries arise in many real-world problems of physics and engineering 
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/gmsh1.png">
+    <img style="width:90%; display:block; margin-left:auto; margin-right:auto;" src="public/gmsh1.png">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/gmsh2.png">
+    <img style="width:90%; display:block; margin-left:auto; margin-right:auto;" src="public/gmsh2.png">
   </div>
 </div>
 <div class="row">
@@ -135,10 +135,10 @@ Complex geometries arise in many real-world problems of physics and engineering 
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/gmsh3.png">
+    <img style="width:90%; display:block; margin-left:auto; margin-right:auto;" src="public/gmsh3.png">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:100%; display:block; margin-left:auto; margin-right:auto;" src="public/gmsh4.png">
+    <img style="width:90%; display:block; margin-left:auto; margin-right:auto;" src="public/gmsh4.png">
   </div>
 </div>
 <div class="row">

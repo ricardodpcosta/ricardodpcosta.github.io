@@ -47,7 +47,7 @@ August 26—30, 2023, Madrid, Spain.\
 [https://2024.euro-par.org/calls/whpc-session/](https://2024.euro-par.org/calls/whpc-session/).
 
 - **FOAM@IBERIA 2023** — 5th Iberian Meeting of OpenFOAM Technology Users,\
-November 2—3, 2023, Guimar\~aes, Portugal.\
+November 2—3, 2023, Guimarães, Portugal.\
 [https://2023.foam-iberia.eu/committee/](https://2023.foam-iberia.eu/committee/).
 
 - **FOAM@IBERIA 2022** — 4th Iberian Meeting of OpenFOAM Technology Users,\

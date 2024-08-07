@@ -54,5 +54,4 @@ Potential collaborators for scientific projects are also invited to [contact me]
         </div>
     </form>
     </div>
-
 </div>

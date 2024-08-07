@@ -16,6 +16,7 @@ Possible research topics range from applied mathematics to engineering applicati
 - Code profiling and performance analysis in high-performance computing systems.
 - Application to engineering problems involving fluids and solids mechanics.
 
+---
 
 <link href="contact-form.css" rel="stylesheet">
 
@@ -49,10 +50,6 @@ Possible research topics range from applied mathematics to engineering applicati
 
         <div class="fcf-form-group">
             <button type="submit" id="fcf-button" class="fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block">Send Message</button>
-        </div>
-
-        <div class="fcf-credit" id="fcf-credit">
-        Simple HTML email form provided by <a href="https://www.majesticform.com" target="_blank">MajesticForm</a>
         </div>
 
     </form>

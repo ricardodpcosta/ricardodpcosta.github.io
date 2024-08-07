@@ -18,8 +18,6 @@ Possible research topics range from applied mathematics to engineering applicati
 
 ---
 
-<link href="contact-form.css" rel="stylesheet">
-
 <div class="fcf-body">
 
     <div id="fcf-form">

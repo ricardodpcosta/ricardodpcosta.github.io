@@ -59,13 +59,13 @@ html {
   background-color: #202020;
 }
 
-@media (min-width: 40em) {
+@media (min-width: 48em) {
   .sidebar {
     position: fixed;
     top: 0;
     left: 0;
     bottom: 0;
-    width: 15rem;
+    width: 18rem;
     text-align: left;
   }
 }

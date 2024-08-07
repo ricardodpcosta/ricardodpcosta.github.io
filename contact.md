@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-## Graduate and doctoral students
+## Students and collaborators
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -16,12 +16,16 @@ Possible research topics range from applied mathematics to engineering applicati
 - Code profiling and performance analysis in high-performance computing systems.
 - Application to engineering problems involving fluids and solids mechanics.
 
+Potential collaborators for scientific projects are also nvited to [contact me](mailto:rcosta@dep.uminho.pt)
+
 ---
 
 <div class="fcf-body">
 
     <div id="fcf-form">
-    <h3 class="fcf-h3">Contact me</h3>
+    <h3 class="fcf-h3">Contact form</h3>
+
+    <p style="margin-bottom:1cm;"></p>
 
     <form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process.php">
 

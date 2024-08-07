@@ -1,14 +1,17 @@
-—-
+---
 layout: page
 title: Activities
-—-
+---
 
 ### Scientific committee and refereeing
 
 <p style="margin-bottom:1cm;"></p>
 
+---
 
 #### Refereeing of manuscripts in international journals
+
+<p style="margin-bottom:1cm;"></p>
 
 - OpenFOAM Journal
 - Partial Differential Equations in Applied Mathematics
@@ -24,12 +27,20 @@ title: Activities
 - Journal of Computational Physics
 - Computer Methods in Applied Mechanics and Engineering
 
-#### Refereeing of proceedings in international conferences}
+---
+
+#### Refereeing of proceedings in international conferences
+
+<p style="margin-bottom:1cm;"></p>
 
 - EURO-PAR 2024 — 30th International European Conference on Parallel and Distributed Computing
 - ENUMATH 2023 — European Conference on Numerical Mathematics and Advanced Applications
 
-### Scientific/program committee in international conferences
+---
+
+#### Scientific/program committee in international conferences
+
+<p style="margin-bottom:1cm;"></p>
 
 - **EURO-PAR 2024** — 30th International European Conference on Parallel and Distributed Computing,\
 August 26—30, 2023, Madrid, Spain.\

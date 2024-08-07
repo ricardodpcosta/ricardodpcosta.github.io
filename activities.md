@@ -29,7 +29,7 @@ title: Activities
 
 ---
 
-#### Refereeing of proceedings in international conferences
+#### Refereeing of manuscripts in international conferences
 
 <p style="margin-bottom:1cm;"></p>
 

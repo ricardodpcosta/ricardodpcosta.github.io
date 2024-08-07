@@ -80,7 +80,7 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-size: 2.25rem;
 }
 
 /* Sidebar nav */
@@ -138,7 +138,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 18rem;
+    margin-left: 22rem;
     margin-right: 4rem;
   }
 }

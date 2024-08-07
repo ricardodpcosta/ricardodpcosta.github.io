@@ -7,7 +7,7 @@ title: Contact
 
 <p style="margin-bottom:1cm;"></p>
 
-Potential graduate and doctoral students interested in developing a master's dissertation or doctoral thesis on applied mathematics and scientific computing with applications in aerospace, manufacturing, environmental, and biomedical fields are invited to [contact me](mailto:rcosta@dep.uminho.pt). An intermediate to advanced understanding of fluid mechanics, numerical methods, and programming skills is recommended according to the study level.
+Potential graduate and doctoral students interested in developing a master's dissertation or doctoral thesis on applied mathematics, scientific computing or computational mechanics with applications in aerospace, manufacturing, environmental, and biomedical fields are invited to [contact me](mailto:rcosta@dep.uminho.pt). An intermediate to advanced understanding of fluid mechanics, numerical methods, and programming skills is recommended according to the study level.
 
 Possible research topics range from applied mathematics to engineering applications, including:
 
@@ -16,7 +16,7 @@ Possible research topics range from applied mathematics to engineering applicati
 - Code profiling and performance analysis in high-performance computing systems.
 - Application to engineering problems involving fluids and solids mechanics.
 
-Potential collaborators for scientific projects are also invited to [contact me](mailto:rcosta@dep.uminho.pt)
+Potential collaborators for scientific projects are also invited to [contact me](mailto:rcosta@dep.uminho.pt).
 
 ---
 

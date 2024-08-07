@@ -11,6 +11,68 @@ title: Research
 
 ---
 
+### Incompressible fluid flow problems
+
+<p style="margin-bottom:1cm;"></p>
+
+The numerical solution of the **Navier-Stokes equations** is a fundamental problem in computational fluid dynamics, enabling the numerical simulation of uncountable real engineering applications. Besides the **momentum balance equation**, the system requires a **mass conservation equation** specified depending on the flow dynamics. For incompresible flows, the **incompressibility constraint** (div-grad duality) specifies that the mass rate of change equals zero in any control volume. Although conceptually simple, constraint raises significant challenges for developing accurate, robust, and stable discretisations, particularly in the high-order accurate context.
+
+Several stabilisation techniques were developed in the context of first- and second-orders accurate methods, such as discretisation on **staggered meshes** or the classical Rhie-Chow interpolation on **collocated meshes** for the pressure-velocity coupling. These techniques cannot, however, be easily extended for achieving high-order of convergence. In [[here](https://doi.org/10.1007/s10915-016-0348-9),[here](https://doi.org/10.1016/j.jcp.2017.07.047)], a very high-order accurate method is proposed in the FVM paradigm based on specific polynomial reconstructions computed on a **staggered mesh** construction to handle the **div-grad duality**. The solution of the resulting velocity-pressure coupled system is also accelerated with a novel **incomplete inverse preconditioning technique** based on the **Schur complement** for saddle-point matrices. The work is further improved and equipped with the **ROD method** in [[here](https://doi.org/10.1016/j.cma.2022.115064),[here](https://doi.org/10.1016/j.cma.2023.116274)] to solve 2D and 3D incompressible fluid flow problems in **arbitrary curved boundaries**, effectively achieving the sixth-order of convergence on unstructured meshes.
+
+<p style="margin-bottom:1cm;"></p>
+
+<div class="row">
+  <div class="column" style="width:50%; text-align:center;">
+    <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/pressure.png">
+  </div>
+  <div class="column" style="width:50%; text-align:center;">
+    <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/streamlines.png">
+  </div>
+</div>
+<div class="row">
+  <div class="column" style="width:50%; text-align:center;">
+    Pressure distribution.
+  </div>
+  <div class="column" style="width:50%; text-align:center;">
+    Velocity streamlines.
+  </div>
+</div>
+
+---
+
+### General slip boundary conditions
+
+<p style="margin-bottom:1cm;"></p>
+
+The conventional **no-slip boundary condition** does not hold in several fluid flow problems and must be replaced with appropriate **slip boundary conditions** according to the wall and fluid properties. From **inviscid** to **viscoelastic fluid flows**, imposing appropriate slip boundary conditions is an essential problem in many real engineering applications. However, not only they are still a subject of discussion among fluid dynamicists, but also these conditions are particularly challenging to impose and their numerical treatment is a delicate issue far from being well-developed, particularly in the context of very high-order accurate methods.
+
+The literature on general slip boundary conditions is limited, and the existing methods can only achieve the first- and second-orders of convergence. On the other hand, the complexity of these conditions significantly increases on **curved boundaries**, since the tangential component of the fluid traction vector on the boundary depends on the **boundary line curvature**. In 3D, these conditions become especially challenging since both principal **surface curvatures** are necessary.
+
+<p style="margin-bottom:1cm;"></p>
+
+<div class="row">
+  <div class="column" style="width:50%; text-align:center;">
+    <img style="width:50%; display:block; margin-left:auto; margin-right:auto;" src="public/boundary_minimum_curvature.png">
+  </div>
+  <div class="column" style="width:50%; text-align:center;">
+    <img style="width:50%; display:block; margin-left:auto; margin-right:auto;" src="public/boundary_maximum_curvature.png">
+  </div>
+</div>
+ <div class="row">
+  <div class="column" style="width:50%; text-align:center;">
+    Boundary minimum curvature.
+  </div>
+  <div class="column" style="width:50%; text-align:center;">
+    Boundary maximum curvature.
+  </div>
+</div>
+
+<p style="margin-bottom:1cm;"></p>
+
+In [[here](https://doi.org/10.1016/j.cma.2023.116274)], a simple, efficient, and very high-order accurate method is proposed in the FVM paradigm to impose **general slip boundary conditions** prescribed on **arbitrary curved boundaries** for 3D fluid flow problems governed by the **incompressible Navier–Stokes equations**. Following previous works, the pressure-velocity coupling is realised with staggered mesh discretisation approach is employed to handle the **div-grad duality**. On curved boundaries, the slip boundary conditions are reformulated on a local reference system, allowing a direct application of the **ROD method** to achieve the eighth-order of convergence on unstructured meshes.
+
+---
+
 ### Arbitrary curved boundaries
 
 <p style="margin-bottom:1cm;"></p>
@@ -88,63 +150,3 @@ In CHT, specific **interface conditions** are prescribed on the interface depend
 Treating multi-domain problems with discontinuous coefficients requires a special interface treatment, particularly for achieving a high-order of convergence. In [[here](https://doi.org/10.1016/j.cma.2019.07.029),[here](https://doi.org/10.1016/j.jcp.2021.110604),[here](https://doi.org/10.1002/nme.6892)], a novel technique is proposed based on a **Dirichlet-Neumann** and **Neumann-Neumann decomposition** on the interface to transform the conjugate problem into separated partitioned subproblems. Each subproblem can then be discretised as a **conventional boundary-valued convection-diffusion problem**, and the thermal coupling between subdomains is recovered through specific constrained polynomial reconstructions on the interface. The method was developed in the FVM paradigm for the 2D and 3D conjugate heat transfer problem with general interface conditions and was equipped with the **ROD method** to handle **arbitrary curved interfaces**, effectively achieving the sixth-order of convergence on unstructured meshes.
 
 ---
-
-### Incompressible fluid flow problems
-
-<p style="margin-bottom:1cm;"></p>
-
-The numerical solution of the **Navier-Stokes equations** is a fundamental problem in computational fluid dynamics, enabling the numerical simulation of uncountable real engineering applications. Besides the **momentum balance equation**, the system requires a **mass conservation equation** specified depending on the flow dynamics. For incompresible flows, the **incompressibility constraint** (div-grad duality) specifies that the mass rate of change equals zero in any control volume. Although conceptually simple, constraint raises significant challenges for developing accurate, robust, and stable discretisations, particularly in the high-order accurate context.
-
-Several stabilisation techniques were developed in the context of first- and second-orders accurate methods, such as discretisation on **staggered meshes** or the classical Rhie-Chow interpolation on **collocated meshes** for the pressure-velocity coupling. These techniques cannot, however, be easily extended for achieving high-order of convergence. In [[here](https://doi.org/10.1007/s10915-016-0348-9),[here](https://doi.org/10.1016/j.jcp.2017.07.047)], a very high-order accurate method is proposed in the FVM paradigm based on specific polynomial reconstructions computed on a **staggered mesh** construction to handle the **div-grad duality**. The solution of the resulting velocity-pressure coupled system is also accelerated with a novel **incomplete inverse preconditioning technique** based on the **Schur complement** for saddle-point matrices. The work is further improved and equipped with the **ROD method** in [[here](https://doi.org/10.1016/j.cma.2022.115064),[here](https://doi.org/10.1016/j.cma.2023.116274)] to solve 2D and 3D incompressible fluid flow problems in **arbitrary curved boundaries**, effectively achieving the sixth-order of convergence on unstructured meshes.
-
-<p style="margin-bottom:1cm;"></p>
-
-<div class="row">
-  <div class="column" style="width:50%; text-align:center;">
-    <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/pressure.png">
-  </div>
-  <div class="column" style="width:50%; text-align:center;">
-    <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/streamlines.png">
-  </div>
-</div>
-<div class="row">
-  <div class="column" style="width:50%; text-align:center;">
-    Pressure distribution.
-  </div>
-  <div class="column" style="width:50%; text-align:center;">
-    Velocity streamlines.
-  </div>
-</div>
-
----
-
-### General slip boundary conditions
-
-<p style="margin-bottom:1cm;"></p>
-
-The conventional **no-slip boundary condition** does not hold in several fluid flow problems and must be replaced with appropriate **slip boundary conditions** according to the wall and fluid properties. From **inviscid** to **viscoelastic fluid flows**, imposing appropriate slip boundary conditions is an essential problem in many real engineering applications. However, not only they are still a subject of discussion among fluid dynamicists, but also these conditions are particularly challenging to impose and their numerical treatment is a delicate issue far from being well-developed, particularly in the context of very high-order accurate methods.
-
-The literature on general slip boundary conditions is limited, and the existing methods can only achieve the first- and second-orders of convergence. On the other hand, the complexity of these conditions significantly increases on **curved boundaries**, since the tangential component of the fluid traction vector on the boundary depends on the **boundary line curvature**. In 3D, these conditions become especially challenging since both principal **surface curvatures** are necessary.
-
-<p style="margin-bottom:1cm;"></p>
-
-<div class="row">
-  <div class="column" style="width:50%; text-align:center;">
-    <img style="width:50%; display:block; margin-left:auto; margin-right:auto;" src="public/boundary_minimum_curvature.png">
-  </div>
-  <div class="column" style="width:50%; text-align:center;">
-    <img style="width:50%; display:block; margin-left:auto; margin-right:auto;" src="public/boundary_maximum_curvature.png">
-  </div>
-</div>
- <div class="row">
-  <div class="column" style="width:50%; text-align:center;">
-    Boundary minimum curvature.
-  </div>
-  <div class="column" style="width:50%; text-align:center;">
-    Boundary maximum curvature.
-  </div>
-</div>
-
-<p style="margin-bottom:1cm;"></p>
-
-In [[here](https://doi.org/10.1016/j.cma.2023.116274)], a simple, efficient, and very high-order accurate method is proposed in the FVM paradigm to impose **general slip boundary conditions** prescribed on **arbitrary curved boundaries** for 3D fluid flow problems governed by the **incompressible Navier–Stokes equations**. Following previous works, the pressure-velocity coupling is realised with staggered mesh discretisation approach is employed to handle the **div-grad duality**. On curved boundaries, the slip boundary conditions are reformulated on a local reference system, allowing a direct application of the **ROD method** to achieve the eighth-order of convergence on unstructured meshes.

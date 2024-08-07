@@ -53,3 +53,15 @@ November 2—3, 2023, Guimar\~aes, Portugal.\
 - **FOAM@IBERIA 2022** — 4th Iberian Meeting of OpenFOAM Technology Users,\
 September 21—22, 2022, Santander, Spain.\
 [https://2022.foam-iberia.eu/committee/](https://2022.foam-iberia.eu/committee/).
+
+---
+
+### International collaborators
+
+<p style="margin-bottom:1cm;"></p>
+
+---
+
+- [Hugo Beirão da Veiga](https://people.dm.unipi.it/beiraodaveiga/) (University of Pisa, Italy)
+- [Francesca Crispo](https://www.distabif.unicampania.it/dipartimento/docenti?MATRICOLA=083137) (University of Campania “Luigi Vanvitelli”, Italy)
+- [Marta Garcia Casulla](https://www.bsc.es/garcia-gasulla-marta) (Barcelona Supercomputing Center, Spain)

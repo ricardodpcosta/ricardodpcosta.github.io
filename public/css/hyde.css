@@ -59,7 +59,7 @@ html {
   background-color: #202020;
 }
 
-@media (min-width: 48em) {
+@media (min-width: 40em) {
   .sidebar {
     position: fixed;
     top: 0;

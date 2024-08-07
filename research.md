@@ -23,10 +23,10 @@ Several stabilisation techniques were developed in the context of first- and sec
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="public/pressure.png">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/pressure.png">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="public/streamlines.png">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/streamlines.png">
   </div>
 </div>
 <div class="row">
@@ -52,10 +52,10 @@ The literature on general slip boundary conditions is limited, and the existing 
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:30%; display:block; margin-left:auto; margin-right:auto;" src="public/boundary_minimum_curvature.png">
+    <img style="width:40%; display:block; margin-left:auto; margin-right:auto;" src="public/boundary_minimum_curvature.png">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:30%; display:block; margin-left:auto; margin-right:auto;" src="public/boundary_maximum_curvature.png">
+    <img style="width:40%; display:block; margin-left:auto; margin-right:auto;" src="public/boundary_maximum_curvature.png">
   </div>
 </div>
  <div class="row">
@@ -89,10 +89,10 @@ In the finite element paradigm, the **isoparametric elements method** has become
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:50%; display:block; margin-left:auto; margin-right:auto;" src="public/curved_mesh.png">
+    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="public/curved_mesh.png">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:50%; display:block; margin-left:auto; margin-right:auto;" src="public/polygonal_mesh.png">
+    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="public/polygonal_mesh.png">
   </div>
 </div>
 <div class="row">
@@ -130,10 +130,10 @@ In CHT, specific **interface conditions** are prescribed on the interface depend
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="public/continuity_interface_condition.png">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/continuity_interface_condition.png">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="public/jump_interface_condition.png">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/jump_interface_condition.png">
   </div>
 </div>
 <div class="row">

@@ -46,6 +46,12 @@ September 18-22, 2023, Ica, Peru (online).\
 <p style="margin-bottom:1cm;"></p>
 
 1. **R. Costa**, S. Clain, G.J. Machado, J.M. Nóbrega, H. Beirão da Veiga, and F. Crispo,\
+<span style="color:blue">_Very high-order accurate finite volume scheme for the streamfunction-vorticity formulation of incompressible fluid flows with polygonal meshes on arbitrary curved boundaries_</span>,\
+**HONOM 2024 – High-order Nonlinear Numerical Methods for Evolutionary PDEs: Theory and Applications**,\
+September 8-14, 2024, Chania, Greek.\
+[https://www.elenagaburro.it/honom2024.html](https://www.elenagaburro.it/honom2024.html)
+
+1. **R. Costa**, S. Clain, G.J. Machado, J.M. Nóbrega, H. Beirão da Veiga, and F. Crispo,\
 <span style="color:blue">_Imposing slip conditions on curved boundaries for 3D incompressible flows with a very high-order accurate finite volume scheme on polygonal meshes_</span>,\
 **ENUMATH 2023 – European Conference on Numerical Mathematics and Advanced Applications**,\
 September 4-8, 2023, Lisbon, Portugal.\

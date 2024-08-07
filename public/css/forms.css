@@ -39,7 +39,7 @@
      font-size: 1rem;
      font-weight: 400;
      line-height: 1.5;
-     color: #212529;
+     color: #268bd2;
      text-align: left;
      background-color: #fff;
      padding: 30px;
@@ -61,7 +61,7 @@
      flex-wrap: wrap;
      -ms-flex-align: stretch;
      align-items: stretch;
-     font-size: 0.8rem;
+     font-size: 1rem;
      width: 100%;
  }
 

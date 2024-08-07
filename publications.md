@@ -15,6 +15,11 @@ title: Publications
 
 <p style="margin-bottom:1cm;"></p>
 
+1. M. Santos, A. Araújo, S. Barbeiro, S. Clain, **R. Costa**, and G.J. Machado,\
+<span style="color:blue">_Very high-order accurate discontinuous Galerkin method for curved boundaries with polygonal meshes_</span>,\
+**Journal of Scientific Computing** 100, 66, 2024.\
+DOI: [https://doi.org/10.1007/s10915-024-02613-2](https://doi.org/10.1007/s10915-024-02613-2).
+
 1. J. Castro, J.M. Nóbrega, and **R. Costa**,\
 <span style="color:blue">_Computational framework to model the selective laser sintering process_</span>,\
 **Materials** 17(8), 1845, 2024.\

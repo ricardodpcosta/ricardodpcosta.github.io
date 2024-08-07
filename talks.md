@@ -27,7 +27,13 @@ April 25-28, 2023, Cannes, France.\
 
 <p style="margin-bottom:1cm;"></p>
 
-1. **R. Costa**, S. Clain, G.J. Machado, J.M. Nóbrega, H. Beirão da Veiga, and F. Crispo,\
+1. **R. Costa**, S. Clain, G.J. Machado, and J.M. Nóbrega,\
+<span style="color:blue">_The incompressible Navier-Stokes equations in streamfunction-vorticity variables: formulation and numerical solution_</span>,\
+**CIMA 2024 – III Congreso Internacional de Matemática y Aplicaciones**,\
+September 16-20, 2024, Ica, Peru (online).\
+[https://sites.google.com/unica.edu.pe/cima/](https://sites.google.com/unica.edu.pe/cima/).
+
+2. **R. Costa**, S. Clain, G.J. Machado, J.M. Nóbrega, H. Beirão da Veiga, and F. Crispo,\
 <span style="color:blue">_The reconstruction for off-site data method for very high-order accurate finite volume schemes on arbitrary curved boundaries_</span>,\
 **CIMA 2023 – II Congreso Internacional de Matemática y Aplicaciones**,\
 September 18-22, 2023, Ica, Peru (online).\

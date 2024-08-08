@@ -55,7 +55,7 @@ The literature on general slip boundary conditions is limited, and the existing 
     <img style="width:40%; display:block; margin-left:auto; margin-right:auto;" src="public/boundary_minimum_curvature.png">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="public/boundary_maximum_curvature.png">
+    <img style="width:50%; display:block; margin-left:auto; margin-right:auto;" src="public/boundary_maximum_curvature.png">
   </div>
 </div>
  <div class="row">

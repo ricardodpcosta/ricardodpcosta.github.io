@@ -69,6 +69,12 @@ April 28-May 2, 2014, Ofir, Portugal.\
 
 <p style="margin-bottom:1cm;"></p>
 
+- **HONOM-2024 – High-order Nonlinear Numerical Methods for Evolutionary PDEs: Theory and Applications**,\
+September 8-14, 2024, Chania, Greece.
+
+- **SHARK-FV-2024 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
+May 26-31, 2022, São Félix, Portugal.
+
 - **AI4CM-2023 – Artificial Intelligence for Computational Mechanics**,\
 December 1, 2023, A Coruña, Spain.
 

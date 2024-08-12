@@ -5,16 +5,6 @@ title: Activities
 
 ---
 
-### Teaching
-
-<p style="margin-bottom:1cm;"></p>
-
-- **Introduction to Design with Polymers (2024/25)** – Polymer Engineering (Bachelor)
-- **Graphic Representation and Digital Modelling (2024/25)** – Polymer Engineering (Bachelor)
-- **Computational Mechanics in Polymer Engineering (2024/25)** - Polymer Engineering (Master)
-
----
-
 ### Scientific committee and refereeing
 
 <p style="margin-bottom:1cm;"></p>
@@ -75,3 +65,13 @@ September 21—22, 2022, Santander, Spain.\
 - [Hugo Beirão da Veiga](https://people.dm.unipi.it/beiraodaveiga/) (University of Pisa, Italy)
 - [Francesca Crispo](https://www.distabif.unicampania.it/dipartimento/docenti?MATRICOLA=083137) (University of Campania “Luigi Vanvitelli”, Italy)
 - [Marta Garcia Casulla](https://www.bsc.es/garcia-gasulla-marta) (Barcelona Supercomputing Center, Spain)
+
+---
+
+### Teaching
+
+<p style="margin-bottom:1cm;"></p>
+
+- **Introduction to Design with Polymers (2024/25)** – Polymer Engineering (Bachelor)
+- **Graphic Representation and Digital Modelling (2024/25)** – Polymer Engineering (Bachelor)
+- **Computational Mechanics in Polymer Engineering (2024/25)** - Polymer Engineering (Master)

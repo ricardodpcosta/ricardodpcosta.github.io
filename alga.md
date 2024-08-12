@@ -3,6 +3,8 @@ layout: page
 title: ALGA book
 ---
 
+---
+
 <p style="margin-bottom:1cm;"></p>
 
 Este texto foi escrito para estudantes de cursos de Matemática Aplicada, Física e Engenharia que estudam a Álgebra Linear no primeiro ano da Universidade, o que explica a escolha da matéria e o nível de generalidade da apresentação. Foram incluídos no livro só os conceitos e resultados importantes nas aplicações e as demonstrações foram feitas sem tentar atingir a máxima generalidade. Do ponto de vista dos autores deste livro o nome Álgebra Linear não é o ideal para chamar a esta disciplina. O nome mais adequado seria Geometria de Espaços de Dimensão Finita. É deste ponto de vista que está exposta a matéria neste livro.

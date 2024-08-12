@@ -3,6 +3,16 @@ layout: page
 title: Activities
 ---
 
+### Teaching
+
+<p style="margin-bottom:1cm;"></p>
+
+- **Introduction to Design with Polymers (2024/25)** – Polymer Engineering (Bachelor)
+- **Graphic Representation and Digital Modelling (2024/25)** – Polymer Engineering (Bachelor)
+- **Computational Mechanics in Polymer Engineering (2024/25)** - Polymer Engineering (Master)
+
+---
+
 ### Scientific committee and refereeing
 
 <p style="margin-bottom:1cm;"></p>

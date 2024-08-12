@@ -3,6 +3,8 @@ layout: page
 title: ALGA book
 ---
 
+<p style="margin-bottom:1cm;"></p>
+
 ---
 
 <p style="margin-bottom:1cm;"></p>

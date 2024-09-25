@@ -70,7 +70,7 @@ April 28-May 2, 2014, Ofir, Portugal.\
 <p style="margin-bottom:1cm;"></p>
 
 - **HONOM-2024 – High-order Nonlinear Numerical Methods for Evolutionary PDEs: Theory and Applications**,\
-September 8-14, 2024, Chania, Greece.
+September 8-13, 2024, Chania, Greece.
 
 - **SHARK-FV-2024 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
 May 26-31, 2022, São Félix, Portugal.

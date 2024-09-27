@@ -21,6 +21,7 @@ title: Activities
 
 <p style="margin-bottom:1cm;"></p>
 
+- International Journal of Fluid Engineering
 - OpenFOAM Journal
 - Partial Differential Equations in Applied Mathematics
 - AIMS Mathematics

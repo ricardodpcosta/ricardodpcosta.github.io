@@ -150,3 +150,36 @@ In CHT, specific **interface conditions** are prescribed on the interface depend
 Treating multi-domain problems with discontinuous coefficients requires a special interface treatment, particularly for achieving a high-order of convergence. In [[Costa et al., 2019](https://doi.org/10.1016/j.cma.2019.07.029); [Costa et al., 2021](https://doi.org/10.1016/j.jcp.2021.110604); [Costa et al., 2021](https://doi.org/10.1002/nme.6892)], a novel technique is proposed based on a **Dirichlet-Neumann** and **Neumann-Neumann decomposition** on the interface to transform the conjugate problem into separated partitioned subproblems. Each subproblem can then be discretised as a **conventional boundary-valued convection-diffusion problem**, and the thermal coupling between subdomains is recovered through specific constrained polynomial reconstructions on the interface. The method was developed in the FVM paradigm for the 2D and 3D conjugate heat transfer problem with general interface conditions and was equipped with the **ROD method** to handle **arbitrary curved interfaces**, effectively achieving the sixth-order of convergence on unstructured meshes.
 
 ---
+
+### Navier-Stokes equations in non-primitive formulations
+
+<p style="margin-bottom:1cm;"></p>
+
+The conventional mathematical models to simulate incompressible fluid flow problems are formulated based on the Navier-Stokes equations written in terms of pressure and velocity. In that regard, the **pressure-velocity coupling** is a fundamental issue and, for decades, researchers have developed uncountable numerical techniques and methods to efficiently and accurately solve these equations.
+
+In two dimensions, a different approach consists in rewriting the Navier-Stokes equations in terms of two scalar quantities, the **streamfunction and vorticity**, reducing the number of variables from three (two velocity components and pressure) to two (streamfunction and vorticity). More interestingly, the streamfunction-vorticity formulation does not require pressure to be computed and, therefore, the inherent difficulties associated with the pressure-velocity coupling in the primitive variables formulation are avoided. Moreover, the **continuity condition is always satisfied** as velocity components are determined from the potential derivaties.
+
+Unfortunately, the system of partial differential equations comes with an unusual configuration since Dirichlet and Neumann boundary conditions are straightforwardly obtained for the streamfunction from the prescribed boundary velocity but none exists for the vorticity. Moreover, compatibility conditions are required in **multiply connected domains** such that the prescribed streamfunction value on the closed boundaries is well-defined.
+
+In [[Costa et al., 2019](https://doi.org/10.1016/j.cma.2019.07.029)], a novel and efficient high-order accurate finite volume discretisation of the two-dimensional incompressible Navier-Stokes equations in the streamfunction-vorticity formulation is proposed. A careful discussion is devoted to **deriving appropriate boundary conditions** for the streamfunction and vorticity and their numerical treatment, including on **arbitrary curved boundaries**. In that regard, the conventional treatment of curved boundaries relies on generating curved meshes to eliminate the geometrical mismatch between the physical and computational boundaries and achieve a high order of convergence, at the cost of sophisticated meshing algorithms, cumbersome quadrature rules on curved elements, and complex non-linear transformations. To overcome these difficulties, the **ROD method** is employed, allowing **arbitrary curved boundaries** to be approximated with **linear piecewise elements**, while polynomial reconstructions with specific linear constraints are computed to fulfil the prescribed boundary conditions.
+
+<p style="margin-bottom:1cm;"></p>
+
+<div class="row">
+  <div class="column" style="width:50%; text-align:center;">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/psi.png">
+  </div>
+  <div class="column" style="width:50%; text-align:center;">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/omega.png">
+  </div>
+</div>
+<div class="row">
+  <div class="column" style="width:50%; text-align:center;">
+    Streamfunction.
+  </div>
+  <div class="column" style="width:50%; text-align:center;">
+    Vorticity contours.
+  </div>
+</div>
+
+---

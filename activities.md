@@ -13,11 +13,11 @@ title: Activities
 
 ### Awards and honourable mentions
 
-- **Best Ph.D. Thesis in Applied and Computational Mechanics 2020** (APMTAC – Portuguese Association of Theoretical, Applied and Computational Mechanics, Portugal)
-- **PPS Graduate Travel Award 2019** (PPS – Polymer Processing Society, United States)
-- **HONOM Travel Award 2015** (HONOM – European Workshop on High-order Nonlinear Numerical Methods for Evolutionary PDEs: Theory and Applications, Italy)
-- **Honourable Mention of the SYMCOMP Young Researcher Award 2013** (SYMCOMP – International Conference on Algebraic and Symbolic Computation, Portugal)
-- **Student Merit Award** (D. Maria II High School, Portugal)
+- **Best Ph.D. Thesis in Applied and Computational Mechanics 2020** (APMTAC)
+- **PPS Graduate Travel Award 2019** (PPS)
+- **HONOM Travel Award 2015** (HONOM)
+- **Honourable Mention of the SYMCOMP Young Researcher Award 2013** (SYMCOMP)
+- **Student Merit Award**
 
 ---
 
@@ -100,5 +100,7 @@ September 21—22, 2022, Santander, Spain.\
 
 ### Supervision of doctoral theses
 
-- **An innovative computational approach for injection moulding simulation in footwear industry** (2021/present), Ricardo Ribeiro (Doctoral Program in Science and Engineering of Polymers and Composites)
-- **A pioneering integrated computational approach for extrusion blow moulding** (2021/2023), Jayesh Golhar (Doctoral Program in Science and Engineering of Polymers and Composites)
+- **An innovative computational approach for injection moulding simulation in footwear industry** (2021/present)
+Ricardo Ribeiro (Doctoral Program in Science and Engineering of Polymers and Composites)
+- **A pioneering integrated computational approach for extrusion blow moulding** (2021/2023)
+Jayesh Golhar (Doctoral Program in Science and Engineering of Polymers and Composites)

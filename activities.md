@@ -86,7 +86,13 @@ September 21—22, 2022, Santander, Spain.\
 
 ---
 
-### Teaching
+### Teaching and supervision
+
+<p style="margin-bottom:1cm;"></p>
+
+---
+
+#### Teaching
 
 <p style="margin-bottom:1cm;"></p>
 

@@ -168,10 +168,10 @@ In [[Costa et al., 2024]()], a novel and efficient high-order accurate finite vo
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/psi.png">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/psi.png">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/omega.png">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/omega.png">
   </div>
 </div>
 <div class="row">

@@ -11,16 +11,6 @@ title: Activities
 
 ---
 
-### Awards and honourable mentions
-
-- **Best Ph.D. Thesis in Applied and Computational Mechanics 2020** (APMTAC)
-- **PPS Graduate Travel Award 2019** (PPS)
-- **HONOM Travel Award 2015** (HONOM)
-- **Honourable Mention of the SYMCOMP Young Researcher Award 2013** (SYMCOMP)
-- **Student Merit Award**
-
----
-
 ### Scientific committee and refereeing
 
 <p style="margin-bottom:1cm;"></p>
@@ -84,6 +74,18 @@ September 21—22, 2022, Santander, Spain.\
 
 ---
 
+### Awards and honourable mentions
+
+<p style="margin-bottom:1cm;"></p>
+
+- **Best Ph.D. Thesis in Applied and Computational Mechanics 2020** (APMTAC)
+- **PPS Graduate Travel Award 2019** (PPS)
+- **HONOM Travel Award 2015** (HONOM)
+- **SYMCOMP Young Researcher Award 2013 (Honourable Mention)** (SYMCOMP)
+- **Student Merit Award**
+
+---
+
 ### Teaching
 
 <p style="margin-bottom:1cm;"></p>
@@ -94,13 +96,25 @@ September 21—22, 2022, Santander, Spain.\
 
 ---
 
-### Supervision of master dissertations
+### Supervision of students
+
+<p style="margin-bottom:1cm;"></p>
+
+---
+
+#### Master dissertations
+
+<p style="margin-bottom:1cm;"></p>
 
 - **Computational modelling of selective laser sintering process** (2021/22), Jo\~ao Castro (Integrated Master in Polymer Engineering).
 
-### Supervision of doctoral theses
+---
 
-- **An innovative computational approach for injection moulding simulation in footwear industry** (2021/present)
+#### Doctoral theses
+
+<p style="margin-bottom:1cm;"></p>
+
+- **An innovative computational approach for injection moulding simulation in footwear industry** (2021/present)\
 Ricardo Ribeiro (Doctoral Program in Science and Engineering of Polymers and Composites)
-- **A pioneering integrated computational approach for extrusion blow moulding** (2021/2023)
+- **A pioneering integrated computational approach for extrusion blow moulding** (2021/2023)\
 Jayesh Golhar (Doctoral Program in Science and Engineering of Polymers and Composites)

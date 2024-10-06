@@ -43,6 +43,20 @@ May 23-27, 2022, São Félix, Portugal.\
 April 4-8, 2022, Braga, Portugal.\
 [https://shark-fv.eu/honom2022/](https://shark-fv.eu/honom2022/).
 
+
+- **SHARK-FV-2019 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
+May 23-27, 2016, São Félix, Portugal.\
+[https://shark-fv.eu/old-conferences/shark2016/](https://shark-fv.eu/old-conferences/shark2016/).
+
+- **SHARK-FV-2018 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
+May 23-27, 2016, São Félix, Portugal.\
+[https://shark-fv.eu/old-conferences/shark2016/](https://shark-fv.eu/old-conferences/shark2016/).
+
+- **SHARK-FV-2017 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
+May 23-27, 2016, São Félix, Portugal.\
+[https://shark-fv.eu/old-conferences/shark2016/](https://shark-fv.eu/old-conferences/shark2016/).
+
+
 - **SYMCOMP-2017 – 3rd International Conference on Numerical and Symbolic Computation: Developments and Applications**,\
 March 6-7, 2017, Guimarães, Portugal.\
 [http://symcomp2017.isel.pt/](http://symcomp2017.isel.pt/).

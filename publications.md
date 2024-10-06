@@ -15,6 +15,11 @@ title: Publications
 
 <p style="margin-bottom:1cm;"></p>
 
+1. **R. Costa**, S. Clain, G.J. Machado, and J.M. Nóbrega,\
+<span style="color:blue">_Very high-order accurate finite volume scheme for the streamfunction-vorticity formulation of incompressible fluid flows with polygonal meshes on arbitrary curved boundaries_</span>,\
+submitted, 2024.\
+DOI: [https://www.researchgate.net/publication/384561319](https://www.researchgate.net/publication/384561319).
+
 1. M. Santos, A. Araújo, S. Barbeiro, S. Clain, **R. Costa**, and G.J. Machado,\
 <span style="color:blue">_Very high-order accurate discontinuous Galerkin method for curved boundaries with polygonal meshes_</span>,\
 **Journal of Scientific Computing** 100, 66, 2024.\

@@ -112,7 +112,8 @@ September 21—22, 2022, Santander, Spain.\
 
 <p style="margin-bottom:1cm;"></p>
 
-- **Computational modelling of selective laser sintering process** (2021/22), Jo\~ao Castro (Integrated Master in Polymer Engineering).
+- **Computational modelling of selective laser sintering process** (2021/22)\
+João Castro (Integrated Master in Polymer Engineering)
 
 ---
 

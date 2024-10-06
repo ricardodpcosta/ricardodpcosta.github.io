@@ -121,6 +121,8 @@ João Castro (Integrated Master in Polymer Engineering)
 
 <p style="margin-bottom:1cm;"></p>
 
+- **Simulator for the Fused Filament Manufacturing Industry** (2024/present)
+João Castro (Doctoral Program in Science and Engineering of Polymers and Composites)
 - **An innovative computational approach for injection moulding simulation in footwear industry** (2021/present)\
 Ricardo Ribeiro (Doctoral Program in Science and Engineering of Polymers and Composites)
 - **A pioneering integrated computational approach for extrusion blow moulding** (2021/2023)\

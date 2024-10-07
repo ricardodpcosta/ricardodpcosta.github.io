@@ -92,7 +92,7 @@ September 21—22, 2022, Santander, Spain.\
 
 ---
 
-#### Teaching
+#### Courses taught
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -102,22 +102,16 @@ September 21—22, 2022, Santander, Spain.\
 
 ---
 
-### Supervision of students
+####  Supervised master dissertations
 
 <p style="margin-bottom:1cm;"></p>
 
----
-
-#### Master dissertations
-
-<p style="margin-bottom:1cm;"></p>
-
-- **Computational modelling of selective laser sintering process** (2021/22)\
+- **Computational modelling of the selective laser sintering process** (2021/22)\
 João Castro (Integrated Master in Polymer Engineering)
 
 ---
 
-#### Doctoral theses
+#### Supervised doctoral theses
 
 <p style="margin-bottom:1cm;"></p>
 

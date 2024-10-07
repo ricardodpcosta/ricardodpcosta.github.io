@@ -25,15 +25,15 @@ title: Activities
 <p style="margin-bottom:1cm;"></p>
 
 - **Best Ph.D. Thesis in Applied and Computational Mechanics** (2020),\
-APMTAC – Portuguese Association of Theoretical, Applied and Computational Mechanics (Portugal)
+APMTAC – Portuguese Association of Theoretical, Applied and Computational Mechanics (Portugal).
 - **PPS Graduate Travel Award** (2019),\
-PPS -- Polymer Processing Society (United States)
+PPS -- Polymer Processing Society (United States).
 - **HONOM Graduate Travel Award** (2015),\
-HONOM -- High-order Nonlinear Numerical Methods for Evolutionary PDEs: Theory and Applications (Italy)
+HONOM -- High-order Nonlinear Numerical Methods for Evolutionary PDEs: Theory and Applications (Italy).
 - **SYMCOMP Young Researcher Award** – Honourable Mention (2013),\
-SYMCOMP -- International Conference on Algebraic and Symbolic Computation (Portugal)
+SYMCOMP -- International Conference on Algebraic and Symbolic Computation (Portugal).
 - **Student Merit Award** (2011),\
-D. Maria II High School (Portugal)
+D. Maria II High School (Portugal).
 
 ---
 
@@ -68,8 +68,8 @@ D. Maria II High School (Portugal)
 
 <p style="margin-bottom:1cm;"></p>
 
-- **EURO-PAR 2024** — 30th International European Conference on Parallel and Distributed Computing
-- **ENUMATH 2023** — European Conference on Numerical Mathematics and Advanced Applications
+- **EURO-PAR 2024** — 30th International European Conference on Parallel and Distributed Computing.
+- **ENUMATH 2023** — European Conference on Numerical Mathematics and Advanced Applications.
 
 ---
 
@@ -102,11 +102,11 @@ September 21—22, 2022, Santander, Spain.\
 <p style="margin-bottom:1cm;"></p>
 
 - **Introduction to Design with Polymers** (2024/25),\
-Bachelor Degree in Polymer Engineering, University of Minho, Portugal
+Bachelor Degree in Polymer Engineering, University of Minho, Portugal.
 - **Graphic Representation and Digital Modelling** (2024/25),\
-Bachelor Degree in Polymer Engineering, University of Minho, Portugal
+Bachelor Degree in Polymer Engineering, University of Minho, Portugal.
 - **Computational Mechanics in Polymer Engineering** (2024/25),\
-Master's Degree in Polymer Engineering, University of Minho, Portugal
+Master's Degree in Polymer Engineering, University of Minho, Portugal.
 
 ---
 
@@ -115,7 +115,7 @@ Master's Degree in Polymer Engineering, University of Minho, Portugal
 <p style="margin-bottom:1cm;"></p>
 
 - **Computational modelling of the selective laser sintering process** (2021/22),\
-João Castro (Integrated Master in Polymer Engineering)
+João Castro (Integrated Master in Polymer Engineering).
 
 ---
 
@@ -124,8 +124,8 @@ João Castro (Integrated Master in Polymer Engineering)
 <p style="margin-bottom:1cm;"></p>
 
 - **Simulator for the Fused Filament Manufacturing Industry** (2024/present),\
-João Castro (Doctoral Program in Science and Engineering of Polymers and Composites University of Minho, Portugal)
+João Castro (Doctoral Program in Science and Engineering of Polymers and Composites University of Minho, Portugal).
 - **An innovative computational approach for injection moulding simulation in footwear industry** (2021/present),\
-Ricardo Ribeiro (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal)
+Ricardo Ribeiro (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).
 - **A pioneering integrated computational approach for extrusion blow moulding** (2021/2023),\
-Jayesh Golhar (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal)
+Jayesh Golhar (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).

@@ -29,7 +29,7 @@ APMTAC - Portuguese Association of Theoretical, Applied and Computational Mechan
 - **PPS Graduate Travel Award** (2019)\
 PPS -- Polymer Processing Society (United States)
 - **HONOM Graduate Travel Award** (2015)\
-HONOM -- European Workshop on High-order Nonlinear Numerical Methods for Evolutionary PDEs: Theory and Applications (Italy)
+HONOM -- High-order Nonlinear Numerical Methods for Evolutionary PDEs: Theory and Applications (Italy)
 - **SYMCOMP Young Researcher Award** – Honourable Mention (2013)\
 SYMCOMP -- International Conference on Algebraic and Symbolic Computation (Portugal)
 - **Student Merit Award** (2011)\

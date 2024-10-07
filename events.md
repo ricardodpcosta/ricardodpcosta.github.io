@@ -17,7 +17,7 @@ title: Events
 
 - M. Santos and **R. Costa**,\
 <span style="color:blue">_Recent challenges in high-order accurate numerical methods for differential equations_</span>,\
-**ECMI 2023 – 22nd Conference on Industrial and Applied Mathematics**,\
+**ECMI 2023 – Conference on Industrial and Applied Mathematics**,\
 June 26-30, 2023, Wrocław, Poland.\
 [https://ecmi2023.org/](https://ecmi2023.org/).
 
@@ -43,21 +43,7 @@ May 23-27, 2022, São Félix, Portugal.\
 April 4-8, 2022, Braga, Portugal.\
 [https://shark-fv.eu/honom2022/](https://shark-fv.eu/honom2022/).
 
-
-- **SHARK-FV-2019 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
-May 23-27, 2016, São Félix, Portugal.\
-[https://shark-fv.eu/old-conferences/shark2016/](https://shark-fv.eu/old-conferences/shark2016/).
-
-- **SHARK-FV-2018 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
-May 23-27, 2016, São Félix, Portugal.\
-[https://shark-fv.eu/old-conferences/shark2016/](https://shark-fv.eu/old-conferences/shark2016/).
-
-- **SHARK-FV-2017 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
-May 23-27, 2016, São Félix, Portugal.\
-[https://shark-fv.eu/old-conferences/shark2016/](https://shark-fv.eu/old-conferences/shark2016/).
-
-
-- **SYMCOMP-2017 – 3rd International Conference on Numerical and Symbolic Computation: Developments and Applications**,\
+- **SYMCOMP-2017 – International Conference on Numerical and Symbolic Computation: Developments and Applications**,\
 March 6-7, 2017, Guimarães, Portugal.\
 [http://symcomp2017.isel.pt/](http://symcomp2017.isel.pt/).
 
@@ -83,6 +69,9 @@ April 28-May 2, 2014, Ofir, Portugal.\
 
 <p style="margin-bottom:1cm;"></p>
 
+- **CIMA 2024 – Congreso Internacional de Matemática y Aplicaciones**,\
+September 16-20, 2024, Ica, Peru (online).
+
 - **HONOM-2024 – High-order Nonlinear Numerical Methods for Evolutionary PDEs: Theory and Applications**,\
 September 8-13, 2024, Chania, Greece.
 
@@ -92,28 +81,28 @@ May 26-31, 2022, São Félix, Portugal.
 - **AI4CM-2023 – Artificial Intelligence for Computational Mechanics**,\
 December 1, 2023, A Coruña, Spain.
 
-- **FOAM@IBERIA-2023 – 5th Iberian Meeting of OpenFOAM Technology Users**,\
+- **FOAM@IBERIA-2023 – Iberian Meeting of OpenFOAM Technology Users**,\
 November 2-3, 2023, Guimarães, Portugal.
 
-- **CIMA-2023 – II Congreso Internacional de Matemática y Aplicaciones**,\
+- **CIMA-2023 – Congreso Internacional de Matemática y Aplicaciones**,\
 September 18-22, 2023, Ica, Peru (online).
 
 - **ENUMATH-2023 – European Conference on Numerical Mathematics and Advanced Applications**,\
 September 4-8, 2023, Lisbon, Portugal.
 
-- **ECMI-2023 – 22nd Conference on Industrial and Applied Mathematics**,\
+- **ECMI-2023 – Conference on Industrial and Applied Mathematics**,\
 June 26-30, 2023, Wrocław, Poland.
 
 - **SHARK-FV-2023 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
 May 22-26, 2023, São Félix, Portugal.
 
-- **CFC-2023 – 22nd Computational Fluids Conference**,\
+- **CFC-2023 – Computational Fluids Conference**,\
 April 25-28, 2023, Cannes, France.
 
 - **CMN-2022 – Congress on Numerical Methods in Engineering**,\
 September 12-14, 2022, Las Palmas de Gran Canaria, Spain.
 
-- **OFW-2022 – 17th OpenFOAM Workshop**,\
+- **OFW-2022 – OpenFOAM Workshop**,\
 July 11-14, 2022, Cambridge, United Kingdom (online).
 
 - **SHARK-FV-2022 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
@@ -122,25 +111,25 @@ May 23-27, 2022, São Félix, Portugal.
 - **HONOM-2022 – High-order Nonlinear Numerical Methods for Evolutionary PDEs: Theory and Applications**,\
 April 4-8, 2022, Braga, Portugal.
 
-- **UCL-OF-2021 – 3rd UCL OpenFOAM Workshop**,\
+- **UCL-OF-2021 – UCL OpenFOAM Workshop**,\
 February 24-26, 2021, London, United Kingdom (online).
 
 - **CMN-2019 – Congress on Numerical Methods in Engineering**,\
 July 1-3, 2019, Guimarães, Portugal.
 
-- **FOAM@IBERIA-2019 – 3rd Iberian Meeting of OpenFOAM Technology Users**,\
+- **FOAM@IBERIA-2019 – Iberian Meeting of OpenFOAM Technology Users**,\
 June 11-12, 2019, Porto, Portugal.
 
-- **PPS-2019 – 35th International Conference of the Polymer Processing Society**,\
+- **PPS-2019 – International Conference of the Polymer Processing Society**,\
 May 26-30, 2019, Cesme, Turkey.
 
-- **FOAM@IBERIA-2018 – 2nd Iberian Meeting of OpenFOAM Technology Users**,\
+- **FOAM@IBERIA-2018 – Iberian Meeting of OpenFOAM Technology Users**,\
 March 28-29, 2018, Santiago de Compostela, Spain.
 
-- **FOAM@IBERIA-2017 – 1st Iberian Meeting of OpenFOAM Technology Users**,\
+- **FOAM@IBERIA-2017 – Iberian Meeting of OpenFOAM Technology Users**,\
 March 1-2, 2017, Coimbra, Portugal.
 
-- **SYMCOMP-2017 – 3rd International Conference on Numerical and Symbolic Computation: Developments and Applications**,\
+- **SYMCOMP-2017 – International Conference on Numerical and Symbolic Computation: Developments and Applications**,\
 March 6-7, 2017, Guimarães, Portugal.
 
 - **SHARK-FV-2016 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
@@ -155,7 +144,7 @@ May 18-22, 2015, Ofir, Portugal.
 - **ESGI-2015 – European Study Group with Industry**,\
 May 11-15, 2015, Guimarães, Portugal.
 
-- **SYMCOMP-2015 – 2nd International Conference on Numerical and Symbolic Computation: Developments and Applications**,\
+- **SYMCOMP-2015 – International Conference on Numerical and Symbolic Computation: Developments and Applications**,\
 March 26-27, 2015, Faro, Portugal.
 
 - **HONOM-2015 – European Workshop on High-order Nonlinear Numerical Methods for Evolutionary PDEs: Theory and Applications**,\
@@ -179,13 +168,13 @@ September 9-10, 2013, Lisbon, Portugal.
 
 <p style="margin-bottom:1cm;"></p>
 
-- **exaFOAM-2024 – 2nd exaFOAM Workshop**,\
+- **exaFOAM-2024 – exaFOAM Workshop**,\
 March 22, 2024 (online).
 
-- **exaFOAM-2023 – 1st exaFOAM Workshop**,\
+- **exaFOAM-2023 – exaFOAM Workshop**,\
 June 12-13, 2023 (online).
 
-- **MUG-2021 – 1st MACC User Group Workshop**,\
+- **MUG-2021 – MACC User Group Workshop**,\
 June 15-18, 2021, University of Minho, Guimarães, Portugal (online).
 
 - **ESC4SHI-2021 – Workshop on Efficient Simulation and Computation for Sea, Health and Industry**,\
@@ -215,7 +204,7 @@ September 11-13, 2015, Lisbon, Portugal.
 - **POLYNUM-2014 – Numerical Simulation of Three-dimensional Polymer Flows and Application to Plastic Forming**,\
 October 16, 2014, Guimarães, Portugal.
 
-- **EJIUM-2013 – II Encontro de Jovens Investigadores da U.Minho**,\
+- **EJIUM-2013 – Encontro de Jovens Investigadores da U.Minho**,\
 October 23, 2013, Braga, Portugal.
 
 - **MMNSEA-2013 – Mathematical Modelling and Numerical Simulation for Engineering Applications**,\
@@ -224,7 +213,7 @@ September 13, 2013, Guimarães, Portugal.
 - **POLYNUM-2013 – Numerical Simulation of Three-dimensional Polymer Flows and Application to Plastic Forming**,\
 June 24, 2013, Guimarães, Portugal.
 
-- **ENBENG-2013 – 3rd Portuguese BioEngineering Meeting**,\
+- **ENBENG-2013 – Portuguese BioEngineering Meeting**,\
 February 20-23, 2013, Braga, Portugal.
 
 - **MMNSEA-2012 – Mathematical Modelling and Numerical Simulation for Engineering Applications**,\

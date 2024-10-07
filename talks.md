@@ -352,7 +352,7 @@ July 24--26, 2023, Coimbra, Portugal.\
 
 1. J. Castro, J.M. Nóbrega, and **R. Costa**,\
 <span style="color:blue">_Computational framework to model the selective laser sintering process_</span>,\
-**PPS-38 – 38th International Conference of the Polymer Processing Society**,\
+**PPS-38 – International Conference of the Polymer Processing Society**,\
 May 22--26, 2023, St. Gallen, Switzerland.\
 [https://www.pps-38.org/](https://www.pps-38.org/).
 

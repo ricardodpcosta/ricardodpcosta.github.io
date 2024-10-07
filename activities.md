@@ -24,11 +24,16 @@ title: Activities
 
 <p style="margin-bottom:1cm;"></p>
 
-- **Best Ph.D. Thesis in Applied and Computational Mechanics 2020** (APMTAC)
-- **PPS Graduate Travel Award 2019** (PPS)
-- **HONOM Travel Award 2015** (HONOM)
-- **SYMCOMP Young Researcher Award 2013 (Honourable Mention)** (SYMCOMP)
-- **Student Merit Award**
+- **Best Ph.D. Thesis in Applied and Computational Mechanics** (2020)\
+APMTAC - Portuguese Association of Theoretical, Applied and Computational Mechanics (Portugal)
+- **PPS Graduate Travel Award** (2019)\
+PPS -- Polymer Processing Society (United States)
+- **HONOM Travel Award** (2015)\
+HONOM -- European Workshop on High-order Nonlinear Numerical Methods for Evolutionary PDEs: Theory and Applications (Italy)
+- **SYMCOMP Young Researcher Award** – Honourable Mention (2013)\
+SYMCOMP -- International Conference on Algebraic and Symbolic Computation (Portugal)
+- **Student Merit Award** (2011)
+D. Maria II High School (Portugal)
 
 ---
 

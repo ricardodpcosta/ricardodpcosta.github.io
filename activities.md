@@ -102,11 +102,11 @@ September 21—22, 2022, Santander, Spain.\
 <p style="margin-bottom:1cm;"></p>
 
 - **Introduction to Design with Polymers** (2024/25)\
-Polymer Engineering (Bachelor), University of Minho, Portugal
+Bachelor Degree in Polymer Engineering, University of Minho, Portugal
 - **Graphic Representation and Digital Modelling** (2024/25)\
-Polymer Engineering (Bachelor), University of Minho, Portugal
+Bachelor Degree in Polymer Engineering, University of Minho, Portugal
 - **Computational Mechanics in Polymer Engineering** (2024/25)\
-Polymer Engineering (Master), University of Minho, Portugal
+Master's Degree in Polymer Engineering, University of Minho, Portugal
 
 ---
 

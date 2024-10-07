@@ -24,15 +24,15 @@ title: Activities
 
 <p style="margin-bottom:1cm;"></p>
 
-- **Best Ph.D. Thesis in Applied and Computational Mechanics** (2020)\
-APMTAC - Portuguese Association of Theoretical, Applied and Computational Mechanics (Portugal)
-- **PPS Graduate Travel Award** (2019)\
+- **Best Ph.D. Thesis in Applied and Computational Mechanics** (2020),\
+APMTAC – Portuguese Association of Theoretical, Applied and Computational Mechanics (Portugal)
+- **PPS Graduate Travel Award** (2019),\
 PPS -- Polymer Processing Society (United States)
-- **HONOM Graduate Travel Award** (2015)\
+- **HONOM Graduate Travel Award** (2015),\
 HONOM -- High-order Nonlinear Numerical Methods for Evolutionary PDEs: Theory and Applications (Italy)
-- **SYMCOMP Young Researcher Award** – Honourable Mention (2013)\
+- **SYMCOMP Young Researcher Award** – Honourable Mention (2013),\
 SYMCOMP -- International Conference on Algebraic and Symbolic Computation (Portugal)
-- **Student Merit Award** (2011)\
+- **Student Merit Award** (2011),\
 D. Maria II High School (Portugal)
 
 ---
@@ -68,8 +68,8 @@ D. Maria II High School (Portugal)
 
 <p style="margin-bottom:1cm;"></p>
 
-- EURO-PAR 2024 — 30th International European Conference on Parallel and Distributed Computing
-- ENUMATH 2023 — European Conference on Numerical Mathematics and Advanced Applications
+- **EURO-PAR 2024** — 30th International European Conference on Parallel and Distributed Computing
+- **ENUMATH 2023** — European Conference on Numerical Mathematics and Advanced Applications
 
 ---
 
@@ -77,15 +77,15 @@ D. Maria II High School (Portugal)
 
 <p style="margin-bottom:1cm;"></p>
 
-- **EURO-PAR 2024** — 30th International European Conference on Parallel and Distributed Computing,\
+- **EURO-PAR 2024** — International European Conference on Parallel and Distributed Computing,\
 August 26—30, 2023, Madrid, Spain.\
 [https://2024.euro-par.org/calls/whpc-session/](https://2024.euro-par.org/calls/whpc-session/).
 
-- **FOAM@IBERIA 2023** — 5th Iberian Meeting of OpenFOAM Technology Users,\
+- **FOAM@IBERIA 2023** — Iberian Meeting of OpenFOAM Technology Users,\
 November 2—3, 2023, Guimarães, Portugal.\
 [https://2023.foam-iberia.eu/committee/](https://2023.foam-iberia.eu/committee/).
 
-- **FOAM@IBERIA 2022** — 4th Iberian Meeting of OpenFOAM Technology Users,\
+- **FOAM@IBERIA 2022** – Iberian Meeting of OpenFOAM Technology Users,\
 September 21—22, 2022, Santander, Spain.\
 [https://2022.foam-iberia.eu/committee/](https://2022.foam-iberia.eu/committee/).
 
@@ -101,11 +101,11 @@ September 21—22, 2022, Santander, Spain.\
 
 <p style="margin-bottom:1cm;"></p>
 
-- **Introduction to Design with Polymers** (2024/25)\
+- **Introduction to Design with Polymers** (2024/25),\
 Bachelor Degree in Polymer Engineering, University of Minho, Portugal
-- **Graphic Representation and Digital Modelling** (2024/25)\
+- **Graphic Representation and Digital Modelling** (2024/25),\
 Bachelor Degree in Polymer Engineering, University of Minho, Portugal
-- **Computational Mechanics in Polymer Engineering** (2024/25)\
+- **Computational Mechanics in Polymer Engineering** (2024/25),\
 Master's Degree in Polymer Engineering, University of Minho, Portugal
 
 ---
@@ -114,7 +114,7 @@ Master's Degree in Polymer Engineering, University of Minho, Portugal
 
 <p style="margin-bottom:1cm;"></p>
 
-- **Computational modelling of the selective laser sintering process** (2021/22)\
+- **Computational modelling of the selective laser sintering process** (2021/22),\
 João Castro (Integrated Master in Polymer Engineering)
 
 ---
@@ -123,9 +123,9 @@ João Castro (Integrated Master in Polymer Engineering)
 
 <p style="margin-bottom:1cm;"></p>
 
-- **Simulator for the Fused Filament Manufacturing Industry** (2024/present)\
+- **Simulator for the Fused Filament Manufacturing Industry** (2024/present),\
 João Castro (Doctoral Program in Science and Engineering of Polymers and Composites University of Minho, Portugal)
-- **An innovative computational approach for injection moulding simulation in footwear industry** (2021/present)\
+- **An innovative computational approach for injection moulding simulation in footwear industry** (2021/present),\
 Ricardo Ribeiro (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal)
-- **A pioneering integrated computational approach for extrusion blow moulding** (2021/2023)\
+- **A pioneering integrated computational approach for extrusion blow moulding** (2021/2023),\
 Jayesh Golhar (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal)

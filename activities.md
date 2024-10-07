@@ -28,11 +28,11 @@ title: Activities
 APMTAC - Portuguese Association of Theoretical, Applied and Computational Mechanics (Portugal)
 - **PPS Graduate Travel Award** (2019)\
 PPS -- Polymer Processing Society (United States)
-- **HONOM Travel Award** (2015)\
+- **HONOM Graduate Travel Award** (2015)\
 HONOM -- European Workshop on High-order Nonlinear Numerical Methods for Evolutionary PDEs: Theory and Applications (Italy)
 - **SYMCOMP Young Researcher Award** – Honourable Mention (2013)\
 SYMCOMP -- International Conference on Algebraic and Symbolic Computation (Portugal)
-- **Student Merit Award** (2011)
+- **Student Merit Award** (2011)\
 D. Maria II High School (Portugal)
 
 ---
@@ -101,9 +101,12 @@ September 21—22, 2022, Santander, Spain.\
 
 <p style="margin-bottom:1cm;"></p>
 
-- **Introduction to Design with Polymers** (2024/25) – Polymer Engineering (Bachelor), University of Minho, Portugal
-- **Graphic Representation and Digital Modelling** (2024/25) – Polymer Engineering (Bachelor), University of Minho, Portugal
-- **Computational Mechanics in Polymer Engineering** (2024/25) - Polymer Engineering (Master), University of Minho, Portugal
+- **Introduction to Design with Polymers** (2024/25)\
+Polymer Engineering (Bachelor), University of Minho, Portugal
+- **Graphic Representation and Digital Modelling** (2024/25)\
+Polymer Engineering (Bachelor), University of Minho, Portugal
+- **Computational Mechanics in Polymer Engineering** (2024/25)\
+Polymer Engineering (Master), University of Minho, Portugal
 
 ---
 

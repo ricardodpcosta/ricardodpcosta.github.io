@@ -126,7 +126,7 @@ Master's Degree in Polymer Engineering, University of Minho, Portugal.
 <p style="margin-bottom:1cm;"></p>
 
 - **Computational modelling of the selective laser sintering process** (2021/22),\
-João Castro (Integrated Master in Polymer Engineering).
+João Castro (Integrated Master in Polymer Engineering, University of Minho, Portugal).
 
 ---
 
@@ -135,7 +135,7 @@ João Castro (Integrated Master in Polymer Engineering).
 <p style="margin-bottom:1cm;"></p>
 
 - **Simulator for the Fused Filament Manufacturing Industry** (2024/present),\
-João Castro (Doctoral Program in Science and Engineering of Polymers and Composites University of Minho, Portugal).
+João Castro (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).
 
 - **An innovative computational approach for injection moulding simulation in footwear industry** (2021/present),\
 Ricardo Ribeiro (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).

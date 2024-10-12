@@ -11,7 +11,7 @@ title: Events
 
 ---
 
-### Organised mini-symposia in conferences
+### Organised mini-symposia in international conferences
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -65,7 +65,7 @@ April 28-May 2, 2014, Ofir, Portugal.\
 
 ---
 
-### Attended conferences
+### Attended international conferences
 
 <p style="margin-bottom:1cm;"></p>
 

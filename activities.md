@@ -47,7 +47,7 @@ D. Maria II High School (Portugal).
 
 ---
 
-#### Refereeing of manuscripts in international journals
+#### Invited refereeing of manuscripts in international journals
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -68,7 +68,7 @@ D. Maria II High School (Portugal).
 
 ---
 
-#### Refereeing of manuscripts in international conferences
+#### Invited refereeing of manuscripts in international conferences
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -78,7 +78,7 @@ D. Maria II High School (Portugal).
 
 ---
 
-#### Scientific/program committee in international conferences
+#### Invited scientific/program committee in international conferences
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -140,5 +140,5 @@ João Castro (Doctoral Program in Science and Engineering of Polymers and Compos
 - **An innovative computational approach for injection moulding simulation in footwear industry** (2021/present),\
 Ricardo Ribeiro (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).
 
-- **A pioneering integrated computational approach for extrusion blow moulding** (2021/2023),\
+- **A pioneering integrated computational approach for extrusion blow moulding** (2021/23),\
 Jayesh Golhar (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).

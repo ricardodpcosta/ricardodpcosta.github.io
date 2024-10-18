@@ -72,7 +72,7 @@ D. Maria II High School (Portugal).
 
 <p style="margin-bottom:1cm;"></p>
 
-- **PASC 2025** - Platform for Advanced Scientific Computing Conference.
+- **PASC 2025** – Platform for Advanced Scientific Computing Conference.
 - **EURO-PAR 2024** — International European Conference on Parallel and Distributed Computing.
 - **ENUMATH 2023** — European Conference on Numerical Mathematics and Advanced Applications.
 
@@ -82,7 +82,7 @@ D. Maria II High School (Portugal).
 
 <p style="margin-bottom:1cm;"></p>
 
-- **PASC 2025** - Platform for Advanced Scientific Computing Conference,\
+- **PASC 2025** – Platform for Advanced Scientific Computing Conference,\
 June 16-18, 2025, Brugg, Switzerland.\
 [https://pasc25.pasc-conference.org/about/organization/papers-program-committee/](https://pasc25.pasc-conference.org/about/organization/papers-program-committee/).
 
@@ -134,7 +134,7 @@ João Castro (Integrated Master in Polymer Engineering, University of Minho, Por
 
 <p style="margin-bottom:1cm;"></p>
 
-- **Simulator for the Fused Filament Manufacturing Industry** (2024/present),\
+- **Simulator for the fused filament manufacturing industry** (2024/present),\
 João Castro (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).
 
 - **An innovative computational approach for injection moulding simulation in footwear industry** (2021/present),\

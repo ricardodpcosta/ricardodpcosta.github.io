@@ -176,7 +176,7 @@ In [[Costa et al., 2024]()], a novel and efficient high-order accurate finite vo
 </div>
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    Streamfunction.
+    Streamlines.
   </div>
   <div class="column" style="width:50%; text-align:center;">
     Vorticity contours.

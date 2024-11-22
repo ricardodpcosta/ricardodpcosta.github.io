@@ -51,6 +51,7 @@ D. Maria II High School (Portugal).
 
 <p style="margin-bottom:1cm;"></p>
 
+- Computers and Fluids
 - International Journal of Fluid Engineering
 - OpenFOAM Journal
 - Partial Differential Equations in Applied Mathematics

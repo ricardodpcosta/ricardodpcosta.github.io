@@ -11,7 +11,7 @@ title: Activities
 
 ---
 
-### International collaborators
+### _International collaborators_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -20,7 +20,7 @@ title: Activities
 
 ---
 
-### Awards and honourable mentions
+### _Awards and honourable mentions_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -41,13 +41,13 @@ D. Maria II High School (Portugal).
 
 ---
 
-### Scientific committee and refereeing
+### _Scientific committee and refereeing_
 
 <p style="margin-bottom:1cm;"></p>
 
 ---
 
-#### Invited refereeing of manuscripts in international journals
+#### _Invited refereeing of manuscripts in international journals_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -70,7 +70,7 @@ D. Maria II High School (Portugal).
 
 ---
 
-#### Invited refereeing of manuscripts in international conferences
+#### _Invited refereeing of manuscripts in international conferences_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -80,7 +80,7 @@ D. Maria II High School (Portugal).
 
 ---
 
-#### Invited scientific/program committee in international conferences
+#### _Invited scientific/program committee in international conferences_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -102,13 +102,13 @@ September 21—22, 2022, Santander, Spain.\
 
 ---
 
-### Teaching and supervision
+### _Teaching and supervision_
 
 <p style="margin-bottom:1cm;"></p>
 
 ---
 
-#### Courses taught
+#### _Courses taught_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -123,7 +123,7 @@ Master's Degree in Polymer Engineering, University of Minho, Portugal.
 
 ---
 
-####  Supervised master dissertations
+#### _ Supervised master dissertations_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -132,7 +132,7 @@ João Castro (Integrated Master in Polymer Engineering, University of Minho, Por
 
 ---
 
-#### Supervised doctoral theses
+#### _Supervised doctoral theses_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -147,13 +147,13 @@ Jayesh Golhar (Doctoral Program in Science and Engineering of Polymers and Compo
 
 ---
 
-### Jury of academic examinations
+### _Jury of academic examinations_
 
 <p style="margin-bottom:1cm;"></p>
 
 ---
 
-#### Examiner of doctoral theses
+#### _Examiner of doctoral theses_
 
 <p style="margin-bottom:1cm;"></p>
 

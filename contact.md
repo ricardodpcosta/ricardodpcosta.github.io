@@ -7,7 +7,7 @@ title: Contact
 
 ---
 
-### Students
+### _Students_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -22,7 +22,7 @@ An intermediate to advanced understanding of fluid mechanics, numerical methods,
 
 ---
 
-### Collaborators
+### _Collaborators_
 
 <p style="margin-bottom:1cm;"></p>
 

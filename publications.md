@@ -11,7 +11,7 @@ title: Publications
 
 ---
 
-### Peer-reviewed publications in international journals
+### _Peer-reviewed publications in international journals_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -108,7 +108,7 @@ DOI: [https://doi.org/10.1007/978-3-319-09144-0_7](https://doi.org/10.1007/978-3
 
 <p style="margin-bottom: 0.8cm;"></p>
 
-### Dissertations and theses
+### _Dissertations and theses_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -124,7 +124,7 @@ Available [here](http://repositorium.sdum.uminho.pt/handle/1822/39251).
 
 <p style="margin-bottom: 0.8cm;"></p>
 
-### Peer-reviewed publications in international conferences
+### _Peer-reviewed publications in international conferences_
 
 <p style="margin-bottom:1cm;"></p>
 

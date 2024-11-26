@@ -11,7 +11,7 @@ title: Talks
 
 ---
 
-### Invited keynote lectures in international conferences
+### _Invited keynote lectures in international conferences_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -23,7 +23,7 @@ April 25-28, 2023, Cannes, France.\
 
 ---
 
-### Invited oral presentations in international conferences
+### _Invited oral presentations in international conferences_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -41,7 +41,7 @@ September 18-22, 2023, Ica, Peru (online).\
 
 ---
 
-### Proposed oral presentations in conferences/workshops
+### _Proposed oral presentations in conferences/workshops_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -167,7 +167,7 @@ September 9-10, 2013, Lisbon, Portugal.\
 
 ---
 
-### Oral presentations in project workshops
+### _Oral presentations in project workshops_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -217,7 +217,7 @@ June 24, 2013, Guimarães, Portugal.
 
 ---
 
-### Co-authorship of proposed oral presentations in conferences/workshops
+### _Co-authorship of proposed oral presentations in conferences/workshops_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -277,7 +277,7 @@ June 13-17, 2016, Santiago de Compostela, Spain.\
 
 ---
 
-### Invited oral presentations for science dissemination to the general public
+### _Invited oral presentations for science dissemination to the general public_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -304,7 +304,7 @@ February 26, 2015, Guimarães, Portugal.
 
 ---
 
-### Proposed poster presentations in conferences/workshops
+### _Proposed poster presentations in conferences/workshops_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -340,7 +340,7 @@ September 12, 2012, Guimarães, Portugal.
 
 ---
 
-### Co-authorship of proposed poster presentations in conferences/workshops
+### _Co-authorship of proposed poster presentations in conferences/workshops_
 
 <p style="margin-bottom:1cm;"></p>
 

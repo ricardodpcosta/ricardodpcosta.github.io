@@ -123,7 +123,7 @@ Master's Degree in Polymer Engineering, University of Minho, Portugal.
 
 ---
 
-#### _ Supervised master dissertations_
+#### _Supervised master dissertations_
 
 <p style="margin-bottom:1cm;"></p>
 

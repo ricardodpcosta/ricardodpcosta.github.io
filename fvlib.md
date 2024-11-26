@@ -17,7 +17,7 @@ The FVLib code is the result of years of dedication and passion for applied math
 
 ---
 
-### **Modern object-oriented Fortran (2003/2008 standards)**
+### _Modern object-oriented Fortran (2003/2008 standards)_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -50,7 +50,7 @@ The FVLib code is programmed in modern Fortran (2003/2008 standards) with an obj
 
 ---
 
-### **Highly accurate schemes in space and time**
+### _Highly accurate schemes in space and time_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -83,7 +83,7 @@ The discretisation methods implemented in the FVLib code are highly accurate in 
 
 ---
 
-### **Unstructured meshes for complex geometries**
+### _Unstructured meshes for complex geometries_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -156,7 +156,7 @@ Complex geometries arise in many real-world problems of physics and engineering 
 
 ---
 
-### **Parallel computing for HPC environments**
+### _Parallel computing for HPC environments_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -164,7 +164,7 @@ The FVLib code multi-processing capabilities are implemented based on the **shar
 
 ---
 
-### Contributing
+### _Contributing_
 
 <p style="margin-bottom:1cm;"></p>
 

@@ -11,7 +11,7 @@ title: Events
 
 ---
 
-### Organised mini-symposia in international conferences
+### _Organised mini-symposia in international conferences_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -23,7 +23,7 @@ June 26-30, 2023, Wrocław, Poland.\
 
 ---
 
-### Organised international conferences
+### _Organised international conferences_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -65,7 +65,7 @@ April 28-May 2, 2014, Ofir, Portugal.\
 
 ---
 
-### Attended international conferences
+### _Attended international conferences_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -164,7 +164,7 @@ September 9-10, 2013, Lisbon, Portugal.
 
 ---
 
-### Attended workshops
+### _Attended workshops_
 
 <p style="margin-bottom:1cm;"></p>
 

@@ -11,7 +11,7 @@ title: Research
 
 ---
 
-### Incompressible fluid flow problems
+### _Incompressible fluid flow problems_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -40,7 +40,7 @@ Several stabilisation techniques were developed in the context of first- and sec
 
 ---
 
-### General slip boundary conditions
+### _General slip boundary conditions_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -73,7 +73,7 @@ In [[Costa et al., 2023](https://doi.org/10.1016/j.cma.2023.116274)], a simple, 
 
 ---
 
-### Arbitrary curved boundaries
+### _Arbitrary curved boundaries_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -115,7 +115,7 @@ The technique was developed in the FVM paradigm for the 2D convection-diffusion 
 
 ---
 
-### Conjugate heat transfer problems
+### _Conjugate heat transfer problems_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -150,7 +150,7 @@ Treating multi-domain problems with discontinuous coefficients requires a specia
 
 ---
 
-### Navier-Stokes equations in non-primitive formulations
+### _Navier-Stokes equations in non-primitive formulations_
 
 <p style="margin-bottom:1cm;"></p>
 

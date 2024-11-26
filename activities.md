@@ -6,7 +6,7 @@ title: Activities
 <p style="margin-bottom:1cm;"></p>
 
 <div class="message">
-  List of the main academic activities. Please refer to the <i>Curriculum Vitae</i> for a complete list.
+  List of the main scientific/academic activities. Please refer to the <i>Curriculum Vitae</i> for a complete list.
 </div>
 
 ---

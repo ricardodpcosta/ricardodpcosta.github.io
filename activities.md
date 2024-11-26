@@ -47,7 +47,7 @@ D. Maria II High School (Portugal).
 
 ---
 
-#### _Invited refereeing of manuscripts in international journals_
+#### _Invited refereeing of manuscripts for international journals_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -70,7 +70,7 @@ D. Maria II High School (Portugal).
 
 ---
 
-#### _Invited refereeing of manuscripts in international conferences_
+#### _Invited refereeing of manuscripts for international conferences_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -80,7 +80,7 @@ D. Maria II High School (Portugal).
 
 ---
 
-#### _Invited scientific/program committee in international conferences_
+#### _Invited scientific/program committee for international conferences_
 
 <p style="margin-bottom:1cm;"></p>
 

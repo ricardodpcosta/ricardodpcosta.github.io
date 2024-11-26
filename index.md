@@ -9,7 +9,7 @@ title: Home
 
 <img style="float:right; width:9em; margin-left:1em; margin-bottom:1em" src="public/photo.jpg">
 
-I am a post-doc researcher at University of Minho (in the beautiful and historical city of Guimarães, Portugal), a passionate scientist about applied mathematics and scientific computing, and an enthusiast programmer about software development.
+I am a post-doc researcher at University of Minho (in the beautiful and historical city of [Guimarães](https://www.visitportugal.com/en/node/73742), Portugal), a passionate scientist about applied mathematics and scientific computing, and an enthusiast programmer about software development.
 
 The research I have been conducting mainly concerns the development of novel numerical methods in **finite volume** and **discontinuous Galerkin** philosophies with high-order of accuracy, focusing on their numerical properties and implementation challenges in high-performance computing platforms as well as their application in the fields of **computational fluid dynamics** and **computational rheology.**
 

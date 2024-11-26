@@ -165,7 +165,6 @@ João Castro (Integrated Master's in Polymer Engineering, University of Minho, P
 
 - **A data-driven approach for modeling fiber orientation in injection molding** (2021/present),\
 Bruno Ramôa (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).\
-Advisors: João Nóbrega and Francisco Chinesta.
 
 ---
 
@@ -175,7 +174,6 @@ Advisors: João Nóbrega and Francisco Chinesta.
 
 - **Numerical modelling of the filling stage of the injection moulding process** (2019),
 João Pedro (Integrated Master's in Polymer Engineering, University of Minho, Portugal).\
-Advisors: Célio Fernandes and João Nóbrega
 
 ---
 

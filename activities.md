@@ -144,3 +144,21 @@ Ricardo Ribeiro (Doctoral Program in Science and Engineering of Polymers and Com
 
 - **A pioneering integrated computational approach for extrusion blow moulding** (2021/23),\
 Jayesh Golhar (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).
+
+---
+
+### Jury of academic examinations
+
+<p style="margin-bottom:1cm;"></p>
+
+---
+
+#### Examiner of doctoral theses
+
+<p style="margin-bottom:1cm;"></p>
+
+- **Viscoelastic fluids in profile extrusion: relevance and characterization** (2022),\
+Mohammadreza Aali (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).
+
+- **Computational modelling and optimisation of the extrusion blow moulding process** (2024),\
+Wagner Galuppo (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).

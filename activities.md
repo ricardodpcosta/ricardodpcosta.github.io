@@ -157,8 +157,8 @@ Jayesh Golhar (Doctoral Program in Science and Engineering of Polymers and Compo
 
 <p style="margin-bottom:1cm;"></p>
 
-- **Viscoelastic fluids in profile extrusion: relevance and characterization** (2022),\
-Mohammadreza Aali (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).
-
 - **Computational modelling and optimisation of the extrusion blow moulding process** (2024),\
 Wagner Galuppo (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).
+
+- **Viscoelastic fluids in profile extrusion: relevance and characterization** (2022),\
+Mohammadreza Aali (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).

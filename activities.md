@@ -123,15 +123,6 @@ Master's Degree in Polymer Engineering, University of Minho, Portugal.
 
 ---
 
-#### _Supervised master dissertations_
-
-<p style="margin-bottom:1cm;"></p>
-
-- **Computational modelling of the selective laser sintering process** (2021/22),\
-João Castro (Integrated Master in Polymer Engineering, University of Minho, Portugal).
-
----
-
 #### _Supervised doctoral theses_
 
 <p style="margin-bottom:1cm;"></p>
@@ -144,6 +135,47 @@ Ricardo Ribeiro (Doctoral Program in Science and Engineering of Polymers and Com
 
 - **A pioneering integrated computational approach for extrusion blow moulding** (2021/23),\
 Jayesh Golhar (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).
+
+---
+
+#### _Supervised master's dissertations_
+
+<p style="margin-bottom:1cm;"></p>
+
+- **Computational modelling of the selective laser sintering process** (2021/22),\
+João Castro (Integrated Master in Polymer Engineering, University of Minho, Portugal).
+
+---
+
+#### _Supervised master's projects_
+
+<p style="margin-bottom:1cm;"></p>
+
+- **Numerical simulation of the fused deposition modelling process** (2021),\
+João Sousa (Integrated Master's in Polymer Engineering, University of Minho, Portugal).
+
+- **Computational modelling of selective laser sintering process** (2021),\
+João Castro (Integrated Master's in Polymer Engineering, University of Minho, Portugal).
+
+---
+
+#### _Mentored doctoral theses_
+
+<p style="margin-bottom:1cm;"></p>
+
+- **A data-driven approach for modeling fiber orientation in injection molding** (2021/present),\
+Bruno Ramôa (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).\
+Advisors: João Nóbrega and Francisco Chinesta.
+
+---
+
+#### _Mentored master's dissertations_
+
+<p style="margin-bottom:1cm;"></p>
+
+- **Numerical modelling of the filling stage of the injection moulding process** (2019),
+João Pedro (Integrated Master's in Polymer Engineering, University of Minho, Portugal).\
+Advisors: Célio Fernandes and João Nóbrega
 
 ---
 

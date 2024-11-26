@@ -142,7 +142,7 @@ Jayesh Golhar (Doctoral Program in Science and Engineering of Polymers and Compo
 
 <p style="margin-bottom:1cm;"></p>
 
-- **Computational modelling of the selective laser sintering process** (2021/22),\
+- **Computational modelling of the selective laser sintering process** (2022),\
 João Castro (Integrated Master in Polymer Engineering, University of Minho, Portugal).
 
 ---

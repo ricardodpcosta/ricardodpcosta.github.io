@@ -74,9 +74,9 @@ D. Maria II High School (Portugal).
 
 <p style="margin-bottom:1cm;"></p>
 
-- **PASC 2025** – Platform for Advanced Scientific Computing Conference.
-- **EURO-PAR 2024** — International European Conference on Parallel and Distributed Computing.
-- **ENUMATH 2023** — European Conference on Numerical Mathematics and Advanced Applications.
+- **PASC 2025** – Platform for Advanced Scientific Computing Conference
+- **EURO-PAR 2024** — International European Conference on Parallel and Distributed Computing
+- **ENUMATH 2023** — European Conference on Numerical Mathematics and Advanced Applications
 
 ---
 

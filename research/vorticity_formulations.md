@@ -11,7 +11,7 @@ title: Research
 
 ---
 
-### _Navier-Stokes equations in non-primitive formulations_
+### _Navier-Stokes equations in vorticity formulations_
 
 <p style="margin-bottom:1cm;"></p>
 

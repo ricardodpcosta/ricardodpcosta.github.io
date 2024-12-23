@@ -281,7 +281,7 @@ a.sidebar-nav-item:focus {
 .boxes-section {
   text-align: center;
   padding: 20px;
-  background-color: #f9f9f9;
+  background-color: none;
 }
 
 .boxes-container {

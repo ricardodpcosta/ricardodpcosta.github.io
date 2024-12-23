@@ -12,7 +12,6 @@ tagline:          'Ricardo Costa'
 description:      'Personal page'
 url:              http://ricardodpcosta.github.io/
 baseurl:          /
-permalink:        /
 
 author:
   name:           'Mark Otto'

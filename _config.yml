@@ -10,12 +10,8 @@ highlighter:      pygments
 title:            Ricardo Costa
 tagline:          'Ricardo Costa'
 description:      'Personal page'
-url:              http://ricardodpcosta.github.io
+url:              http://ricardodpcosta.github.io/
 baseurl:          /
-
-include:
-                  - _research
-                  - _projects
 
 author:
   name:           'Mark Otto'

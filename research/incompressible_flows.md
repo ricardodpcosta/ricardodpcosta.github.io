@@ -23,10 +23,10 @@ Several stabilisation techniques were developed in the context of first- and sec
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/pressure.png">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="{{ site.baseurl }}../public/pressure.png">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/streamlines.png">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="{{ site.baseurl }}../public/streamlines.png">
   </div>
 </div>
 <div class="row">

@@ -28,27 +28,27 @@ _Here you can find my latest research activity, projects, publications, reposito
 <div class="row">
   <div class="column" style="width:20%;">
     <a href="https://www.researchgate.net/profile/ricardo-costa-21">
-      <img style="height:2.5em; display:block; margin-left:auto; margin-right:auto;" src="public/researchgate.png">
+      <img style="display:block; margin-left:auto; margin-right:auto;" src="public/researchgate.png">
     </a>
   </div>
   <div class="column" style="width:20%;">
     <a href="https://www.cienciavitae.pt/2F14-5623-03EB">
-      <img style="height:2.5em; display:block; margin-left:auto; margin-right:auto;" src="public/cienciaid.png">
+      <img style="display:block; margin-left:auto; margin-right:auto;" src="public/cienciaid.png">
     </a>
   </div>
   <div class="column" style="width:20%;">
     <a href="https://orcid.org/0000-0002-1904-8317">
-      <img style="height:2.5em; display:block; margin-left:auto; margin-right:auto;" src="public/orcid.png">
+      <img style="display:block; margin-left:auto; margin-right:auto;" src="public/orcid.png">
     </a>
   </div>
   <div class="column" style="width:20%;">
     <a href="https://www.webofscience.com/wos/author/record/GOV-5791-2022">
-      <img style="height:2.5em; display:block; margin-left:auto; margin-right:auto;" src="public/webofscience.png">
+      <img style="display:block; margin-left:auto; margin-right:auto;" src="public/webofscience.png">
     </a>
   </div>
   <div class="column" style="width:20%;">
     <a href="https://www.scopus.com/authid/detail.uri?authorId=56295230300">
-      <img style="height:2.5em; display:block; margin-left:auto; margin-right:auto;" src="public/scopus.png">
+      <img style="display:block; margin-left:auto; margin-right:auto;" src="public/scopus.png">
     </a>
   </div>
 </div>

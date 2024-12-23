@@ -51,5 +51,4 @@ _Here you can find my latest research activity, projects, publications, reposito
       <img style="height:2.5em; display:block; margin-left:auto; margin-right:auto;" src="public/scopus.png">
     </a>
   </div>
-
 </div>

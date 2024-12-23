@@ -14,7 +14,6 @@ url:              http://ricardodpcosta.github.io
 baseurl:          /
 
 include:          _research/*
-include:          _projects/*
 
 author:
   name:           'Mark Otto'

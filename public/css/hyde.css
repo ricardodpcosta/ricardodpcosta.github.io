@@ -307,7 +307,7 @@ a.sidebar-nav-item:focus {
 
 .boxes-image {
   width: 100%;
-  height: 150px;
+  height: 200px;
   overflow: hidden;
   box-shadow: 0 0 4px 4px white inset;
 }
@@ -321,7 +321,7 @@ a.sidebar-nav-item:focus {
 .boxes-box img {
   width: 100%;
   height: auto;
-  transform: translateY(-50%) translateY(75px);
+  transform: translateY(-50%) translateY(100px);
 }
 
 .boxes-box h3 {

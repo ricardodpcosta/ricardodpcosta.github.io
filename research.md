@@ -15,10 +15,8 @@ title: Research
   <div class="boxes-container">
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'research/incompressible_flows.html' | relative_url }}">
-        <div style=" width: 100%;
-        height: 100px;
-        overflow: hidden;">
-          <img src="{{ 'public/pressure.png' | relative_url }}" style="transform: translateY(-50%) translateY(50px);" alt="">
+        <div class="boxes-image">
+          <img src="{{ 'public/pressure.png' | relative_url }}" alt="">
         </div>
         <div class="boxes-title">
           <h3>Incompressible fluid flow problems</h3>

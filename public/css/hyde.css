@@ -321,6 +321,7 @@ a.sidebar-nav-item:focus {
   width: 100%;
   height: auto;
   transform: translateY(-50%) translateY(75px);
+  box-shadow: 0 0 4px 4px white inset;
 }
 
 .boxes-box h3 {

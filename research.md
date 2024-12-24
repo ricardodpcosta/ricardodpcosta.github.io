@@ -32,8 +32,7 @@ title: Research
         <div class="boxes-image">
           <img src="{{ 'public/pressure.png' | relative_url }}" alt="">
         </div>
-        <div class="boxes-image-after">
-       </div>
+       
         <div class="boxes-title">
           <h3>Incompressible fluid flow problems</h3>
         </div>

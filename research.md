@@ -15,7 +15,7 @@ title: Research
   <div class="boxes-container">
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'research/incompressible_flows.html' | relative_url }}">
-        <div class="boxes-image" style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1)">
+        <div class="boxes-image" style="box-shadow: 0 0 4px 4px white inset">
           <img src="{{ 'public/pressure.png' | relative_url }}" alt="">
         </div>
         <div class="boxes-title">

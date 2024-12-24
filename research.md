@@ -13,7 +13,7 @@ title: Research
 
 <style>
 
-      boxes-image:after {
+      .boxes-image:after {
         content: "";
         position: absolute;
         z-index: 1;

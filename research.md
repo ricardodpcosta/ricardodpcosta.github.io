@@ -18,7 +18,7 @@ title: Research
         <div style=" width: 100%;
         height: 100px;
         overflow: hidden;
-        translateY(-50%)">
+        transform: translateY(-50%)">
           <img src="{{ 'public/pressure.png' | relative_url }}" alt="">
         </div>
         <div class="boxes-title">

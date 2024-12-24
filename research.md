@@ -14,8 +14,9 @@ title: Research
 <style>
 
       .boxes-image-after {
-        margin-top: -100px;
-        background-color:red;
+        position: absolute;
+        z-index: 10;
+        background-color: red;
         width: 100%;
         height: 200px;
       }

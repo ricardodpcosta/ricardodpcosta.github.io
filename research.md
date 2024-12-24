@@ -29,7 +29,7 @@ title: Research
           <img src="{{ 'public/streamlines.png' | relative_url }}" alt="">
         </div>
         <div class="boxes-title">
-          <h3>General slip boundary conditions</h3>
+          <h3>General slip boundary condition</h3>
         </div>
       </a>
     </div>

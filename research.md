@@ -48,7 +48,7 @@ title: Research
         <div class="boxes-image">
           <img src="{{ 'public/continuity_interface_condition.png' | relative_url }}" alt="">
         </div>
-        <div class="boxes-title">
+        <div class="boxes-title" style="margin: auto">
           <h3>Conjugate heat transfer problems</h3>
         </div>
       </a>

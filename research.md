@@ -22,7 +22,7 @@ title: Research
         pointer-events: none;
         background-image: linear-gradient(to bottom, rgba(0,255,255,0), rgba(0,255,255, 1) 90%);
         width: 100%;
-        height: auto;
+        height: 200px;
       }
 
 </style>

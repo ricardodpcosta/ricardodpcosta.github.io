@@ -17,7 +17,8 @@ title: Research
       <a class="boxes-link" href="{{ 'research/incompressible_flows.html' | relative_url }}">
         <div style=" width: 100%;
         height: 100px;
-        overflow: hidden;">
+        overflow: hidden;
+        translateY(-50%)">
           <img src="{{ 'public/pressure.png' | relative_url }}" alt="">
         </div>
         <div class="boxes-title">

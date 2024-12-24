@@ -13,13 +13,11 @@ title: Research
 
 <style>
 
-      .boxes-image:after {
-        content: "";
+      .boxes-image-after {
         position: absolute;
         z-index: 1;
         bottom: 0;
         left: 0;
-        pointer-events: none;
         background-image: linear-gradient(to bottom, rgba(0,255,255,0), rgba(0,255,255, 1) 90%);
         width: 100%;
         height: 200px;
@@ -34,6 +32,8 @@ title: Research
         <div class="boxes-image">
           <img src="{{ 'public/pressure.png' | relative_url }}" alt="">
         </div>
+        <div class="boxes-image-after">
+       </div>
         <div class="boxes-title">
           <h3>Incompressible fluid flow problems</h3>
         </div>

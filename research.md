@@ -15,19 +15,19 @@ title: Research
   <div class="boxes-container">
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'research/incompressible_flows.html' | relative_url }}">
-        <img src="https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg" alt="">
+        <img src="{{ 'public/streamlines.png' | relative_url }}" alt="">
         <h3>Incompressible fluid flow problems</h3>
       </a>
     </div>
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'research/slip_conditions.html' | relative_url }}">
-        <img src="https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg" alt="">
+        <img src="{{ 'public/boundary_minimum_curvature.png' | relative_url }}" alt="">
         <h3>General slip boundary conditions</h3>
       </a>
     </div>
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'research/curved_boundaries.html' | relative_url }}">
-        <img src="https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg" alt="">
+        <img src="{{ 'public/curved_mesh.png' | relative_url }}" alt="">
         <h3>Arbitrary curved boundaries</h3>
       </a>
     </div>

@@ -18,7 +18,7 @@ title: Research
         <div style=" width: 100%;
         height: 100px;
         overflow: hidden;">
-          <img src="{{ 'public/pressure.png' | relative_url }}" style="" alt="">
+          <img src="{{ 'public/pressure.png' | relative_url }}" style="transform: translateY(50%-50px);" alt="">
         </div>
         <div class="boxes-title">
           <h3>Incompressible fluid flow problems</h3>

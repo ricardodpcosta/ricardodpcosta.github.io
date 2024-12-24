@@ -14,8 +14,8 @@ url:              http://ricardodpcosta.github.io/
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+name:             'Mark Otto'
+url:              https://twitter.com/mdo
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 # version:          2.1.0
 
 github:
-  repo:           http://github.com/ricardodpcosta
+repo:             http://github.com/ricardodpcosta

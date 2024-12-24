@@ -33,7 +33,7 @@ title: Research
     </div>
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'research/heat_transfer.html' | relative_url }}">
-        <img src="https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg" alt="">
+        <img src="{{ 'public/continuity_interface_condition.png' | relative_url }}" alt="">
         <h3>Conjugate heat transfer problems</h3>
       </a>
     </div>

@@ -307,7 +307,7 @@ a.sidebar-nav-item:focus {
 
 .boxes-imgage {
   width: 100%;
-  height: 150px;
+  height: 100px;
   display: flex;
   justify-content: center;
   align-items: center;

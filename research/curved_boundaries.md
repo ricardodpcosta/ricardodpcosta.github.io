@@ -27,10 +27,10 @@ In the finite element paradigm, the **isoparametric elements method** has become
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/curved_mesh.png | relative_url }}">
+    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/curved_mesh.png' | relative_url }}">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/polygonal_mesh.png | relative_url }}">
+    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/polygonal_mesh.png' | relative_url }}">
   </div>
 </div>
 <div class="row">

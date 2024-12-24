@@ -25,10 +25,10 @@ In CHT, specific **interface conditions** are prescribed on the interface depend
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/continuity_interface_condition.png | relative_url }}">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/continuity_interface_condition.png' | relative_url }}">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/jump_interface_condition.png | relative_url }}">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/jump_interface_condition.png' | relative_url }}">
   </div>
 </div>
 <div class="row">

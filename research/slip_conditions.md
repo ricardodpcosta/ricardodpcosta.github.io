@@ -23,10 +23,10 @@ The literature on general slip boundary conditions is limited, and the existing 
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:40%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/boundary_minimum_curvature.png | relative_url }}">
+    <img style="width:40%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/boundary_minimum_curvature.png' | relative_url }}">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:40%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/boundary_maximum_curvature.png | relative_url }}">
+    <img style="width:40%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/boundary_maximum_curvature.png' | relative_url }}">
   </div>
 </div>
  <div class="row">

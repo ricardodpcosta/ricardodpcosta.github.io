@@ -287,7 +287,7 @@ a.sidebar-nav-item:focus {
 .boxes-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 20px;
+  gap: 40px;
   margin-top: 20px;
 }
 

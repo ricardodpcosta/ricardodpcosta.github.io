@@ -11,12 +11,28 @@ title: Research
 
 ---
 
+<style>
+
+      boxes-image:after {
+        content: "";
+        position: absolute;
+        z-index: 1;
+        bottom: 0;
+        left: 0;
+        pointer-events: none;
+        background-image: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,255, 1) 90%);
+        width: 100%;
+        height: 4em;
+      }
+
+</style>
+
 <div class="boxes-section">
   <div class="boxes-container">
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'research/incompressible_flows.html' | relative_url }}">
-        <div class="boxes-image" style="box-shadow: 0 0 4px 4px white inset; background-image: url('public/pressure.png');" >
-         
+        <div class="boxes-image">
+          <img src="{{ 'public/pressure.png' | relative_url }}" alt="">
         </div>
         <div class="boxes-title">
           <h3>Incompressible fluid flow problems</h3>

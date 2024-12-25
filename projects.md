@@ -18,6 +18,8 @@ title: Projects
         <div class="boxes-image">
           <img src="https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg" alt="">
         </div>
+        <div class="boxes-blur">
+        </div>
         <div class="boxes-title">
           <h3>SIMPRO</h3>
           <p>Efficient computation and simulation of complex materials in advanced manufacturing processes</p>
@@ -28,6 +30,8 @@ title: Projects
       <a class="boxes-link" href="{{ 'projects/simpro_cpca.html' | relative_url }}">
         <div class="boxes-image">
           <img src="https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg" alt="">
+        </div>
+        <div class="boxes-blur">
         </div>
         <div class="boxes-title">
           <h3>SIMPRO-CPCA</h3>

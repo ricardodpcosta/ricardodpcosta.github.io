@@ -19,10 +19,6 @@
       <a class="sidebar-nav-item" href="{{ 'events.html' | relative_url }}">Events</a>
       <a class="sidebar-nav-item" href="{{ 'activities.html' | relative_url }}">Activities</a>
       <a class="sidebar-nav-item" href="{{ 'projects.html' | relative_url }}">Projects</a>
-      <a class="sidebar-nav-item" href="{{ 'alga.html' | relative_url }}">ALGA book</a>
-      <a class="sidebar-nav-item" href="{{ 'fvlib.html' | relative_url }}">FVLib code</a>
-      <a class="sidebar-nav-item"></a>
-      <a class="sidebar-nav-item" href="{{ 'projects/simpro.html' | relative_url }}"><span style="color:yellow">SIMPRO</span></a>
 
       <!-- {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -42,6 +38,11 @@
       <a class="sidebar-nav-item" href="{{ site.repo }}">Repository</a>
       <a class="sidebar-nav-item" href="{{ 'contact.html' | relative_url }}">Contact</a>
       <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
+
+      <p style="margin-bottom:1cm;"></p>
+      <a class="sidebar-nav-item" href="{{ 'fvlib.html' | relative_url }}"><span style="color:yellow">FVLib</span></a>
+      <a class="sidebar-nav-item" href="{{ 'alga.html' | relative_url }}"><span style="color:yellow">ALGA</span></a>
+      <a class="sidebar-nav-item" href="{{ 'projects/simpro.html' | relative_url }}"><span style="color:yellow">SIMPRO</span></a>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>

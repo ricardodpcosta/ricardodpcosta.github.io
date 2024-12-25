@@ -16,7 +16,7 @@ title: Projects
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'projects/simpro.html' | relative_url }}">
         <div class="boxes-image">
-          <img src="{{ 'public/extrusion.png' | relative_url }}" alt="">
+          <img src="{{ 'public/extrusion.jpg' | relative_url }}" alt="">
         </div>
         <div class="boxes-blur">
         </div>
@@ -29,7 +29,7 @@ title: Projects
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'projects/simpro_cpca.html' | relative_url }}">
         <div class="boxes-image">
-          <img src="{{ 'public/supercomputer.png' | relative_url }}" alt="">
+          <img src="{{ 'public/supercomputer.jpg' | relative_url }}" alt="">
         </div>
         <div class="boxes-blur">
         </div>

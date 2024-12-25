@@ -22,7 +22,7 @@
           {% endif %}
         {% endif %}
       {% endfor %} -->
-      <a class="sidebar-nav-item{{ page.url }} {{ 'index.html' | relative_url }} " href="{{ 'index.html' | relative_url }}">Home</a>
+      <a class={% if page.url == {{ 'events.html' | relative_url }} %} "sidebar-nav-item active" {% else %} "sidebar-nav-item" {% endif %}" href="{{ 'index.html' | relative_url }}">Home</a>
       <a class="sidebar-nav-item{% if page.url == {{ 'research.html' | relative_url }} %} active{% endif %}" href="{{ 'research.html' | relative_url }}">Research</a>
       <a class="sidebar-nav-item{% if page.url == {{ 'publications.html' | relative_url }} %} active{% endif %}" href="{{ 'publications.html' | relative_url }}">Publications</a>
       <a class="sidebar-nav-item{% if page.url == {{ 'seminars.html' | relative_url }} %} active{% endif %}" href="{{ 'seminars.html' | relative_url }}">Seminars</a>

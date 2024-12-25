@@ -9,22 +9,11 @@
       </h1>
       <p class="lead">{{ site.description }}</p>
     </div>
-
     <nav class="sidebar-nav">
-      <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a> -->
-      <a class="sidebar-nav-item" href="{{ 'index.html' | relative_url }}">Home</a>
-      <a class="sidebar-nav-item" href="{{ 'research.html' | relative_url }}">Research</a>
-      <a class="sidebar-nav-item" href="{{ 'publications.html' | relative_url }}">Publications</a>
-      <a class="sidebar-nav-item" href="{{ 'seminars.html' | relative_url }}">Seminars</a>
-      <a class="sidebar-nav-item" href="{{ 'events.html' | relative_url }}">Events</a>
-      <a class="sidebar-nav-item" href="{{ 'activities.html' | relative_url }}">Activities</a>
-      <a class="sidebar-nav-item" href="{{ 'projects.html' | relative_url }}">Projects</a>
-
       <!-- {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
-
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
@@ -33,17 +22,19 @@
           {% endif %}
         {% endif %}
       {% endfor %} -->
-
-      <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a> -->
-      <a class="sidebar-nav-item" href="{{ site.repo }}">Repository</a>
-      <a class="sidebar-nav-item" href="{{ 'contact.html' | relative_url }}">Contact</a>
-      <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
-
-      <a class="sidebar-nav-item" href="{{ 'fvlib.html' | relative_url }}"><span style="color:yellow">FVLib code</span></a>
-      <a class="sidebar-nav-item" href="{{ 'alga.html' | relative_url }}"><span style="color:yellow">ALGA book</span></a>
-      <a class="sidebar-nav-item" href="{{ 'projects/simpro.html' | relative_url }}"><span style="color:yellow">SIMPRO project</span></a>
+      <a class="sidebar-nav-item{% if page.url == {{ 'index.html' | relative_url }} %} active{% endif %}" href="{{ 'index.html' | relative_url }}">Home</a>
+      <a class="sidebar-nav-item{% if page.url == {{ 'research.html' | relative_url }} %} active{% endif %}" href="{{ 'research.html' | relative_url }}">Research</a>
+      <a class="sidebar-nav-item{% if page.url == {{ 'publications.html' | relative_url }} %} active{% endif %}" href="{{ 'publications.html' | relative_url }}">Publications</a>
+      <a class="sidebar-nav-item{% if page.url == {{ 'seminars.html' | relative_url }} %} active{% endif %}" href="{{ 'seminars.html' | relative_url }}">Seminars</a>
+      <a class="sidebar-nav-item{% if page.url == {{ 'events.html' | relative_url }} %} active{% endif %}" href="{{ 'events.html' | relative_url }}">Events</a>
+      <a class="sidebar-nav-item{% if page.url == {{ 'activities.html' | relative_url }} %} active{% endif %}" href="{{ 'activities.html' | relative_url }}">Activities</a>
+      <a class="sidebar-nav-item{% if page.url == {{ 'projects.html' | relative_url }} %} active{% endif %}" href="{{ 'projects.html' | relative_url }}">Projects</a>
+      <a class="sidebar-nav-item{% if page.url == {{ site.repo }} %} active{% endif %}" href="{{ site.repo }}">Repository</a>
+      <a class="sidebar-nav-item{% if page.url == {{ 'contact.html' | relative_url }} %} active{% endif %}" href="{{ 'contact.html' | relative_url }}">Contact</a>
+      <a class="sidebar-nav-item{% if page.url == {{ 'fvlib.html' | relative_url }} %} active{% endif %}" href="{{ 'fvlib.html' | relative_url }}"><span style="color:yellow">FVLib code</span></a>
+      <a class="sidebar-nav-item{% if page.url == {{ 'alga.html' | relative_url }} %} active{% endif %}" href="{{ 'alga.html' | relative_url }}"><span style="color:yellow">ALGA book</span></a>
+      <a class="sidebar-nav-item{% if page.url == {{ 'projects/simpro.html' | relative_url }} %} active{% endif %}" href="{{ 'projects/simpro.html' | relative_url }}"><span style="color:yellow">SIMPRO project</span></a>
     </nav>
-
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>

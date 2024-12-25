@@ -21,7 +21,7 @@ _Here you can find my latest research activity, projects, publications, reposito
 
 <p style="margin-bottom:1cm;">
   <font size="smaller">
-    Check out my other social pages:
+    Check out my other academic pages:
   </font>
 </p>
 

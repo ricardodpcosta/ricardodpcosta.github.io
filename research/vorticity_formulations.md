@@ -23,10 +23,10 @@ In the context of low-order accurate discretisation methods, the conventional pr
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/psi.png' | relative_url }}">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/streamfunction.png' | relative_url }}">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="{{ '/public/omega.png' | relative_url }}">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/vorticity.png' | relative_url }}">
   </div>
 </div>
 <div class="row">

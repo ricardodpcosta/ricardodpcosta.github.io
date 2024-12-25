@@ -63,9 +63,9 @@ The technique was developed in the FVM paradigm for the 2D convection-diffusion 
 </div>
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    Pressure distribution.
+    Curved domain.
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    Velocity streamlines.
+    Unstructured mesh.
   </div>
 </div>

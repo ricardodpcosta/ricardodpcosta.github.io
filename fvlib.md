@@ -97,7 +97,7 @@ Complex geometries arise in many real-world problems of physics and engineering 
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="public/geometry.png">
+    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="public/curved_domain.png">
   </div>
   <div class="column" style="width:50%; text-align:center;">
     <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="public/unstructured_mesh.png">

@@ -15,6 +15,7 @@ title: Activities
 
 <p style="margin-bottom:1cm;"></p>
 
+- [Marca Garcia-Gasulla](https://www.bsc.es/garcia-gasulla-marta) (Barcelona Supercomputing Center, Spain)
 - [Hugo Beirão da Veiga](https://people.dm.unipi.it/beiraodaveiga/) (University of Pisa, Italy)
 - [Francesca Crispo](https://www.distabif.unicampania.it/dipartimento/docenti?MATRICOLA=083137) (University of Campania “Luigi Vanvitelli”, Italy)
 

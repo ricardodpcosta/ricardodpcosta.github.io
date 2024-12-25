@@ -50,3 +50,22 @@ In [[Costa et al., 2018](https://doi.org/10.1016/j.apm.2017.10.016); [Costa et a
 - **Simple quadrature rules** for integration on the linear piecewise elements.
 
 The technique was developed in the FVM paradigm for the 2D convection-diffusion problem with **general boundary conditions**, effectively achieving the sixth-order of convergence on unstructured meshes. The proposed approach has received significant attention from the scientific community for its **simplicity**, **efficiency**, and **generality** in handling any boundary condition, and the extension to the FDM and DGM has already been successfully accomplished [[Fernández-Fidalgo et al., 2020](https://doi.org/10.1016/j.cma.2019.112782); [Clain et al., 2021](https://doi.org/10.1016/j.jcp.2021.110217); [Santos et al., 2024](https://doi.org/10.1007/s10915-024-02613-2)].
+
+<p style="margin-bottom:1cm;"></p>
+
+<div class="row">
+  <div class="column" style="width:50%; text-align:center;">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/curved_domain.png' | relative_url }}">
+  </div>
+  <div class="column" style="width:50%; text-align:center;">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/unstructured_mesh.png' | relative_url }}">
+  </div>
+</div>
+<div class="row">
+  <div class="column" style="width:50%; text-align:center;">
+    Pressure distribution.
+  </div>
+  <div class="column" style="width:50%; text-align:center;">
+    Velocity streamlines.
+  </div>
+</div>

@@ -16,7 +16,7 @@ title: Research
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'research/incompressible_flows.html' | relative_url }}">
         <div class="boxes-image">
-          <img src="{{ 'public/pressure.png' | relative_url }}" alt="">
+          <img src="{{ 'public/streamlines.png' | relative_url }}" alt="">
         </div>
         <div class="boxes-blur">
         </div>
@@ -28,7 +28,7 @@ title: Research
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'research/slip_conditions.html' | relative_url }}">
         <div class="boxes-image">
-          <img src="{{ 'public/streamlines.png' | relative_url }}" alt="">
+          <img src="{{ 'public/boundary_maximum_curvature.png' | relative_url }}" alt="">
         </div>
         <div class="boxes-blur">
         </div>

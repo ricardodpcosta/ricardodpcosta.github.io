@@ -11,6 +11,8 @@ title: Projects
 
 ---
 
+<p style="margin-bottom:-1cm;"></p>
+
 <div class="boxes-section">
   <div class="boxes-container">
     <div class="boxes-box">

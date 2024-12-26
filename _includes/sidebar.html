@@ -31,9 +31,9 @@
       <a class="sidebar-nav-item{% if page.url contains 'projects' %} active{% endif %}" href="{{ 'projects.html' | relative_url }}">Projects</a>
       <a class="sidebar-nav-item{% if page.url contains 'repository' %} active{% endif %}" href="{{ site.repo }}">Repository</a>
       <a class="sidebar-nav-item{% if page.url contains 'contact' %} active{% endif %}" href="{{ 'contact.html' | relative_url }}">Contact</a>
-      <a class="sidebar-nav-item{% if page.url contains 'fvlib' %} active{% endif %}" href="{{ 'fvlib.html' | relative_url }}"><span style="color:yellow">FVLib code</span></a>
-      <a class="sidebar-nav-item{% if page.url contains 'alga' %} active{% endif %}" href="{{ 'alga.html' | relative_url }}"><span style="color:yellow">ALGA book</span></a>
-      <a class="sidebar-nav-item{% if page.url contains 'projects/simpro' %} active{% endif %}" href="{{ 'projects/simpro.html' | relative_url }}"><span style="color:yellow">SIMPRO project</span></a>
+      <a class="sidebar-nav-item-special{% if page.url contains 'fvlib' %} active{% endif %}" href="{{ 'fvlib.html' | relative_url }}">FVLib code</a>
+      <a class="sidebar-nav-item-special{% if page.url contains 'alga' %} active{% endif %}" href="{{ 'alga.html' | relative_url }}">ALGA book</a>
+      <a class="sidebar-nav-item-special{% if page.url contains 'projects/simpro' %} active{% endif %}" href="{{ 'projects/simpro.html' | relative_url }}">SIMPRO project</a>
     </nav>
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>

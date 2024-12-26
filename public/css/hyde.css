@@ -93,6 +93,11 @@ html {
   line-height: 1.75;
 }
 
+.sidebar-nav-item-special {
+  display: block;
+  line-height: 1.75;
+}
+
 a.sidebar-nav-item-special {
   color: yellow;
 }

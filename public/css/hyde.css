@@ -106,6 +106,7 @@ a.sidebar-nav-item:focus {
 a.sidebar-nav-item-special:hover,
 a.sidebar-nav-item-special:focus {
   text-decoration: underline;
+  text-decoration-color: yellow;
   font-weight: bold;
 }
 

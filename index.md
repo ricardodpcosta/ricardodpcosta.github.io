@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-### _Welcome to my personal page!_
+### _Welcome to my academic page!_
 
 <p style="margin-bottom:1cm;"></p>
 

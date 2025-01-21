@@ -15,6 +15,11 @@ title: Publications
 
 <p style="margin-bottom:1cm;"></p>
 
+1. B. Ramôa, **R. Costa**, F. Chinesta, and J.M. Nóbrega,\
+<span style="color:blue">_An open-source framework for modeling the evolution of fiber orientation_</span>,\
+**OpenFOAM Journal** 5, 17-37, 2025.\
+DOI: [https://doi.org/10.51560/ofj.v5.131](https://doi.org/10.51560/ofj.v5.131).
+
 1. **R. Costa**, S. Clain, G.J. Machado, and J.M. Nóbrega,\
 <span style="color:blue">_Very high-order accurate finite volume scheme for the streamfunction-vorticity formulation of incompressible fluid flows with polygonal meshes on arbitrary curved boundaries_</span>,\
 submitted, 2024.\

@@ -52,7 +52,6 @@ D. Maria II High School (Portugal).
 
 <p style="margin-bottom:1cm;"></p>
 
-- Journal of Computational and Applied Mathematics
 - Computers and Fluids
 - International Journal of Fluid Engineering
 - OpenFOAM Journal

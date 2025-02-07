@@ -48,7 +48,7 @@ D. Maria II High School (Portugal).
 
 ---
 
-#### _Invited reviewer in international journals_
+#### _Invited reviewer for international journals_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -70,7 +70,7 @@ D. Maria II High School (Portugal).
 
 ---
 
-#### _Invited reviewer in international conferences_
+#### _Invited reviewer for international conferences_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -80,7 +80,7 @@ D. Maria II High School (Portugal).
 
 ---
 
-#### _Invited scientific/program committee member in international conferences_
+#### _Invited scientific/program committee member for international conferences_
 
 <p style="margin-bottom:1cm;"></p>
 

@@ -29,15 +29,15 @@ title: Projects
       </a>
     </div>
     <div class="boxes-box">
-      <a class="boxes-link" href="{{ 'projects/simpro_cpca.html' | relative_url }}">
+      <a class="boxes-link" href="{{ 'projects/simpar.html' | relative_url }}">
         <div class="boxes-image">
           <img src="{{ 'public/supercomputer.jpg' | relative_url }}" alt="">
         </div>
         <div class="boxes-blur">
         </div>
         <div class="boxes-title">
-          <h3>SIMPRO-CPCA</h3>
-          <p>Efficient computation and simulation of complex materials in advanced manufacturing processes</p>
+          <h3>SIMPAR</h3>
+          <p>Hybrid parallel programming model with domain decomposition for efficient fluid flow simulations</p>
         </div>
       </a>
     </div>

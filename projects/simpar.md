@@ -11,7 +11,7 @@ title: Projects
 
 ---
 
-### _SIMPRO-CPCA – Efficient computation and simulation of complex materials in advanced manufacturing processes_
+### _SIMPAR – Hybrid parallel programming model with domain decomposition for efficient fluid flow simulations_
 
 <p style="margin-bottom:1cm;"></p>
 

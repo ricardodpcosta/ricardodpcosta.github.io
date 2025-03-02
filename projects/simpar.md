@@ -19,9 +19,9 @@ title: Projects
 
 **Call**: Advanced Computing Projects Call – 4th Edition - A1 Development Access (Round D)
 
-**Period**: 01/08/2024 – 31/07/2025
+**Period**: 01/08/2024 – 31/07/2025 (1 year)
 
-**Budget**: TBD
+**Reference/Budget**: 2024.07065.CPCA.A1/TBD
 
 **DOI**: [https://doi.org/10.54499/2024.07065.CPCA.A1](https://doi.org/10.54499/2024.07065.CPCA.A1)
 

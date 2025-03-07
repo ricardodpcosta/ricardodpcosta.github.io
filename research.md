@@ -13,7 +13,7 @@ title: Research
 
 ### _Fundamentals_
 
-<p style="margin-bottom:-1cm;"></p>
+<p style="margin-bottom:0cm;"></p>
 
 <div class="boxes-section">
   <div class="boxes-container">
@@ -80,3 +80,5 @@ title: Research
 </div>
 
 ### _Applications_
+
+<p style="margin-bottom:0cm;"></p>

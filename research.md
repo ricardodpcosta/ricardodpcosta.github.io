@@ -77,6 +77,7 @@ title: Research
         </div>
       </a>
     </div>
+  </div>
 </div>
 
 <p style="margin-bottom:1.5cm;"></p>

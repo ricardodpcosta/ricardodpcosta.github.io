@@ -6,12 +6,14 @@ title: Projects
 <p style="margin-bottom:1cm;"></p>
 
 <div class="message">
-  List of funded projects coordinated as principal investigator. Please refer to the <i>Curriculum Vitae</i> for a complete list.
+  Selected funded projects of interest. Please refer to the <i>Curriculum Vitae</i> for a complete list.
 </div>
 
 ---
 
-<p style="margin-bottom:-1cm;"></p>
+### _Ongoing_
+
+<p style="margin-bottom:-0.5cm;"></p>
 
 <div class="boxes-section">
   <div class="boxes-container">
@@ -43,3 +45,9 @@ title: Projects
     </div>
   </div>
 </div>
+
+---
+
+### _Finished_
+
+<p style="margin-bottom:-0.5cm;"></p>

@@ -11,6 +11,8 @@ title: Research
 
 ---
 
+### _Fundamentals_
+
 <p style="margin-bottom:-1cm;"></p>
 
 <div class="boxes-section">
@@ -76,3 +78,5 @@ title: Research
       </a>
     </div>
 </div>
+
+### _Applications_

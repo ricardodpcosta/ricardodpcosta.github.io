@@ -41,4 +41,5 @@ title: Projects
         </div>
       </a>
     </div>
+  </div>
 </div>

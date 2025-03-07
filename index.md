@@ -9,9 +9,9 @@ title: Home
 
 <img style="float:right; width:9em; margin-left:1em; margin-bottom:1em" src="public/photo.jpg">
 
-I am a post-doc researcher at the [Institute of Polymers and Composites](https://ipc.uminho.pt/en) of the University of Minho (in the beautiful and historical city of [Guimarães, Portugal](https://www.visitportugal.com/en/node/73742)), a passionate scientist about applied mathematics and scientific computing, and an enthusiast programmer about software development.
+I am a post-doc researcher at the [Institute of Polymers and Composites](https://ipc.uminho.pt/en) of the University of Minho (in the beautiful and historical city of [Guimarães, Portugal](https://www.visitportugal.com/en/node/73742)), a passionate scientist about applied mathematics and scientific computing, a fascinated programmer about scientific software development, and an enthusiast engineer for computational mechanics applications.
 
-The research I have been conducting mainly concerns the development of novel numerical methods in **finite volume** and **discontinuous Galerkin** philosophies with high-order of accuracy, focusing on their numerical properties and implementation algorithms in high-performance computing platforms as well as their application in the fields of **computational fluid dynamics** and **computational rheology.**
+The research I have been conducting mainly concerns the development of novel methods and algorithms for highly accurate, reliable, and efficient numerical simulation in high-performance computing platforms, as well as their application in the fields of computational fluid dynamics and computational rheology for materials processing and manufacturing technologies.
 
 <p style="margin-bottom:1cm;"></p>
 

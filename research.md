@@ -80,8 +80,8 @@ title: Research
   </div>
 </div>
 
-<p style="margin-bottom:1.5cm;"></p>
+---
 
 ### _Applications_
 
-<p style="margin-bottom:0cm;"></p>
+<p style="margin-bottom:-0.5cm;"></p>

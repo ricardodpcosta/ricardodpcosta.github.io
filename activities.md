@@ -58,7 +58,7 @@ D. Maria II High School (Portugal).
 - International Journal of Fluid Engineering (AIP)
 - OpenFOAM Journal (OpenCFD)
 - Partial Differential Equations in Applied Mathematics (Elsevier)
-- AIMS Mathematics (AIMS Press)
+- AIMS Mathematics (AIMS)
 - Advances in Engineering Software (Elsevier)
 - Journal of Computational Mathematics and Data Science (Elsevier)
 - Mathematics and Computers in Simulation (Elsevier)

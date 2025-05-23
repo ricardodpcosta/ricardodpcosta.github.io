@@ -52,23 +52,23 @@ D. Maria II High School (Portugal).
 
 <p style="margin-bottom:1cm;"></p>
 
-- Scientific Reports
-- IEEE Transactions on Artificial Intelligence
-- Computers and Fluids
-- International Journal of Fluid Engineering
-- OpenFOAM Journal
-- Partial Differential Equations in Applied Mathematics
-- AIMS Mathematics
-- Advances in Engineering Software
-- Journal of Computational Mathematics and Data Science
-- Mathematics and Computers in Simulation
-- International Journal of Heat and Mass Transfer
-- Journal of Computational and Applied Mathematics
-- Computer and Mathematics with Applications
-- Alexandria Engineering Journal
-- Communications in Nonlinear Science and Numerical Simulation
-- Journal of Computational Physics
-- Computer Methods in Applied Mechanics and Engineering
+- Scientific Reports (Springer Nature)
+- IEEE Transactions on Artificial Intelligence (IEEE)
+- Computers and Fluids (Elsevier)
+- International Journal of Fluid Engineering (AIP)
+- OpenFOAM Journal (OpenCFD)
+- Partial Differential Equations in Applied Mathematics (Elsevier)
+- AIMS Mathematics (AIMS Press)
+- Advances in Engineering Software (Elsevier)
+- Journal of Computational Mathematics and Data Science (Elsevier)
+- Mathematics and Computers in Simulation (Elsevier)
+- International Journal of Heat and Mass Transfer (Elsevier)
+- Journal of Computational and Applied Mathematics (Elsevier)
+- Computer and Mathematics with Applications (Elsevier)
+- Alexandria Engineering Journal (Elsevier)
+- Communications in Nonlinear Science and Numerical Simulation (Elsevier)
+- Journal of Computational Physics (Elsevier)
+- Computer Methods in Applied Mechanics and Engineering (Elsevier)
 
 ---
 

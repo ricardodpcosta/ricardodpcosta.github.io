@@ -52,6 +52,7 @@ D. Maria II High School (Portugal).
 
 <p style="margin-bottom:1cm;"></p>
 
+- Scientific Reports
 - IEEE Transactions on Artificial Intelligence
 - Computers and Fluids
 - International Journal of Fluid Engineering

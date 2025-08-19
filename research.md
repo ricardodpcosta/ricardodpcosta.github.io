@@ -85,3 +85,32 @@ title: Research
 ### _Applications_
 
 <p style="margin-bottom:-0.5cm;"></p>
+
+<div class="boxes-section">
+  <div class="boxes-container">
+    <div class="boxes-box">
+      <a class="boxes-link" href="{{ 'research/selective_laser_sintering.html' | relative_url }}">
+        <div class="boxes-image">
+          <img src="{{ 'public/selective_laser_sintering.png' | relative_url }}" alt="">
+        </div>
+        <div class="boxes-blur">
+        </div>
+        <div class="boxes-title">
+          <h3>Selective laser sintering</h3>
+        </div>
+      </a>
+    </div>
+    <div class="boxes-box">
+      <a class="boxes-link" href="{{ 'research/plastic_injection_moulding.html' | relative_url }}">
+        <div class="boxes-image">
+          <img src="{{ 'public/plastic_injection_moulding.png' | relative_url }}" alt="">
+        </div>
+        <div class="boxes-blur">
+        </div>
+        <div class="boxes-title">
+          <h3>Plastic injection moulding</h3>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>

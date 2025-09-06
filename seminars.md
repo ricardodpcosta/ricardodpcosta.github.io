@@ -46,6 +46,12 @@ September 18-22, 2023, Ica, Peru (online).\
 <p style="margin-bottom:1cm;"></p>
 
 1. **R. Costa**, S. Clain, G.J. Machado, and J.M. Nóbrega,\
+<span style="color:blue">_Very high-order accurate finite volume schemes for vorticity-based formulations of the incompressible Navier-Stokes equations}_</span>,\
+**PICASSO 2025 – Hyperbolic Models, Numerical Analysis and Scientific Computation**,\
+March 24-26, 2025, Málaga, Spain.\
+[https://indico.math.cnrs.fr/event/13192](https://indico.math.cnrs.fr/event/13192)
+
+1. **R. Costa**, S. Clain, G.J. Machado, and J.M. Nóbrega,\
 <span style="color:blue">_Very high-order accurate finite volume scheme for the streamfunction-vorticity formulation of incompressible fluid flows with polygonal meshes on arbitrary curved boundaries_</span>,\
 **HONOM 2024 – High-order Nonlinear Numerical Methods for Evolutionary PDEs: Theory and Applications**,\
 September 8-13, 2024, Chania, Greek.\

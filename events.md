@@ -28,7 +28,7 @@ June 26-30, 2023, Wrocław, Poland.\
 <p style="margin-bottom:1cm;"></p>
 
 - **SHARK-FV-2025 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
-June 2–6, 2025, São Félix, Portugal.\
+June 2-6, 2025, São Félix, Portugal.\
 [https://shark-fv.eu/home-shark/](https://shark-fv.eu/home-shark/).
 
 - **SHARK-FV-2024 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
@@ -74,7 +74,7 @@ April 28-May 2, 2014, Ofir, Portugal.\
 <p style="margin-bottom:1cm;"></p>
 
 - **SHARK-FV-2025 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
-June 2–6, 2025, São Félix, Portugal.
+June 2-6, 2025, São Félix, Portugal.
 
 - **PICASSO 2025 – Hyperbolic Models, Numerical Analysis and Scientific Computation**,\
 March 24-26, 2025, Málaga, Spain.

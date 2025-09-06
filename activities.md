@@ -52,6 +52,7 @@ D. Maria II High School (Portugal).
 
 <p style="margin-bottom:1cm;"></p>
 
+– Simulation Modelling Practice and Theory (Elsevier)
 - Scientific Reports (Springer Nature)
 - IEEE Transactions on Artificial Intelligence (IEEE)
 - Computers and Fluids (Elsevier)

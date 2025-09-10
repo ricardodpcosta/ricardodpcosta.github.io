@@ -15,7 +15,7 @@ title: Seminars
 
 - [Invited keynote lectures in international conferences](https://ricardodpcosta.github.io/seminars.html#invited-lectures)
 - [Invited oral presentations in international conferences](https://ricardodpcosta.github.io/seminars.html#invited-presentations)
-- [Invited oral presentations for science dissemination_](https://ricardodpcosta.github.io/seminars.html#invited-science)
+- [Invited oral presentations for science dissemination](https://ricardodpcosta.github.io/seminars.html#invited-science)
 - [Oral presentations in international conferences](https://ricardodpcosta.github.io/seminars.html#conference-presentations)
 - [Oral presentations in project workshops](https://ricardodpcosta.github.io/seminars.html#project-presentations)
 - [Co-authorship of oral presentations in international conferences](https://ricardodpcosta.github.io/seminars.html#coauthor-conference-presentations)
@@ -221,7 +221,7 @@ September 9-10, 2013, Lisbon, Portugal.\
 
 ---
 
-<div id="workshop-presentations"></div>
+<div id="project-presentations"></div>
 
 ### _Oral presentations in project workshops_
 
@@ -365,7 +365,7 @@ June 13-17, 2016, Santiago de Compostela, Spain.\
 
 <p style="margin-bottom:1cm;"></p>
 
-**R. Costa** and J.M. Nóbrega,\
+1. **R. Costa** and J.M. Nóbrega,\
 <span style="color:blue">_Stability analysis of viscoelastic fluid flow solvers for industrial relevant case studies_</span>,\
 **FOAM@IBERIA 2023 – Iberian Meeting of OpenFOAM Technology Users**,\
 November 2-3, 2023, Guimarães, Portugal.\

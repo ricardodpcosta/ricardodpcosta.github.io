@@ -14,10 +14,13 @@ title: Activities
 ### **Contents**
 
 - [Awards and honourable mentions](https://ricardodpcosta.github.io/activities.html#awards)
-- [Scientific committee and refereeing](https://ricardodpcosta.github.io/activities.html#committee)
+- [Committee and refereeing](https://ricardodpcosta.github.io/activities.html#committee)
+    - [Invited scientific and program committee member](https://ricardodpcosta.github.io/activities.html#scientific-committee)
     - [Invited reviewer for international journals](https://ricardodpcosta.github.io/activities.html#journal-reviewer)
     - [Invited reviewer for international conferences](https://ricardodpcosta.github.io/activities.html#conference-reviewer)
-    - [Invited scientific/program committee member for international conferences](https://ricardodpcosta.github.io/activities.html#conference-committee)
+
+<p style="margin-bottom:-1cm;"></p>
+
 - [Teaching and supervision](https://ricardodpcosta.github.io/activities.html#teaching)
     - [Supervised doctoral theses](https://ricardodpcosta.github.io/activities.html#supervised-theses)
     - [Supervised master's dissertations](https://ricardodpcosta.github.io/activities.html#supervised-dissertations)
@@ -54,9 +57,33 @@ D. Maria II High School (Portugal).
 
 <div id="committee"></div>
 
-### _Scientific committee and refereeing_
+### _Committee and refereeing_
 
 <p style="margin-bottom:1cm;"></p>
+
+---
+
+<div id="scientific-committee"></div>
+
+#### _Invited scientific and program committee member_
+
+<p style="margin-bottom:1cm;"></p>
+
+- **PASC 2025** – Platform for Advanced Scientific Computing Conference,\
+June 16-18, 2025, Brugg, Switzerland.\
+[https://pasc25.pasc-conference.org/about/organization/papers-program-committee/](https://pasc25.pasc-conference.org/about/organization/papers-program-committee/).
+
+- **EURO-PAR 2024** — International European Conference on Parallel and Distributed Computing,\
+August 26—30, 2024, Madrid, Spain.\
+[https://2024.euro-par.org/calls/whpc-session/](https://2024.euro-par.org/calls/whpc-session/).
+
+- **FOAM@IBERIA 2023** — Iberian Meeting of OpenFOAM Technology Users,\
+November 2—3, 2023, Guimarães, Portugal.\
+[https://2023.foam-iberia.eu/committee/](https://2023.foam-iberia.eu/committee/).
+
+- **FOAM@IBERIA 2022** – Iberian Meeting of OpenFOAM Technology Users,\
+September 21—22, 2022, Santander, Spain.\
+[https://2022.foam-iberia.eu/committee/](https://2022.foam-iberia.eu/committee/).
 
 ---
 
@@ -96,30 +123,6 @@ D. Maria II High School (Portugal).
 - **PASC 2025** – Platform for Advanced Scientific Computing Conference
 - **EURO-PAR 2024** — International European Conference on Parallel and Distributed Computing
 - **ENUMATH 2023** — European Conference on Numerical Mathematics and Advanced Applications
-
----
-
-<div id="program-committee"></div>
-
-#### _Invited scientific/program committee member for international conferences_
-
-<p style="margin-bottom:1cm;"></p>
-
-- **PASC 2025** – Platform for Advanced Scientific Computing Conference,\
-June 16-18, 2025, Brugg, Switzerland.\
-[https://pasc25.pasc-conference.org/about/organization/papers-program-committee/](https://pasc25.pasc-conference.org/about/organization/papers-program-committee/).
-
-- **EURO-PAR 2024** — International European Conference on Parallel and Distributed Computing,\
-August 26—30, 2024, Madrid, Spain.\
-[https://2024.euro-par.org/calls/whpc-session/](https://2024.euro-par.org/calls/whpc-session/).
-
-- **FOAM@IBERIA 2023** — Iberian Meeting of OpenFOAM Technology Users,\
-November 2—3, 2023, Guimarães, Portugal.\
-[https://2023.foam-iberia.eu/committee/](https://2023.foam-iberia.eu/committee/).
-
-- **FOAM@IBERIA 2022** – Iberian Meeting of OpenFOAM Technology Users,\
-September 21—22, 2022, Santander, Spain.\
-[https://2022.foam-iberia.eu/committee/](https://2022.foam-iberia.eu/committee/).
 
 ---
 

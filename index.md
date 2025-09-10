@@ -41,7 +41,7 @@ _Here you can find my latest research activity, projects, publications, reposito
       <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/orcid.png">
     </a>
   </div>
-  <div class="column" style="width:16%;">
+  <div class="column" style="width:18%;">
     <a href="https://www.webofscience.com/wos/author/record/GOV-5791-2022">
       <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/webofscience.png">
     </a>
@@ -51,7 +51,7 @@ _Here you can find my latest research activity, projects, publications, reposito
       <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/scopus.png">
     </a>
   </div>
-  <div class="column" style="width:16%;">
+  <div class="column" style="width:18%;">
     <a href="https://scholar.google.com/citations?user=dktdwVgAAAAJ">
       <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="public/google_scholar.png">
     </a>

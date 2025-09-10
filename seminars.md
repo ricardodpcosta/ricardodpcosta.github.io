@@ -415,7 +415,7 @@ September 12, 2012, Guimarães, Portugal.
 November 27--28, 2024, Braga, Portugal.\
 [https://conference.inovam.pt](https://conference.inovam.pt).
 
-1. R. Riberio, B. Ram\^oa, **R. Costa**, and J.M. Nóbrega,\
+1. R. Riberio, B. Ramôa, **R. Costa**, and J.M. Nóbrega,\
 <span style="color:blue">_Wall boundary conditions for injection molding simulation_</span>,\
 **FOAM@IBERIA 2023 – Iberian Meeting of OpenFOAM Technology Users**,\
 November 2-3, 2023, Guimarães, Portugal.\

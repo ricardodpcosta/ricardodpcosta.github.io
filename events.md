@@ -11,6 +11,17 @@ title: Events
 
 ---
 
+### **Contents**
+
+- [Organised mini-symposia in international conferences](https://ricardodpcosta.github.io/events.html#organised-mini-symposia)
+- [Organised international conferences](https://ricardodpcosta.github.io/events.html#organised-conferences)
+- [Attended international conferences](https://ricardodpcosta.github.io/events.html#attended-conferences)
+- [Attended workshops](https://ricardodpcosta.github.io/events.html#attended-workshops)
+
+---
+
+<div id="organised-mini-symposia"></div>
+
 ### _Organised mini-symposia in international conferences_
 
 <p style="margin-bottom:1cm;"></p>
@@ -22,6 +33,8 @@ June 26-30, 2023, Wrocław, Poland.\
 [https://ecmi2023.org/](https://ecmi2023.org/).
 
 ---
+
+<div id="organsed-conferences"></div>
 
 ### _Organised international conferences_
 
@@ -68,6 +81,8 @@ April 28-May 2, 2014, Ofir, Portugal.\
 [https://shark-fv.eu/old-conferences/shark2014/](https://shark-fv.eu/old-conferences/shark2014/).
 
 ---
+
+<div id="attended-conferences"></div>
 
 ### _Attended international conferences_
 
@@ -173,6 +188,8 @@ April 28-May 2, 2014, Ofir, Portugal.
 September 9-10, 2013, Lisbon, Portugal.
 
 ---
+
+<div id="attended-workshops"></div>
 
 ### _Attended workshops_
 

@@ -11,15 +11,18 @@ title: Activities
 
 ---
 
-### _International collaborators_
+### **Contents**
 
-<p style="margin-bottom:1cm;"></p>
-
-- [Marca Garcia-Gasulla](https://www.bsc.es/garcia-gasulla-marta) (Barcelona Supercomputing Center, Spain)
-- [Hugo Beirão da Veiga](https://people.dm.unipi.it/beiraodaveiga/) (University of Pisa, Italy)
-- [Francesca Crispo](https://www.distabif.unicampania.it/dipartimento/docenti?MATRICOLA=083137) (University of Campania “Luigi Vanvitelli”, Italy)
+- [ArXiv preprints](https://ricardodpcosta.github.io/publications.html#arxiv)
+- [Journal articles](https://ricardodpcosta.github.io/publications.html#articles)
+- [Book chapters](https://ricardodpcosta.github.io/publications.html#chapters)
+- [Conference proceedings](https://ricardodpcosta.github.io/publications.html#proceedings)
+- [Scientific datasets](https://ricardodpcosta.github.io/publications.html#datasets)
+- [Dissertations and theses](https://ricardodpcosta.github.io/publications.html#theses)
 
 ---
+
+<div id="awards"></div>
 
 ### _Awards and honourable mentions_
 
@@ -42,11 +45,15 @@ D. Maria II High School (Portugal).
 
 ---
 
+<div id="committee"></div>
+
 ### _Scientific committee and refereeing_
 
 <p style="margin-bottom:1cm;"></p>
 
 ---
+
+<div id="journal-reviewer"></div>
 
 #### _Invited reviewer for international journals_
 
@@ -73,6 +80,8 @@ D. Maria II High School (Portugal).
 
 ---
 
+<div id="conference-reviewer"></div>
+
 #### _Invited reviewer for international conferences_
 
 <p style="margin-bottom:1cm;"></p>
@@ -82,6 +91,8 @@ D. Maria II High School (Portugal).
 - **ENUMATH 2023** — European Conference on Numerical Mathematics and Advanced Applications
 
 ---
+
+<div id="program-committee"></div>
 
 #### _Invited scientific/program committee member for international conferences_
 
@@ -105,11 +116,15 @@ September 21—22, 2022, Santander, Spain.\
 
 ---
 
+<div id="teaching"></div>
+
 ### _Teaching and supervision_
 
 <p style="margin-bottom:1cm;"></p>
 
 ---
+
+<div id="courses"></div>
 
 #### _Courses taught_
 
@@ -126,6 +141,8 @@ Master's Degree in Polymer Engineering, University of Minho, Portugal.
 
 ---
 
+<div id="supervised-theses"></div>
+
 #### _Supervised doctoral theses_
 
 <p style="margin-bottom:1cm;"></p>
@@ -141,6 +158,8 @@ Jayesh Golhar (Doctoral Program in Science and Engineering of Polymers and Compo
 
 ---
 
+<div id="supervised-dissertations"></div>
+
 #### _Supervised master's dissertations_
 
 <p style="margin-bottom:1cm;"></p>
@@ -149,6 +168,8 @@ Jayesh Golhar (Doctoral Program in Science and Engineering of Polymers and Compo
 João Castro (Integrated Master in Polymer Engineering, University of Minho, Portugal).
 
 ---
+
+<div id="supervised-projects"></div>
 
 #### _Supervised master's projects_
 
@@ -162,6 +183,8 @@ João Castro (Integrated Master's in Polymer Engineering, University of Minho, P
 
 ---
 
+<div id="mentored-theses"></div>
+
 #### _Mentored doctoral theses_
 
 <p style="margin-bottom:1cm;"></p>
@@ -170,6 +193,8 @@ João Castro (Integrated Master's in Polymer Engineering, University of Minho, P
 Bruno Ramôa (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).
 
 ---
+
+<div id="mentored-dissertations"></div>
 
 #### _Mentored master's dissertations_
 
@@ -180,11 +205,15 @@ João Pedro (Integrated Master's in Polymer Engineering, University of Minho, Po
 
 ---
 
+<div id="jury"></div>
+
 ### _Jury of academic examinations_
 
 <p style="margin-bottom:1cm;"></p>
 
 ---
+
+<div id="jury-theses"></div>
 
 #### _Examiner of doctoral theses_
 

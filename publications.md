@@ -12,7 +12,7 @@ title: Publications
 ---
 
 ### **Contents**
-<p style="margin-bottom:-0.4cm;"></p>
+
 - [ArXiv preprints](https://ricardodpcosta.github.io/publications.html#arxiv)
 - [Journal articles](https://ricardodpcosta.github.io/publications.html#articles)
 - [Book chapters](https://ricardodpcosta.github.io/publications.html#chapters)

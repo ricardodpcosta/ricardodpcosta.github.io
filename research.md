@@ -96,7 +96,7 @@ title: Research
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'research/sintering.html' | relative_url }}">
         <div class="boxes-image">
-          <img src="{{ 'public/selective_laser_sintering.png' | relative_url }}" alt="">
+          <img src="{{ 'public/powder_bed.png' | relative_url }}" alt="">
         </div>
         <div class="boxes-blur">
         </div>
@@ -118,7 +118,7 @@ title: Research
       </a>
     </div>
     <div class="boxes-box">
-      <a class="boxes-link" href="{{ 'research/deposition.html' | relative_url }}">
+      <a class="boxes-link" href="{{ 'research/fabrication.html' | relative_url }}">
         <div class="boxes-image">
           <img src="{{ 'public/plastic_injection_moulding.png' | relative_url }}" alt="">
         </div>

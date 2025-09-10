@@ -13,12 +13,19 @@ title: Activities
 
 ### **Contents**
 
-- [ArXiv preprints](https://ricardodpcosta.github.io/publications.html#arxiv)
-- [Journal articles](https://ricardodpcosta.github.io/publications.html#articles)
-- [Book chapters](https://ricardodpcosta.github.io/publications.html#chapters)
-- [Conference proceedings](https://ricardodpcosta.github.io/publications.html#proceedings)
-- [Scientific datasets](https://ricardodpcosta.github.io/publications.html#datasets)
-- [Dissertations and theses](https://ricardodpcosta.github.io/publications.html#theses)
+- [Awards and honourable mentions](https://ricardodpcosta.github.io/activities.html#awards)
+- [Scientific committee and refereeing](https://ricardodpcosta.github.io/activities.html#committee)
+      - [Invited reviewer for international journals](https://ricardodpcosta.github.io/activities.html#journal-reviewer)
+      - [Invited reviewer for international conferences](https://ricardodpcosta.github.io/activities.html#conference-reviewer)
+      - [Invited scientific/program committee member for international conferences](https://ricardodpcosta.github.io/activities.html#conference-committee)
+- [Teaching and supervision](https://ricardodpcosta.github.io/activities.html#teaching)
+      - [Supervised doctoral theses](https://ricardodpcosta.github.io/activities.html#supervised-theses)
+      - [Supervised master's dissertations](https://ricardodpcosta.github.io/activities.html#supervised-dissertations)
+      - [Supervised master's projects](https://ricardodpcosta.github.io/activities.html#supervised-projects)
+      - [Mentored doctoral theses](https://ricardodpcosta.github.io/activities.html#mentored-theses)
+      - [Mentored master's dissertations](https://ricardodpcosta.github.io/activities.html#mentored-dissertations)
+- [Jury and examinations](https://ricardodpcosta.github.io/activities.html#jury)
+      - [Examiner of doctoral theses](https://ricardodpcosta.github.io/activities.html#examiner-theses)
 
 ---
 

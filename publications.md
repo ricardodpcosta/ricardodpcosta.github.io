@@ -9,8 +9,10 @@ title: Publications
   List of peer-reviewed publications. Please refer to the <i>Curriculum Vitae</i> for a complete list.
 </div>
 
+---
+
 ### **Contents**
-<p style="margin-bottom:-0.2cm;"></p>
+<p style="margin-bottom:-0.4cm;"></p>
 - [ArXiv preprints](https://ricardodpcosta.github.io/publications.html#arxiv)
 - [Journal articles](https://ricardodpcosta.github.io/publications.html#articles)
 - [Book chapters](https://ricardodpcosta.github.io/publications.html#chapters)

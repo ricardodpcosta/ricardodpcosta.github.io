@@ -1,4 +1,4 @@
----
+–---
 layout: page
 title: Seminars
 ---
@@ -11,6 +11,21 @@ title: Seminars
 
 ---
 
+### **Contents**
+
+- [Invited keynote lectures in international conferences](https://ricardodpcosta.github.io/seminars.html#invited-lectures)
+- [Invited oral presentations in international conferences](https://ricardodpcosta.github.io/seminars.html#invited-presentations)
+- [Invited oral presentations for science dissemination_](https://ricardodpcosta.github.io/seminars.html#invited-science)
+- [Oral presentations in international conferences](https://ricardodpcosta.github.io/seminars.html#conference-presentations)
+- [Oral presentations in project workshops](https://ricardodpcosta.github.io/seminars.html#project-presentations)
+- [Co-authorship of oral presentations in international conferences](https://ricardodpcosta.github.io/seminars.html#coauthor-conference-presentations)
+- [Poster presentations in international conferences](https://ricardodpcosta.github.io/seminars.html#conference-posters)
+- [Co-authorship of poster presentations in international conferences](https://ricardodpcosta.github.io/seminars.html#coauthor-conference-posters)
+
+---
+
+<div id="invited-lectures"></div>
+
 ### _Invited keynote lectures in international conferences_
 
 <p style="margin-bottom:1cm;"></p>
@@ -22,6 +37,8 @@ April 25-28, 2023, Cannes, France.\
 [https://cfc2023.iacm.info/](https://cfc2023.iacm.info/).
 
 ---
+
+<div id="invited-presentations"></div>
 
 ### _Invited oral presentations in international conferences_
 
@@ -41,7 +58,38 @@ September 18-22, 2023, Ica, Peru (online).\
 
 ---
 
-### _Proposed oral presentations in conferences/workshops_
+<div id="invited-science"></div>
+
+### _Invited oral presentations for science dissemination_
+
+<p style="margin-bottom:1cm;"></p>
+
+1. **R. Costa**,\
+<span style="color:blue">_Simulação computacional (Computational simulation)_</span>,\
+**Open Day at the Department of Polymer Engineering**,\
+University of Minho,\
+April 20, 2023, Guimarães, Portugal.
+
+1. **R. Costa**,\
+<span style="color:blue">_Modelação computacional em engenharia: dos métodos numéricos avançados à supercomputação (Computational modelling in engineering: from the advanced numerical methods to the supercomputing)_</span>,\
+**Postgraduate Programme in Civil and Environmental Engineering (PPGECAM) of the Federal University of Pernambuco**,\
+November 22, 2021 (online).
+
+1. **R. Costa**,\
+<span style="color:blue">_Métodos inovadores em reologia computacional para aplicações avançadas no processamento de polímeros (Innovative methods in computational rheology for advanced polymer processing applications)_</span>,\
+**High-School Dona Maria II**,\
+November 22, 2019, Braga, Portugal.
+
+1. **R. Costa**,\
+<span style="color:blue">_Ferramentas de simulação na concepção de novos produtos (Simulation tools in new products design)_</span>,\
+**High-School of Caldas das Taipas**,\
+February 26, 2015, Guimarães, Portugal.
+
+---
+
+<div id="conference-presentations"></div>
+
+### _Oral presentations in international conferences_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -173,6 +221,8 @@ September 9-10, 2013, Lisbon, Portugal.\
 
 ---
 
+<div id="workshop-presentations"></div>
+
 ### _Oral presentations in project workshops_
 
 <p style="margin-bottom:1cm;"></p>
@@ -223,9 +273,35 @@ June 24, 2013, Guimarães, Portugal.
 
 ---
 
-### _Co-authorship of proposed oral presentations in conferences/workshops_
+<div id="coauthor-conference-presentations"></div>
+
+### _Co-authorship of oral presentations in international conferences_
 
 <p style="margin-bottom:1cm;"></p>
+
+1. J. Castro, **R. Costa**, and J.M. Nóbrega,\
+<span style="color:blue">_A novel simulation strategy for the fused filament fabrication process_</span>,\
+**FOAM@IBERIA 2025 – Iberian Meeting of OpenFOAM Technology Users**,\
+September 11-12, 2025, Figueira da Foz – Portugal.\
+[https://foamiberia2025.dec.uc.pt/](https://foamiberia2025.dec.uc.pt/).
+
+1. R. Ribeiro, B. Ramôa, **R. Costa**, and J.M. Nóbrega,\
+<span style="color:blue">_Implementation and verification of a fluid-structure interaction solver for shoe sole injection moulding simulation_</span>,\
+**OFW 2025 – OpenFOAM Workshop**,\
+June 30- July 4, 2025, Vienna, Austria.\
+[https://www.openfoam25.at](https://www.openfoam25.at).
+
+1. B. Ramôa, **R. Costa**, F. Chinesta, and J.M. Nóbrega,\
+<span style="color:blue">_An open-source framework for modeling fiber orientation evolution in thermoplastics_</span>,\
+**AERC 2025 – Annual European Rheology Conference**,\
+April 14-17, 2025, Lyon, France.\
+[https://rheology-esr.org/aerc-2025](https://rheology-esr.org/aerc-2025).
+
+1. B. Ramôa, **R. Costa**, F. Chinesta, and J.M. Nóbrega,\
+<span style="color:blue">_Monolithic conjugate heat transfer in OpenFOAM_</span>,\
+**FOAM@IBERIA 2023 – Iberian Meeting of OpenFOAM Technology Users**,\
+November 2-3, 2023, Guimarães, Portugal.\
+[https://2023.foam-iberia.eu](https://2023.foam-iberia.eu).
 
 1. J. Castro, J.M. Nóbrega, and **R. Costa**,\
 <span style="color:blue">_A computational framework to model the selective laser sintering process_</span>,\
@@ -235,14 +311,14 @@ September 13-15, 2022, Guimarães, Portugal.\
 
 1. S. Clain, **R. Costa**, D. Lopes, R. Pereira, G.J. Machado, and P. Pereira,\
 <span style="color:blue">_Very high order methods on non-polygonal domains: the reconstruction off-site data (ROD) method_</span>,\
-**SIMAI 2023 – Congress of the Italian Society of Applied and Industrial Mathematics (SIMAI)**,\
+**SIMAI 2023 – Congress of the Italian Society of Applied and Industrial Mathematics**,\
 August 28 – September 1, 2023, Matera, Italy.\
 [https://web.unibas.it/simai2023/](https://web.unibas.it/simai2023/).
 
 1. A. Araújo, S. Barbeiro, S. Clain, **R. Costa**, G.J. Machado, and M. Santos,\
 <span style="color:blue">_The reconstruction for off-site data for the discontinuous Galerkin method_</span>,\
 **EWM General Meeting 2022**,\
-August 22-26, 2022 Espoo (Aalto University), Finland.\
+August 22-26, 2022 Espoo, Finland.\
 [https://www.europeanwomeninmaths.org/activities/all-our-activities/gm2022/](https://www.europeanwomeninmaths.org/activities/all-our-activities/gm2022/).
 
 1. S.B. Naqvi, M. Karimi, **R. Costa**, and J.M. Nóbrega,\
@@ -283,36 +359,17 @@ June 13-17, 2016, Santiago de Compostela, Spain.\
 
 ---
 
-### _Invited oral presentations for science dissemination to the general public_
+<div id="conference-posters"></div>
+
+### _Poster presentations in international conferences_
 
 <p style="margin-bottom:1cm;"></p>
 
-1. **R. Costa**,\
-<span style="color:blue">_Simulação computacional (Computational simulation)_</span>,\
-**Open Day at the Department of Polymer Engineering**,\
-University of Minho,\
-April 20, 2023, Guimarães, Portugal.
-
-1. **R. Costa**,\
-<span style="color:blue">_Modelação computacional em engenharia: dos métodos numéricos avançados à supercomputação (Computational modelling in engineering: from the advanced numerical methods to the supercomputing)_</span>,\
-**Postgraduate Programme in Civil and Environmental Engineering (PPGECAM) of the Federal University of Pernambuco**,\
-November 22, 2021 (online).
-
-1. **R. Costa**,\
-<span style="color:blue">_Métodos inovadores em reologia computacional para aplicações avançadas no processamento de polímeros (Innovative methods in computational rheology for advanced polymer processing applications)_</span>,\
-**High-School Dona Maria II**,\
-November 22, 2019, Braga, Portugal.
-
-1. **R. Costa**,\
-<span style="color:blue">_Ferramentas de simulação na concepção de novos produtos (Simulation tools in new products design)_</span>,\
-**High-School of Caldas das Taipas**,\
-February 26, 2015, Guimarães, Portugal.
-
----
-
-### _Proposed poster presentations in conferences/workshops_
-
-<p style="margin-bottom:1cm;"></p>
+**R. Costa** and J.M. Nóbrega,\
+<span style="color:blue">_Stability analysis of viscoelastic fluid flow solvers for industrial relevant case studies_</span>,\
+**FOAM@IBERIA 2023 – Iberian Meeting of OpenFOAM Technology Users**,\
+November 2-3, 2023, Guimarães, Portugal.\
+[https://2023.foam-iberia.eu](https://2023.foam-iberia.eu).
 
 1. **R. Costa**, J.M. Nóbrega, S. Clain, and G.J. Machado,\
 <span style="color:blue">_Improving the performance of computational modelling tools for polymer processing applications through innovative numerical methods_</span>,\
@@ -321,7 +378,7 @@ July 15, 2019, Guimarães, Portugal.
 
 1. **R. Costa**, J.M. Nóbrega, S. Clain, and G.J. Machado,\
 <span style="color:blue">_Improving the performance of computational modelling tools for polymer processing applications through innovative numerical methods_</span>,\
-**FOAM@IBERIA – Iberian Meeting of OpenFOAM technology users**,\
+**FOAM@IBERIA 2019 – Iberian Meeting of OpenFOAM technology users**,\
 June 11-12, 2019, Porto, Portugal.
 
 1. **R. Costa**, J.M. Nóbrega, S. Clain, and G.J. Machado,\
@@ -346,9 +403,35 @@ September 12, 2012, Guimarães, Portugal.
 
 ---
 
-### _Co-authorship of proposed poster presentations in conferences/workshops_
+<div id="coauthor-conference-posters"></div>
+
+### _Co-authorship of poster presentations in international conferences_
 
 <p style="margin-bottom:1cm;"></p>
+
+1. J. Castro, J.M. Nóbrega, and **R. Costa**,\
+<span style="color:blue">_Computational framework to model the fused filament fabrication process_</span>,\
+**INOV.AM International Conference – Shaping Tomorrow**,\
+November 27--28, 2024, Braga, Portugal.\
+[https://conference.inovam.pt](https://conference.inovam.pt).
+
+1. R. Riberio, B. Ram\^oa, **R. Costa**, and J.M. Nóbrega,\
+<span style="color:blue">_Wall boundary conditions for injection molding simulation_</span>,\
+**FOAM@IBERIA 2023 – Iberian Meeting of OpenFOAM Technology Users**,\
+November 2-3, 2023, Guimarães, Portugal.\
+[https://2023.foam-iberia.eu](https://2023.foam-iberia.eu).
+
+1. J. Castro,  J.M. Nóbrega, and **R. Costa**,\
+<span style="color:blue">_Computational framework to model the selective laser sintering process_</span>,\
+**FOAM@IBERIA 2023 – Iberian Meeting of OpenFOAM Technology Users**,\
+November 2-3, 2023, Guimarães, Portugal.\
+[https://2023.foam-iberia.eu](https://2023.foam-iberia.eu).
+
+1. G.M. Magalhães, **R. Costa**, and J.M. Nóbrega,\
+<span style="color:blue">_On the assessment of different coupling approaches to model viscoelastic fluid flows_</span>,\
+**FOAM@IBERIA 2023 – Iberian Meeting of OpenFOAM Technology Users**,\
+November 2-3, 2023, Guimarães, Portugal.\
+[https://2023.foam-iberia.eu](https://2023.foam-iberia.eu)
 
 1. M. Santos, A. Araújo, S. Barbeiro, S. Clain, **R. Costa**, and G.J. Machado,\
 <span style="color:blue">_High-order discontinuous Galerkin method on curved boundaries_</span>,\

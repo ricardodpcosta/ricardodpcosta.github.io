@@ -133,7 +133,7 @@ Available [here](http://doi.org/10.1201/B21172-56).
 
 1. G.M. Magalhães, **R. Costa**, and J.M. Nóbrega,\
 <span style="color:blue">_Enhancing coupled numerical simulations of viscoelastic flows through physical property analysis_</span>,\
-**AIP Conference Proceedings***, 3400, 050001, AIP Publishing, 2025.\
+**AIP Conference Proceedings**, 3400, 050001, AIP Publishing, 2025.\
 DOI: [https://doi.org/10.1063/5.0282477](https://doi.org/10.1063/5.0282477).
 
 1. J. Castro, J.M. Nóbrega, and **R. Costa**,\
@@ -180,7 +180,7 @@ URL: [http://repositorium.sdum.uminho.pt/handle/1822/39251](http://repositorium.
 
 <p style="margin-bottom: 0.8cm;"></p>
 
-### _Scientific datasets_
+### _Peer-reviewed scientific datasets_
 
 <p style="margin-bottom:1cm;"></p>
 

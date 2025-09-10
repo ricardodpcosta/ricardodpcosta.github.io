@@ -6,7 +6,7 @@ title: Events
 <p style="margin-bottom:1cm;"></p>
 
 <div class="message">
-  List of attended and organised international conferences and workshops. Please refer to the <i>Curriculum Vitae</i> for a complete list.
+  List of organised attended international conferences and workshops. Please refer to the <i>Curriculum Vitae</i> for a complete list.
 </div>
 
 ---
@@ -46,7 +46,7 @@ June 2-6, 2025, São Félix, Portugal.\
 
 - **SHARK-FV-2024 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
 May 27-31, 2024, São Félix, Portugal.\
-[https://shark-fv.eu/home-shark/](https://shark-fv.eu/home-shark/).
+[https://shark-fv.eu/old-conferences/shark-fv-2024/](https://shark-fv.eu/old-conferences/shark-fv-2024/).
 
 - **SHARK-FV-2023 – Sharing High-order Advanced Research Know-how on Finite Volume**,\
 May 22-26, 2023, São Félix, Portugal.\

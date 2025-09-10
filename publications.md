@@ -9,7 +9,12 @@ title: Publications
   List of peer-reviewed publications. Please refer to the <i>Curriculum Vitae</i> for a complete list.
 </div>
 
+Jump to [ArXiv preprints](https://ricardodpcosta.github.io/publications.html#arxiv)
+
+
 ---
+
+<div id="arxiv"></div>
 
 ### _ArXiv preprints_
 

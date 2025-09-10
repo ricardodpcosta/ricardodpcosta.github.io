@@ -34,7 +34,7 @@ June 26-30, 2023, Wrocław, Poland.\
 
 ---
 
-<div id="organsed-conferences"></div>
+<div id="organised-conferences"></div>
 
 ### _Organised international conferences_
 

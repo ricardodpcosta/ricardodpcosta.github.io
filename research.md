@@ -18,43 +18,20 @@ title: Research
 <div class="boxes-section">
   <div class="boxes-container">
     <div class="boxes-box">
-      <a class="boxes-link" href="{{ 'research/incompressible_flows.html' | relative_url }}">
-        <div class="boxes-image">
-          <img src="{{ 'public/streamlines.png' | relative_url }}" alt="">
-        </div>
-        <div class="boxes-blur">
-        </div>
-        <div class="boxes-title">
-          <h3>Incompressible fluid flow problems</h3>
-        </div>
-      </a>
-    </div>
-    <div class="boxes-box">
-      <a class="boxes-link" href="{{ 'research/slip_conditions.html' | relative_url }}">
-        <div class="boxes-image">
-          <img src="{{ 'public/maximum_curvature.png' | relative_url }}" alt="">
-        </div>
-        <div class="boxes-blur">
-        </div>
-        <div class="boxes-title">
-          <h3>General slip boundary conditions</h3>
-        </div>
-      </a>
-    </div>
-    <div class="boxes-box">
-      <a class="boxes-link" href="{{ 'research/curved_boundaries.html' | relative_url }}">
+      <a class="boxes-link" href="{{ 'research/discretisation.html' | relative_url }}">
         <div class="boxes-image">
           <img src="{{ 'public/unstructured_mesh.png' | relative_url }}" alt="">
         </div>
         <div class="boxes-blur">
         </div>
         <div class="boxes-title">
-          <h3>Arbitrary curved boundaries</h3>
+          <h3>High-order accurate discretisation</h3>
         </div>
       </a>
     </div>
+
     <div class="boxes-box">
-      <a class="boxes-link" href="{{ 'research/heat_transfer.html' | relative_url }}">
+      <a class="boxes-link" href="{{ 'research/conjugate.html' | relative_url }}">
         <div class="boxes-image">
           <img src="{{ 'public/continuity_interface_condition.png' | relative_url }}" alt="">
         </div>
@@ -65,8 +42,35 @@ title: Research
         </div>
       </a>
     </div>
+
     <div class="boxes-box">
-      <a class="boxes-link" href="{{ 'research/vorticity_formulations.html' | relative_url }}">
+      <a class="boxes-link" href="{{ 'research/incompressible.html' | relative_url }}">
+        <div class="boxes-image">
+          <img src="{{ 'public/streamlines.png' | relative_url }}" alt="">
+        </div>
+        <div class="boxes-blur">
+        </div>
+        <div class="boxes-title">
+          <h3>Incompressible fluid flow problems</h3>
+        </div>
+      </a>
+    </div>
+
+    <div class="boxes-box">
+      <a class="boxes-link" href="{{ 'research/slip.html' | relative_url }}">
+        <div class="boxes-image">
+          <img src="{{ 'public/maximum_curvature.png' | relative_url }}" alt="">
+        </div>
+        <div class="boxes-blur">
+        </div>
+        <div class="boxes-title">
+          <h3>General slip boundary conditions</h3>
+        </div>
+      </a>
+    </div>
+
+    <div class="boxes-box">
+      <a class="boxes-link" href="{{ 'research/vorticity.html' | relative_url }}">
         <div class="boxes-image">
           <img src="{{ 'public/vorticity.png' | relative_url }}" alt="">
         </div>
@@ -77,6 +81,7 @@ title: Research
         </div>
       </a>
     </div>
+
   </div>
 </div>
 
@@ -89,7 +94,7 @@ title: Research
 <div class="boxes-section">
   <div class="boxes-container">
     <div class="boxes-box">
-      <a class="boxes-link" href="{{ 'research/selective_laser_sintering.html' | relative_url }}">
+      <a class="boxes-link" href="{{ 'research/sintering.html' | relative_url }}">
         <div class="boxes-image">
           <img src="{{ 'public/selective_laser_sintering.png' | relative_url }}" alt="">
         </div>
@@ -101,7 +106,7 @@ title: Research
       </a>
     </div>
     <div class="boxes-box">
-      <a class="boxes-link" href="{{ 'research/plastic_injection_moulding.html' | relative_url }}">
+      <a class="boxes-link" href="{{ 'research/injection.html' | relative_url }}">
         <div class="boxes-image">
           <img src="{{ 'public/plastic_injection_moulding.png' | relative_url }}" alt="">
         </div>
@@ -109,6 +114,18 @@ title: Research
         </div>
         <div class="boxes-title">
           <h3>Plastic injection moulding</h3>
+        </div>
+      </a>
+    </div>
+    <div class="boxes-box">
+      <a class="boxes-link" href="{{ 'research/deposition.html' | relative_url }}">
+        <div class="boxes-image">
+          <img src="{{ 'public/plastic_injection_moulding.png' | relative_url }}" alt="">
+        </div>
+        <div class="boxes-blur">
+        </div>
+        <div class="boxes-title">
+          <h3>Fused filament fabrication</h3>
         </div>
       </a>
     </div>

@@ -212,7 +212,7 @@ DOI: [https://doi.org/10.18419/darus-3799](https://doi.org/10.18419/darus-3799).
 
 <div id="theses"></div>
 
-### _Dissertations and theses_
+### _Theses and dissertations_
 
 <p style="margin-bottom:1cm;"></p>
 

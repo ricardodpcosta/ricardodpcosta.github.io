@@ -20,6 +20,7 @@ title: Activities
     - [Invited reviewer for international conferences](https://ricardodpcosta.github.io/activities.html#conference-reviewer)
 <p style="margin-bottom:-0.4cm;"></p>
 - [Teaching and supervision](https://ricardodpcosta.github.io/activities.html#teaching)
+    - [Courses taught](https://ricardodpcosta.github.io/activities.html#courses)
     - [Supervised doctoral theses](https://ricardodpcosta.github.io/activities.html#supervised-theses)
     - [Supervised master's dissertations](https://ricardodpcosta.github.io/activities.html#supervised-dissertations)
     - [Supervised master's projects](https://ricardodpcosta.github.io/activities.html#supervised-projects)
@@ -216,13 +217,13 @@ João Pedro (Integrated Master's in Polymer Engineering, University of Minho, Po
 
 <div id="jury"></div>
 
-### _Jury of academic examinations_
+### _Jury and examinations_
 
 <p style="margin-bottom:1cm;"></p>
 
 ---
 
-<div id="jury-theses"></div>
+<div id="examiner-theses"></div>
 
 #### _Examiner of doctoral theses_
 

@@ -18,15 +18,14 @@ title: Activities
     - [Invited scientific and program committee member](https://ricardodpcosta.github.io/activities.html#scientific-committee)
     - [Invited reviewer for international journals](https://ricardodpcosta.github.io/activities.html#journal-reviewer)
     - [Invited reviewer for international conferences](https://ricardodpcosta.github.io/activities.html#conference-reviewer)
-
-<p style="margin-bottom:-1cm;"></p>
-
+<p style="margin-bottom:-0.4cm;"></p>
 - [Teaching and supervision](https://ricardodpcosta.github.io/activities.html#teaching)
     - [Supervised doctoral theses](https://ricardodpcosta.github.io/activities.html#supervised-theses)
     - [Supervised master's dissertations](https://ricardodpcosta.github.io/activities.html#supervised-dissertations)
     - [Supervised master's projects](https://ricardodpcosta.github.io/activities.html#supervised-projects)
     - [Mentored doctoral theses](https://ricardodpcosta.github.io/activities.html#mentored-theses)
     - [Mentored master's dissertations](https://ricardodpcosta.github.io/activities.html#mentored-dissertations)
+<p style="margin-bottom:-0.4cm;"></p>
 - [Jury and examinations](https://ricardodpcosta.github.io/activities.html#jury)
     - [Examiner of doctoral theses](https://ricardodpcosta.github.io/activities.html#examiner-theses)
 

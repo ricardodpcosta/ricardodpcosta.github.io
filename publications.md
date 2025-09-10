@@ -9,14 +9,21 @@ title: Publications
   List of peer-reviewed publications. Please refer to the <i>Curriculum Vitae</i> for a complete list.
 </div>
 
-Jump to [ArXiv preprints](https://ricardodpcosta.github.io/publications.html#arxiv)
-
+**Contents**
+- [ArXiv preprints](https://ricardodpcosta.github.io/publications.html#arxiv)
+- [Journal articles](https://ricardodpcosta.github.io/publications.html#articles)
+- [Book chapters](https://ricardodpcosta.github.io/publications.html#chapters)
+- [Conference proceedings](https://ricardodpcosta.github.io/publications.html#proceedings)
+- [Scientific datasets](https://ricardodpcosta.github.io/publications.html#datasets)
+- [Dissertations and theses](https://ricardodpcosta.github.io/publications.html#theses)
 
 ---
 
 <div id="arxiv"></div>
 
 ### _ArXiv preprints_
+
+<p style="margin-bottom:1cm;"></p>
 
 1. S. Clain, M.T. Malheiro, G.J. Machado, and **R. Costa**,\
 <span style="color:blue">_The structural method for ordinary differential equations_</span>,\
@@ -28,7 +35,11 @@ DOI: [https://doi.org/10.48550/arXiv.2508.02440](https://doi.org/10.48550/arXiv.
 **arXiv**, 2506.05081, 2025.\
 DOI: [https://doi.org/10.48550/arXiv.2506.05081](https://doi.org/10.48550/arXiv.2506.05081)
 
-### _Peer-reviewed journal articles_
+---
+
+<div id="journal"></div>
+
+### _Journal articles_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -112,9 +123,11 @@ DOI: [https://doi.org/10.1515/amcs-2015-0039](https://doi.org/10.1515/amcs-2015-
 **Computers & Mathematics with Applications** 68, 1229-1249, 2014.\
 DOI: [https://doi.org/10.1016/j.camwa.2014.08.015](https://doi.org/10.1016/j.camwa.2014.08.015).
 
-<p style="margin-bottom: 0.8cm;"></p>
+---
 
-### _Peer-reviewed book chapters_
+<div id="chapters"></div>
+
+### _Book chapters_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -130,9 +143,11 @@ In: P.M. Arezes et al. (Eds.), International Symposium on Occupational Safety an
 **Occupational Safety and Hygiene IV**, 281-285, CRC Press, 2016.\
 Available [here](http://doi.org/10.1201/B21172-56).
 
-<p style="margin-bottom: 0.8cm;"></p>
+---
 
-### _Peer-reviewed conference proceedings_
+<div id="proceedings"></div>
+
+### _Conference proceedings_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -167,25 +182,11 @@ September 9-10, 2013, Lisbon, Portugal,\
 207-218, APMTAC, 2014.\
 URL: [http://repositorium.sdum.uminho.pt/handle/1822/27452](http://repositorium.sdum.uminho.pt/handle/1822/27452).
 
-<p style="margin-bottom: 0.8cm;"></p>
+---
 
-### _Dissertations and theses_
+<div id="datasets"></div>
 
-<p style="margin-bottom:1cm;"></p>
-
-1. **R. Costa**,\
-<span style="color:blue">_Advanced computational methods towards high-performance polymer processing simulations_</span>,\
-(Doctoral thesis), University of Minho, Guimarães, Portugal, 2020.\
-URL: [https://repositorium.sdum.uminho.pt/handle/1822/77102](https://repositorium.sdum.uminho.pt/handle/1822/77102).
-
-1. **R. Costa**,\
-<span style="color:blue">_Numerical modeling and assessment of the thermal environment in an industrial premise of automotive components_</span>,\
-(Master's dissertation), University of Minho, Guimarães, Portugal, 2015.\
-URL: [http://repositorium.sdum.uminho.pt/handle/1822/39251](http://repositorium.sdum.uminho.pt/handle/1822/39251).
-
-<p style="margin-bottom: 0.8cm;"></p>
-
-### _Peer-reviewed scientific datasets_
+### _Scientific datasets_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -203,3 +204,21 @@ DOI: [https://doi.org/10.18419/darus-3798](https://doi.org/10.18419/darus-3798).
 <span style="color:blue">_exaFOAM microbenchmark MB19 - Viscoelastic profile extrusion_</span>,\
 **DaRUS**, V1 , 2024.\
 DOI: [https://doi.org/10.18419/darus-3799](https://doi.org/10.18419/darus-3799).
+
+---
+
+<div id="theses"></div>
+
+### _Dissertations and theses_
+
+<p style="margin-bottom:1cm;"></p>
+
+1. **R. Costa**,\
+<span style="color:blue">_Advanced computational methods towards high-performance polymer processing simulations_</span>,\
+(Doctoral thesis), University of Minho, Guimarães, Portugal, 2020.\
+URL: [https://repositorium.sdum.uminho.pt/handle/1822/77102](https://repositorium.sdum.uminho.pt/handle/1822/77102).
+
+1. **R. Costa**,\
+<span style="color:blue">_Numerical modeling and assessment of the thermal environment in an industrial premise of automotive components_</span>,\
+(Master's dissertation), University of Minho, Guimarães, Portugal, 2015.\
+URL: [http://repositorium.sdum.uminho.pt/handle/1822/39251](http://repositorium.sdum.uminho.pt/handle/1822/39251).

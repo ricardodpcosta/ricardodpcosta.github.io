@@ -3,14 +3,6 @@ layout: page
 title: Research
 ---
 
-<p style="margin-bottom:1cm;"></p>
-
-<div class="message">
-  Short description on the major research topics of interest that I have investigated. Please refer to the <i>Curriculum Vitae</i> for a complete list.
-</div>
-
----
-
 ### _General slip boundary conditions_
 
 <p style="margin-bottom:1cm;"></p>

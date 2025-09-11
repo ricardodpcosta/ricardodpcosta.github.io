@@ -18,18 +18,17 @@ title: Research
 <div class="boxes-section">
   <div class="boxes-container">
     <div class="boxes-box">
-      <a class="boxes-link" href="{{ 'research/discretisation.html' | relative_url }}">
+      <a class="boxes-link" href="{{ 'research/discretisations.html' | relative_url }}">
         <div class="boxes-image">
           <img src="{{ 'public/unstructured_mesh.png' | relative_url }}" alt="">
         </div>
         <div class="boxes-blur">
         </div>
         <div class="boxes-title">
-          <h3>High-order accurate discretisation</h3>
+          <h3>High-order accurate discretisations</h3>
         </div>
       </a>
     </div>
-
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'research/conjugate.html' | relative_url }}">
         <div class="boxes-image">
@@ -42,7 +41,6 @@ title: Research
         </div>
       </a>
     </div>
-
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'research/incompressible.html' | relative_url }}">
         <div class="boxes-image">
@@ -55,7 +53,6 @@ title: Research
         </div>
       </a>
     </div>
-
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'research/slip.html' | relative_url }}">
         <div class="boxes-image">
@@ -68,7 +65,6 @@ title: Research
         </div>
       </a>
     </div>
-
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'research/vorticity.html' | relative_url }}">
         <div class="boxes-image">
@@ -81,7 +77,18 @@ title: Research
         </div>
       </a>
     </div>
-
+    <div class="boxes-box">
+      <a class="boxes-link" href="{{ 'research/viscoelastic.html' | relative_url }}">
+        <div class="boxes-image">
+          <img src="{{ 'public/vorticity.png' | relative_url }}" alt="">
+        </div>
+        <div class="boxes-blur">
+        </div>
+        <div class="boxes-title">
+          <h3>Viscoelastic fluid flow problems</h3>
+        </div>
+      </a>
+    </div>
   </div>
 </div>
 
@@ -93,6 +100,18 @@ title: Research
 
 <div class="boxes-section">
   <div class="boxes-container">
+    <div class="boxes-box">
+      <a class="boxes-link" href="{{ 'research/extrusion.html' | relative_url }}">
+        <div class="boxes-image">
+          <img src="{{ 'public/deck_profile.png' | relative_url }}" alt="">
+        </div>
+        <div class="boxes-blur">
+        </div>
+        <div class="boxes-title">
+          <h3>Profile extrusion</h3>
+        </div>
+      </a>
+    </div>
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'research/sintering.html' | relative_url }}">
         <div class="boxes-image">

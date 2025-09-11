@@ -3,15 +3,7 @@ layout: page
 title: Research
 ---
 
-<p style="margin-bottom:1cm;"></p>
-
-<div class="message">
-  Short description on the major research topics of interest that I have investigated. Please refer to the <i>Curriculum Vitae</i> for a complete list.
-</div>
-
----
-
-### _High-order accurate discretisation_
+### _High-order accurate discretisations_
 
 <p style="margin-bottom:1cm;"></p>
 

@@ -11,7 +11,7 @@ title: Research
 
 ---
 
-### _Arbitrary curved boundaries_
+### _High-order accurate discretisation_
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -27,10 +27,10 @@ In the finite element paradigm, the **isoparametric elements method** has become
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/curved_mesh.png' | relative_url }}">
+    <img style="width:50%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/curved_mesh.png' | relative_url }}">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/polygonal_mesh.png' | relative_url }}">
+    <img style="width:50%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/polygonal_mesh.png' | relative_url }}">
   </div>
 </div>
 <div class="row">
@@ -55,10 +55,10 @@ The technique was developed in the FVM paradigm for the 2D convection-diffusion 
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/curved_domain.png' | relative_url }}">
+    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/curved_domain.png' | relative_url }}">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/unstructured_mesh.png' | relative_url }}">
+    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/unstructured_mesh.png' | relative_url }}">
   </div>
 </div>
 <div class="row">

@@ -96,7 +96,7 @@ title: Research
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'research/sintering.html' | relative_url }}">
         <div class="boxes-image">
-          <img src="{{ 'public/powder_bed.png' | relative_url }}" alt="">
+          <img src="{{ 'public/powder_bed1.png' | relative_url }}" alt="">
         </div>
         <div class="boxes-blur">
         </div>

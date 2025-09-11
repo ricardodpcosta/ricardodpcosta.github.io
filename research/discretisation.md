@@ -15,7 +15,7 @@ title: Research
 
 <p style="margin-bottom:1cm;"></p>
 
-Treating complex geometries is critical in developing high-order accurate discretisation methods (above the second-order) for the numerical simulation of real engineering applications. However, most works published in that context only consider simple domains with straight/polygonal boundaries, substantially limiting their practical applicability. In particular, the treatment of curved domains requires sophisticated techniques to overcome the geometrical mismatch between the **physical boundary** (where the boundary conditions are prescribed) and the **mesh boundary** (where the equations are discretised).
+Treating complex geometries is critical in developing **high-order accurate discretisation** methods (above the second-order) for the numerical simulation of real engineering applications. However, most works published in that context only consider simple domains with straight/polygonal boundaries, substantially limiting their practical applicability. In particular, the treatment of curved domains requires sophisticated techniques to overcome the geometrical mismatch between the **physical boundary** (where the boundary conditions are prescribed) and the **mesh boundary** (where the equations are discretised).
 
 In the finite element paradigm, the **isoparametric elements method** has become the conventional approach for treating curved boundaries and recovering the optimal high-order of convergence. The technique employs **curved meshes** to geometrically fit the physical boundary, and similar techniques have been proposed for the finite volume (FVM) and discontinuous Galerkin (DGM) methods. Although effective, these techniques suffer from significant drawbacks, such as:
 

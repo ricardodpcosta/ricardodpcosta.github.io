@@ -80,7 +80,7 @@ title: Research
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'research/viscoelastic.html' | relative_url }}">
         <div class="boxes-image">
-          <img src="{{ 'public/vorticity.png' | relative_url }}" alt="">
+          <img src="{{ 'public/profile_p.png' | relative_url }}" alt="">
         </div>
         <div class="boxes-blur">
         </div>
@@ -103,24 +103,12 @@ title: Research
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'research/extrusion.html' | relative_url }}">
         <div class="boxes-image">
-          <img src="{{ 'public/deck_profile.png' | relative_url }}" alt="">
+          <img src="{{ 'public/complex_profile_p.png' | relative_url }}" alt="">
         </div>
         <div class="boxes-blur">
         </div>
         <div class="boxes-title">
           <h3>Profile extrusion</h3>
-        </div>
-      </a>
-    </div>
-    <div class="boxes-box">
-      <a class="boxes-link" href="{{ 'research/sintering.html' | relative_url }}">
-        <div class="boxes-image">
-          <img src="{{ 'public/powder_bed1.png' | relative_url }}" alt="">
-        </div>
-        <div class="boxes-blur">
-        </div>
-        <div class="boxes-title">
-          <h3>Selective laser sintering</h3>
         </div>
       </a>
     </div>
@@ -133,6 +121,18 @@ title: Research
         </div>
         <div class="boxes-title">
           <h3>Plastic injection moulding</h3>
+        </div>
+      </a>
+    </div>
+    <div class="boxes-box">
+      <a class="boxes-link" href="{{ 'research/sintering.html' | relative_url }}">
+        <div class="boxes-image">
+          <img src="{{ 'public/powder_bed1.png' | relative_url }}" alt="">
+        </div>
+        <div class="boxes-blur">
+        </div>
+        <div class="boxes-title">
+          <h3>Selective laser sintering</h3>
         </div>
       </a>
     </div>

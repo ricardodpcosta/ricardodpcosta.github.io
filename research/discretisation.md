@@ -55,10 +55,10 @@ The technique was developed in the FVM paradigm for the 2D convection-diffusion 
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/curved_domain.png' | relative_url }}">
+    <img style="width:50%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/curved_domain.png' | relative_url }}">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/unstructured_mesh.png' | relative_url }}">
+    <img style="width:50%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/unstructured_mesh.png' | relative_url }}">
   </div>
 </div>
 <div class="row">

@@ -3,6 +3,8 @@ layout: page
 title: Research
 ---
 
+---
+
 ### _High-order accurate discretisations_
 
 <p style="margin-bottom:1cm;"></p>

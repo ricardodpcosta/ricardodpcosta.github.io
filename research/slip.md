@@ -3,6 +3,8 @@ layout: page
 title: Research
 ---
 
+---
+
 ### _General slip boundary conditions_
 
 <p style="margin-bottom:1cm;"></p>

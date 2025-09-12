@@ -92,6 +92,19 @@ title: Projects
 <div class="boxes-section">
   <div class="boxes-container">
     <div class="boxes-box">
+      <a class="boxes-link" href="{{ 'projects/exafoam.html' | relative_url }}">
+        <div class="boxes-image">
+          <img src="{{ 'public/drivaer_notchback.png' | relative_url }}" alt="">
+        </div>
+        <div class="boxes-blur">
+        </div>
+        <div class="boxes-title">
+          <h3>exaFOAM</h3>
+          <p>Exploitation of exascale systems for open-Source computational fluid dynamics by mainstream industry</p>
+        </div>
+      </a>
+    </div>
+    <div class="boxes-box">
       <a class="boxes-link" href="{{ 'projects/esc4shi.html' | relative_url }}">
         <div class="boxes-image">
           <img src="{{ 'public/esc4shi.png' | relative_url }}" alt="">
@@ -101,19 +114,6 @@ title: Projects
         <div class="boxes-title">
           <h3>ESC4SHI</h3>
           <p>Efficient simulation and computation for sea, health and industry</p>
-        </div>
-      </a>
-    </div>
-    <div class="boxes-box">
-      <a class="boxes-link" href="{{ '' | relative_url }}">
-        <div class="boxes-image">
-          <img src="{{ '' | relative_url }}" alt="">
-        </div>
-        <div class="boxes-blur">
-        </div>
-        <div class="boxes-title">
-          <h3></h3>
-          <p></p>
         </div>
       </a>
     </div>

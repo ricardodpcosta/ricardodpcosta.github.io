@@ -11,9 +11,27 @@ title: Projects
 
 ---
 
-### _Approved_
+### _Upcoming_
 
 <p style="margin-bottom:-0.5cm;"></p>
+
+<div class="boxes-section">
+  <div class="boxes-container">
+    <div class="boxes-box">
+      <a class="boxes-link" href="{{ 'projects/simpro.html' | relative_url }}">
+        <div class="boxes-image">
+          <img src="{{ 'public/extrusion.jpg' | relative_url }}" alt="">
+        </div>
+        <div class="boxes-blur">
+        </div>
+        <div class="boxes-title">
+          <h3>HipMoS4C</h3>
+          <p>High-performance modelling and simulation for companies</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
 
 ---
 

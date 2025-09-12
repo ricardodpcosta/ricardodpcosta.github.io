@@ -115,7 +115,7 @@ title: Research
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'research/injection.html' | relative_url }}">
         <div class="boxes-image">
-          <img src="{{ 'public/shoe_sole.png' | relative_url }}" alt="">
+          <img src="{{ 'public/shoe_sole_injection1.png' | relative_url }}" alt="">
         </div>
         <div class="boxes-blur">
         </div>

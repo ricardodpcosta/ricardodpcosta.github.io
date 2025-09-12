@@ -25,7 +25,7 @@ title: Projects
         <div class="boxes-blur">
         </div>
         <div class="boxes-title">
-          <h3>HipMoS4C</h3>
+          <h3>HiPMoS4C</h3>
           <p>High-performance modelling and simulation for companies</p>
         </div>
       </a>

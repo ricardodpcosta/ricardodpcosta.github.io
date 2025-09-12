@@ -5,7 +5,7 @@ title: Research
 
 ---
 
-### _Conjugate heat transfer problems_
+### _Conjugate heat transfer_
 
 <p style="margin-bottom:1cm;"></p>
 

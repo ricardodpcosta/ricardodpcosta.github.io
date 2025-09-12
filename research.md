@@ -37,7 +37,7 @@ title: Research
         <div class="boxes-blur">
         </div>
         <div class="boxes-title">
-          <h3>Conjugate heat transfer problems</h3>
+          <h3>Conjugate heat transfer</h3>
         </div>
       </a>
     </div>
@@ -49,7 +49,7 @@ title: Research
         <div class="boxes-blur">
         </div>
         <div class="boxes-title">
-          <h3>Incompressible fluid flow problems</h3>
+          <h3>Incompressible fluid flows</h3>
         </div>
       </a>
     </div>
@@ -85,7 +85,7 @@ title: Research
         <div class="boxes-blur">
         </div>
         <div class="boxes-title">
-          <h3>Viscoelastic fluid flow problems</h3>
+          <h3>Viscoelastic fluid flows</h3>
         </div>
       </a>
     </div>

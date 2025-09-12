@@ -100,7 +100,7 @@ title: Projects
         </div>
         <div class="boxes-title">
           <h3>exaFOAM</h3>
-          <p>Exploitation of exascale systems for open-Source computational fluid dynamics by mainstream industry</p>
+          <p>Exploitation of exascale systems for open-source computational fluid dynamics by mainstream industry</p>
         </div>
       </a>
     </div>

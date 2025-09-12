@@ -11,18 +11,13 @@ title: Events
 
 ---
 
-<details>
-<summary>
-Contents
-</summary>
-
 ### **Contents**
+
 - [Organised mini-symposia in international conferences](https://ricardodpcosta.github.io/events.html#organised-mini-symposia)
 - [Organised international conferences](https://ricardodpcosta.github.io/events.html#organised-conferences)
 - [Attended international conferences](https://ricardodpcosta.github.io/events.html#attended-conferences)
 - [Attended workshops](https://ricardodpcosta.github.io/events.html#attended-workshops)
 
-</details>
 ---
 
 <div id="organised-mini-symposia"></div>

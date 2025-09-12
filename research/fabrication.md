@@ -35,4 +35,4 @@ The present study aims to establish a comprehensive computational framework for 
 
 <p style="margin-bottom:1cm;"></p>
 
-This investigation forms part of the doctoral thesis project of \[[J. Castr0, 2025](https://ricardodpcosta.github.io/activities.html#supervised-theses)] (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).
+This investigation forms part of the doctoral thesis project of \[[J. Castro, 2025](https://ricardodpcosta.github.io/activities.html#supervised-theses)] (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).

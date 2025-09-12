@@ -163,7 +163,7 @@ João Castro (Doctoral Program in Science and Engineering of Polymers and Compos
 - **An innovative computational approach for injection moulding simulation in footwear industry** (2021/present),\
 Ricardo Ribeiro (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).
 
-- **A pioneering integrated computational approach for extrusion blow moulding** (2021/23),\
+- **A pioneering integrated computational approach for extrusion blow moulding** (2021/present),\
 Jayesh Golhar (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).
 
 ---

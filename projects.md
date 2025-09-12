@@ -18,7 +18,7 @@ title: Projects
 <div class="boxes-section">
   <div class="boxes-container">
     <div class="boxes-box">
-      <a class="boxes-link" href="{{ 'projects/simpro.html' | relative_url }}">
+      <a class="boxes-link" href="{{ 'projects/hipmos4c.html' | relative_url }}">
         <div class="boxes-image">
           <img src="{{ '' | relative_url }}" alt="">
         </div>
@@ -31,7 +31,7 @@ title: Projects
       </a>
     </div>
     <div class="boxes-box">
-      <a class="boxes-link" href="{{ 'projects/simpro.html' | relative_url }}">
+      <a class="boxes-link" href="{{ '' | relative_url }}">
         <div class="boxes-image">
           <img src="{{ '' | relative_url }}" alt="">
         </div>
@@ -92,7 +92,7 @@ title: Projects
 <div class="boxes-section">
   <div class="boxes-container">
     <div class="boxes-box">
-      <a class="boxes-link" href="{{ 'projects/simpro.html' | relative_url }}">
+      <a class="boxes-link" href="{{ 'projects/esc4shi.html' | relative_url }}">
         <div class="boxes-image">
           <img src="{{ '' | relative_url }}" alt="">
         </div>
@@ -105,7 +105,7 @@ title: Projects
       </a>
     </div>
     <div class="boxes-box">
-      <a class="boxes-link" href="{{ 'projects/simpro.html' | relative_url }}">
+      <a class="boxes-link" href="{{ '' | relative_url }}">
         <div class="boxes-image">
           <img src="{{ '' | relative_url }}" alt="">
         </div>

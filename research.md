@@ -139,7 +139,7 @@ title: Research
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'research/fabrication.html' | relative_url }}">
         <div class="boxes-image">
-          <img src="{{ 'public/fused_filament_fabrication.png' | relative_url }}" alt="">
+          <img src="{{ 'public/fused_filament_fabrication2.png' | relative_url }}" alt="">
         </div>
         <div class="boxes-blur">
         </div>

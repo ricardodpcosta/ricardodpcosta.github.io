@@ -11,6 +11,12 @@ title: Projects
 
 ---
 
+### _Approved_
+
+<p style="margin-bottom:-0.5cm;"></p>
+
+---
+
 ### _Ongoing_
 
 <p style="margin-bottom:-0.5cm;"></p>

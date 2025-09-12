@@ -3,12 +3,6 @@ layout: page
 title: Projects
 ---
 
-<p style="margin-bottom:1cm;"></p>
-
-<div class="message">
-  List of funded projects as principal investigator. Please refer to the <i>Curriculum Vitae</i> for a complete list.
-</div>
-
 ---
 
 ### _SIMPAR – Hybrid parallel programming model with domain decomposition for efficient fluid flow simulations_

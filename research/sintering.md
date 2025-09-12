@@ -3,6 +3,8 @@ layout: page
 title: Research
 ---
 
+---
+
 ### _Selective laser sintering_
 
 <p style="margin-bottom:1cm;"></p>

@@ -5,6 +5,6 @@ title: Research
 
 ---
 
-### _Plastic injection moulding_
+### _Profile extrusion_
 
 <p style="margin-bottom:1cm;"></p>

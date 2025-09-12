@@ -18,8 +18,6 @@ The intrinsic complexity of the SLS process arises from the interaction of **mul
   <div class="column" style="width:100%; text-align:center;">
     <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/selective_laser_sintering.png' | relative_url }}">
   </div>
-    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/jump_interface_condition.png' | relative_url }}">
-  </div>
 </div>
 <div class="row">
   <div class="column" style="width:100%; text-align:center;">

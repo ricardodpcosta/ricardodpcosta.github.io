@@ -30,7 +30,7 @@ Computational modelling tools hold significant potential for supporting **mould 
 
 <p style="margin-bottom:1cm;"></p>
 
-This investigation forms part of the doctoral thesis project of \[[R. Ribeiro](https://ricardodpcosta.github.io/activities.html#supervised-theses)] (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).
+This investigation forms part of the doctoral thesis project of \[[R. Ribeiro, 2025](https://ricardodpcosta.github.io/activities.html#supervised-theses)] (Doctoral Program in Science and Engineering of Polymers and Composites, University of Minho, Portugal).
 
 <!--
 The proposed project aims the development of a computational model able to support the shoe soles industry, in the improvement of their shoe sole fabrication process, including mold design tasks and prediction/correction of manufactured part defects. In that regard, not only the flow behaviour in the mold cavities will be simulated, but also the tool deformation and the residual stresses induced in the manufactured parts. Therefore, the developed codes will be able to support mold design tasks, including molds with weak accessories produced through rapid prototyping techniques. For these purposes, solidification and shrinkage of the materials inside the mold, motivated by temperature gradients during the cooling stage, will be considered in the developed computational model.

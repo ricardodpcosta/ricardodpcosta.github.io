@@ -16,7 +16,7 @@ The intrinsic complexity of the SLS process arises from the interaction of **mul
 
 <div class="row">
   <div class="column" style="width:100%; text-align:center;">
-    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/selective_laser_sintering.png' | relative_url }}">
+    <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/selective_laser_sintering.png' | relative_url }}">
   </div>
 </div>
 <div class="row">
@@ -27,4 +27,4 @@ The intrinsic complexity of the SLS process arises from the interaction of **mul
 
 <p style="margin-bottom:1cm;"></p>
 
-In \[[J. Castro et al., 2023](https://doi.org/10.1063/5.0159825)], we developed a computational framework to simulate the SLS process for polymeric applications at the particle-length scale, aiming to capture the influence of the most significant process parameters. Specifically, **LIGGGHTS** was employed to simulate powder bed deposition with a realistic particle size distribution, while **OpenFOAM** was used to model the heat and mass transfer phenomena as well as the laser-induced sintering between particles on a representative powder bed section. In a subsequent work, \[[J. Castro et al., 2024](https://doi.org/10.3390/ma17081845)], we extended the model to account for both virgin and reused polymer granules with different viscosities, providing a more faithful representation of the actual feedstock. The numerical predictions showed strong agreement with experimental observations, confirming the potential of the developed model as a powerful tool to analyse and optimise the SLS process.
+In \[[J. Castro et al., 2023](https://doi.org/10.1063/5.0159825)], we developed a computational framework to simulate the SLS process for polymeric applications at the **particle-length scale**, aiming to capture the influence of the most significant process parameters. Specifically, **LIGGGHTS** was employed to simulate powder bed deposition with a realistic particle size distribution, while **OpenFOAM** was used to model the heat and mass transfer phenomena as well as the laser-induced sintering between particles on a representative powder bed section. In a subsequent work, \[[J. Castro et al., 2024](https://doi.org/10.3390/ma17081845)], we extended the model to account for both virgin and reused polymer granules with different viscosities, providing a more faithful representation of the actual feedstock. The numerical predictions showed strong agreement with experimental observations, confirming the potential of the developed model as a powerful tool to analyse and optimise the SLS process.

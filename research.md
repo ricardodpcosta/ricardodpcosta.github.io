@@ -80,7 +80,7 @@ title: Research
     <div class="boxes-box">
       <a class="boxes-link" href="{{ 'research/viscoelastic.html' | relative_url }}">
         <div class="boxes-image">
-          <img src="{{ 'public/lid_driven_cavity_u.png' | relative_url }}" alt="">
+          <img src="{{ 'public/profile_p.png' | relative_url }}" alt="">
         </div>
         <div class="boxes-blur">
         </div>

@@ -21,10 +21,10 @@ Addressing these challenges through traditional **trial-and-error** methods is *
 
 <div class="row">
   <div class="column" style="width:100%; text-align:center;">
-    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/complex_profile_p.png' | relative_url }}">
+    <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/complex_profile_p.png' | relative_url }}">
   </div>
   <div class="column" style="width:100%; text-align:center;">
-    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/complex_profile_u.png' | relative_url }}">
+    <img style="width:80%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/complex_profile_u.png' | relative_url }}">
   </div>
 </div>
 <div class="row">
@@ -38,4 +38,4 @@ Addressing these challenges through traditional **trial-and-error** methods is *
 
 <p style="margin-bottom:1cm;"></p>
 
-In \[[G.M. Magalhães et al, 2025](https://doi.org/10.1063/5.0282477)], we developed a **coupled solver** for **multi-mode viscoelastic flows** within the foam-extend framework. In this approach, pressure, velocity, and one selected viscoelastic mode are solved simultaneously in a single block system, while the remaining modes are treated using a **segregated procedure**. A central question arises regarding the choice of which mode to include in the coupled system, as this decision can significantly influence both computational efficiency and solution accuracy. The study systematically analyses the effects of coupling each individual mode in a six-mode fluid for a **complex profile extrusion** case. Furthermore, a novel convergence assessment strategy is proposed, based on physically meaningful flow characteristics—such as total pressure drop and outlet flow distribution—rather than relying exclusively on numerical residuals. This **physically informed metric** avoids inconsistencies stemming from different residual normalisations between segregated and fully coupled solvers, providing a more robust and reliable measure of convergence across different simulation strategies.
+In \[[G.M. Magalhães et al, 2025](https://doi.org/10.1063/5.0282477)], we developed a **coupled solver** for **multi-mode viscoelastic flows** within the foam-extend framework. In this approach, pressure, velocity, and one selected viscoelastic mode are solved simultaneously in a single block system, while the remaining modes are treated using a **segregated procedure**. A central question arises regarding the choice of which mode to include in the coupled system, as this decision can significantly influence both computational efficiency and solution accuracy. The study systematically analyses the effects of coupling each individual mode in a six-mode fluid for a **profile extrusion** case. Furthermore, a novel convergence assessment strategy is proposed, based on physically meaningful flow characteristics—such as total pressure drop and outlet flow distribution—rather than relying exclusively on numerical residuals. This **physically informed metric** avoids inconsistencies stemming from different residual normalisations between segregated and fully coupled solvers, providing a more robust and reliable measure of convergence across different simulation strategies.

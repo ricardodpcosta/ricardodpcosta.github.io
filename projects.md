@@ -11,43 +11,6 @@ title: Projects
 
 ---
 
-### _Upcoming_
-
-<p style="margin-bottom:-0.5cm;"></p>
-
-<div class="boxes-section">
-  <div class="boxes-container">
-    <div class="boxes-box">
-      <a class="boxes-link" href="{{ 'projects/hipmos4c.html' | relative_url }}">
-        <div class="boxes-image">
-          <img src="{{ '' | relative_url }}" alt="">
-        </div>
-        <div class="boxes-blur">
-        </div>
-        <div class="boxes-title">
-          <h3>HiPMoS4C</h3>
-          <p>High-performance modelling and simulation for companies</p>
-        </div>
-      </a>
-    </div>
-    <div class="boxes-box">
-      <a class="boxes-link" href="{{ '' | relative_url }}">
-        <div class="boxes-image">
-          <img src="{{ '' | relative_url }}" alt="">
-        </div>
-        <div class="boxes-blur">
-        </div>
-        <div class="boxes-title">
-          <h3></h3>
-          <p></p>
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
-
----
-
 ### _Ongoing_
 
 <p style="margin-bottom:-0.5cm;"></p>
@@ -77,6 +40,43 @@ title: Projects
         <div class="boxes-title">
           <h3>SIMPAR</h3>
           <p>Hybrid parallel programming model with domain decomposition for efficient fluid flow simulations</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
+---
+
+### _Upcoming_
+
+<p style="margin-bottom:-0.5cm;"></p>
+
+<div class="boxes-section">
+  <div class="boxes-container">
+    <div class="boxes-box">
+      <a class="boxes-link" href="{{ 'projects/hipmos4c.html' | relative_url }}">
+        <div class="boxes-image">
+          <img src="{{ '' | relative_url }}" alt="">
+        </div>
+        <div class="boxes-blur">
+        </div>
+        <div class="boxes-title">
+          <h3>HiPMoS4C</h3>
+          <p>High-performance modelling and simulation for companies</p>
+        </div>
+      </a>
+    </div>
+    <div class="boxes-box">
+      <a class="boxes-link" href="{{ '' | relative_url }}">
+        <div class="boxes-image">
+          <img src="{{ '' | relative_url }}" alt="">
+        </div>
+        <div class="boxes-blur">
+        </div>
+        <div class="boxes-title">
+          <h3></h3>
+          <p></p>
         </div>
       </a>
     </div>

@@ -69,6 +69,10 @@ D. Maria II High School (Portugal).
 
 <p style="margin-bottom:1cm;"></p>
 
+- **PASC 2026** – Platform for Advanced Scientific Computing Conference,\
+June 29-July 1, 2026, Bern, Switzerland.\
+[https://pasc26.pasc-conference.org/about/organization/papers-program-committee/](https://pasc26.pasc-conference.org/about/organization/papers-program-committee/).
+
 - **PASC 2025** – Platform for Advanced Scientific Computing Conference,\
 June 16-18, 2025, Brugg, Switzerland.\
 [https://pasc25.pasc-conference.org/about/organization/papers-program-committee/](https://pasc25.pasc-conference.org/about/organization/papers-program-committee/).

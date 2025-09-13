@@ -11,10 +11,6 @@ title: Research
 
 **Injection moulding (IM)** is the most widely used polymer processing technique for mass production, capable of handling a broad range of plastic parts, from simple to highly complex geometries. It is a cyclic process that encompasses several stages, from melting polymer pellets to cooling the final product inside the mould. IM industries require substantial investments in machinery and moulds. The production of different parts demands the use of different moulds—even when product variations are minimal—which increases the time required for **design and tool manufacturing** as well as the final product cost. Moreover, for small production batches, the fabrication of conventional steel moulds often results in disproportionately high costs.
 
-To address these challenges, IM industries have been adapting their manufacturing processes to **small series production** and highly **customisable parts**, notably through the use of modular and adaptable moulds. The fabrication of such versatile tools can be partially streamlined with **additive manufacturing/rapid prototyping techniques**, which enable the production of mould inserts that allow rapid modification of mould geometries. However, mould inserts produced with non-conventional techniques can contain mechanically weak components. As a result, these tools must be carefully designed to ensure adequate performance and avoid failures during production, which would otherwise substantially increase overall costs.
-
-Computational modelling tools hold significant potential for supporting **mould design** by predicting the **polymer melt flow**, **mould insert deformation**, and **residual stresses** in parts during material solidification and shrinkage. These capabilities are motivating the IM industry to increasingly adopt computational modelling, moving away from traditional, costly, and time-consuming trial-and-error design methods. However, to simultaneously predict polymer melt flow, mould insert deformation, and residual stresses in produced parts, advanced multi-physics approaches are required, involving **fluid-structure interaction (FSI)** problems.
-
 <p style="margin-bottom:1cm;"></p>
 
 <div class="row">
@@ -24,7 +20,26 @@ Computational modelling tools hold significant potential for supporting **mould 
 </div>
 <div class="row">
   <div class="column" style="width:100%; text-align:center;">
-    Polymer melt front and mould inserts deformation.
+    Polymer melt front in a shoe sole injection.
+  </div>
+</div>
+
+<p style="margin-bottom:1cm;"></p>
+
+To address these challenges, IM industries have been adapting their manufacturing processes to **small series production** and highly **customisable parts**, notably through the use of modular and adaptable moulds. The fabrication of such versatile tools can be partially streamlined with **additive manufacturing/rapid prototyping techniques**, which enable the production of mould inserts that allow rapid modification of mould geometries. However, mould inserts produced with non-conventional techniques can contain mechanically weak components. As a result, these tools must be carefully designed to ensure adequate performance and avoid failures during production, which would otherwise substantially increase overall costs.
+
+Computational modelling tools hold significant potential for supporting **mould design** by predicting the **polymer melt flow**, **mould insert deformation**, and **residual stresses** in parts during material solidification and shrinkage. These capabilities are motivating the IM industry to increasingly adopt computational modelling, moving away from traditional, costly, and time-consuming trial-and-error design methods. However, to simultaneously predict polymer melt flow, mould insert deformation, and residual stresses in produced parts, advanced multi-physics approaches are required, involving **fluid-structure interaction (FSI)** problems.
+
+<p style="margin-bottom:1cm;"></p>
+
+<div class="row">
+  <div class="column" style="width:100%; text-align:center;">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="{{ 'public/shoe_sole_injection3.png' | relative_url }}">
+  </div>
+</div>
+<div class="row">
+  <div class="column" style="width:100%; text-align:center;">
+    Polymer melt front in a shoe sole injection and mould inserts deformation.
   </div>
 </div>
 

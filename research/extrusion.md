@@ -50,10 +50,10 @@ Addressing these challenges through traditional **trial-and-error** methods is *
 </div>
 <div class="row">
   <div class="column" style="width:100%; text-align:center;">
-    Pressure distribution in a quarter profile extrusion.
+    Pressure distribution in a profile extrusion.
   </div>
   <div class="column" style="width:100%; text-align:center;">
-    Velocity magnitude distribution in a quarter profile extrusion.
+    Velocity magnitude distribution in a profile extrusion.
   </div>
 </div>
 

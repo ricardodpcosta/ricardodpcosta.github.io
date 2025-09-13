@@ -5,7 +5,7 @@ title: Research
 
 ---
 
-### _Plastic injection moulding_
+### _Injection moulding_
 
 <p style="margin-bottom:1cm;"></p>
 

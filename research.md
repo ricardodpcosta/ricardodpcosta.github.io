@@ -120,7 +120,7 @@ title: Research
         <div class="boxes-blur">
         </div>
         <div class="boxes-title">
-          <h3>Plastic injection moulding</h3>
+          <h3>Injection moulding</h3>
         </div>
       </a>
     </div>

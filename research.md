@@ -148,5 +148,17 @@ title: Research
         </div>
       </a>
     </div>
+    <div class="boxes-box">
+      <a class="boxes-link" href="{{ 'research/blow.html' | relative_url }}">
+        <div class="boxes-image">
+          <img src="{{ '' | relative_url }}" alt="">
+        </div>
+        <div class="boxes-blur">
+        </div>
+        <div class="boxes-title">
+          <h3>Extrusion blow moulding</h3>
+        </div>
+      </a>
+    </div>
   </div>
 </div>

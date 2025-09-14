@@ -9,7 +9,7 @@ title: Home
 
 <img style="float:right; width:9em; margin-left:1em; margin-bottom:1em" src="public/photo.jpg">
 
-I am a post-doctoral researcher at the [Institute of Polymers and Composites](https://ipc.uminho.pt/en) and an invited professor at the [Department of Polymer Engineering](https://www.dep.uminho.pt/) of the University of Minho (in the beautiful and historical city of [Guimarães, Portugal](https://www.visitportugal.com/en/node/73742)). I am a passionate scientist with a strong interest in computational mechanics, applied mathematics, numerical analysis, and scientific computing for engineering applications.
+I am a post-doctoral researcher in the [Computational Rheology Laboratory](https://crheo.org/) at the [Institute of Polymers and Composites](https://ipc.uminho.pt/en) and an invited professor at the [Department of Polymer Engineering](https://www.dep.uminho.pt/) of the University of Minho (in the beautiful and historical city of [Guimarães, Portugal](https://www.visitportugal.com/en/node/73742)). I am a passionate scientist with a strong interest in computational mechanics, applied mathematics, numerical analysis, and scientific computing for engineering applications.
 
 The research I have been conducting mainly concerns the development of novel methods and algorithms for highly accurate, reliable, and efficient numerical simulations in high-performance computing platforms, as well as their application in the fields of computational fluid dynamics and computational rheology for materials processing and manufacturing technologies.
 

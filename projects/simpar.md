@@ -13,7 +13,7 @@ title: Projects
 
 **Funder**: Portuguese Foundation for Science and Technology (FCT)
 
-**Institution**: Institute of Polymers and Composites (IPC), University of Minho (UMinho)
+**Institution**: University of Minho (UMinho)
 
 **Call**: Advanced Computing Projects Call – 4th Edition (FCT_CPCA_2023_01)
 

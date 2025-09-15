@@ -23,7 +23,6 @@ title: Projects
 
 **Abstract and objectives**:
 
-
 The first part of the project addresses the **efficiency of numerical methods**, focusing on:
 
 * Increasing the **spatial order of convergence**, enabling the same accuracy with significantly fewer unknowns. A major limitation arises with **curved boundaries**, where domain approximations reduce any numerical method to second-order accuracy. **Finite element (FEM)** and **discontinuous Galerkin (DG)** methods employ **isoparametric elements**, which require local transformations, additional computational effort, and complex **curved meshing algorithms**. A novel technique, capable of preserving the optimal convergence order, has been successfully tested for 2D linear convection–diffusion problems in the **finite volume method (FVM)**. We now aim to extend this approach to complex 3D geometries with a broad class of boundary conditions.

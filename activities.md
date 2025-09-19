@@ -22,10 +22,10 @@ title: Activities
 - [Teaching and supervision](https://ricardodpcosta.github.io/activities.html#teaching)
     - [Courses taught](https://ricardodpcosta.github.io/activities.html#courses)
     - [Supervised doctoral theses](https://ricardodpcosta.github.io/activities.html#supervised-theses)
-    - [Supervised master's dissertations](https://ricardodpcosta.github.io/activities.html#supervised-dissertations)
-    - [Supervised master's projects](https://ricardodpcosta.github.io/activities.html#supervised-projects)
     - [Mentored doctoral theses](https://ricardodpcosta.github.io/activities.html#mentored-theses)
+    - [Supervised master's dissertations](https://ricardodpcosta.github.io/activities.html#supervised-dissertations)
     - [Mentored master's dissertations](https://ricardodpcosta.github.io/activities.html#mentored-dissertations)
+    - [Supervised master's projects](https://ricardodpcosta.github.io/activities.html#supervised-projects)
 <p style="margin-bottom:-0.4cm;"></p>
 - [Jury and examinations](https://ricardodpcosta.github.io/activities.html#jury)
     - [Examiner of doctoral theses](https://ricardodpcosta.github.io/activities.html#examiner-theses)
@@ -172,31 +172,6 @@ Jayesh Golhar (Doctoral Program in Science and Engineering of Polymers and Compo
 
 ---
 
-<div id="supervised-dissertations"></div>
-
-#### _Supervised master's dissertations_
-
-<p style="margin-bottom:1cm;"></p>
-
-- **Computational modelling of the selective laser sintering process** (2022),\
-João Castro (Integrated Master in Polymer Engineering, University of Minho, Portugal).
-
----
-
-<div id="supervised-projects"></div>
-
-#### _Supervised master's projects_
-
-<p style="margin-bottom:1cm;"></p>
-
-- **Numerical simulation of the fused deposition modeling process** (2021),\
-João Sousa (Integrated Master's in Polymer Engineering, University of Minho, Portugal).
-
-- **Computational modelling of selective laser sintering process** (2021),\
-João Castro (Integrated Master's in Polymer Engineering, University of Minho, Portugal).
-
----
-
 <div id="mentored-theses"></div>
 
 #### _Mentored doctoral theses_
@@ -211,14 +186,42 @@ Bruno Ramôa (Doctoral Program in Science and Engineering of Polymers and Compos
 
 ---
 
+<div id="supervised-dissertations"></div>
+
+#### _Supervised master's dissertations_
+
+<p style="margin-bottom:1cm;"></p>
+
+- **Computational modelling of the selective laser sintering process** (2022),\
+João Castro (Integrated Master in Polymer Engineering, University of Minho, Portugal).
+
+---
+
 <div id="mentored-dissertations"></div>
 
 #### _Mentored master's dissertations_
 
 <p style="margin-bottom:1cm;"></p>
 
+- **Order optimisation in curved boundary domains: discontinuous Galerkin method** (2022),\
+Milene Santos (Master’s in Mathematics, University of Coimbra, Portugal).
+
 - **Numerical modelling of the filling stage of the injection moulding process** (2019),\
 João Pedro (Integrated Master's in Polymer Engineering, University of Minho, Portugal).
+
+---
+
+<div id="supervised-projects"></div>
+
+#### _Supervised master's projects_
+
+<p style="margin-bottom:1cm;"></p>
+
+- **Numerical simulation of the fused deposition modeling process** (2021),\
+João Sousa (Integrated Master's in Polymer Engineering, University of Minho, Portugal).
+
+- **Computational modelling of selective laser sintering process** (2021),\
+João Castro (Integrated Master's in Polymer Engineering, University of Minho, Portugal).
 
 ---
 

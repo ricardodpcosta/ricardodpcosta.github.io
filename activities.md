@@ -203,7 +203,7 @@ João Castro (Integrated Master's in Polymer Engineering, University of Minho, P
 
 <p style="margin-bottom:1cm;"></p>
 
-– **Discontinuous Galerkin method for curved boundary domains** (2023/present),\
+- **Discontinuous Galerkin method for curved boundary domains** (2023/present),\
 Milene Santos (Doctoral Program in Mathematics, University of Coimbra, Portugal).
 
 - **A data-driven approach for modeling fiber orientation in injection molding** (2021/present),\

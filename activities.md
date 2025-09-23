@@ -73,6 +73,10 @@ D. Maria II High School (Portugal).
 June 29-July 1, 2026, Bern, Switzerland.\
 [https://pasc26.pasc-conference.org/about/organization/papers-program-committee/](https://pasc26.pasc-conference.org/about/organization/papers-program-committee/).
 
+- **EURO-PAR 2025** — International European Conference on Parallel and Distributed Computing,\
+August 25—29, 2025, Dresden, Germany.\
+[https://2025.euro-par.org/program/whpc/](https://2025.euro-par.org/program/whpc/).
+
 - **PASC 2025** – Platform for Advanced Scientific Computing Conference,\
 June 16-18, 2025, Brugg, Switzerland.\
 [https://pasc25.pasc-conference.org/about/organization/papers-program-committee/](https://pasc25.pasc-conference.org/about/organization/papers-program-committee/).
@@ -124,6 +128,9 @@ September 21—22, 2022, Santander, Spain.\
 
 <p style="margin-bottom:1cm;"></p>
 
+
+- **PASC 2026** – Platform for Advanced Scientific Computing Conference
+- **EURO-PAR 2025** — International European Conference on Parallel and Distributed Computing
 - **PASC 2025** – Platform for Advanced Scientific Computing Conference
 - **EURO-PAR 2024** — International European Conference on Parallel and Distributed Computing
 - **ENUMATH 2023** — European Conference on Numerical Mathematics and Advanced Applications

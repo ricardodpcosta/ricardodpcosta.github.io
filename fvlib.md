@@ -135,7 +135,7 @@ Complex geometries arise in many real-world problems of physics and engineering 
   </div>
 </div>
 
-  <p style="margin-bottom:1cm;"></p>
+<p style="margin-bottom:1cm;"></p>
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">

@@ -17,7 +17,7 @@ title: Activities
 - [Committee and refereeing](https://ricardodpcosta.github.io/activities.html#committee)
     - [Invited scientific and program committee member](https://ricardodpcosta.github.io/activities.html#scientific-committee)
     - [Invited reviewer for international journals](https://ricardodpcosta.github.io/activities.html#journal-reviewer)
-    - [Invited reviewer for international conferences](https://ricardodpcosta.github.io/activities.html#conference-reviewer)
+    - [Invited reviewer for conference proceedings](https://ricardodpcosta.github.io/activities.html#conference-reviewer)
 <p style="margin-bottom:-0.4cm;"></p>
 - [Teaching and supervision](https://ricardodpcosta.github.io/activities.html#teaching)
     - [Courses taught](https://ricardodpcosta.github.io/activities.html#courses)

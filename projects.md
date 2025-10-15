@@ -76,7 +76,7 @@ title: Projects
         </div>
         <div class="boxes-title">
           <h3></h3>
-          <p></p>
+          <p>Soft wearable robot with muscle-like SMA actuation and control</p>
         </div>
       </a>
     </div>

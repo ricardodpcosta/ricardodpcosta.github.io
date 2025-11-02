@@ -130,7 +130,7 @@ September 21—22, 2022, Santander, Spain.\
 
 
 - Proceedings of the Platform for Advanced Scientific Computing Conference (PASC 2026)
-- Parallel Processing Workshops (Euro-Par 2024)
+- Parallel Processing Workshops (Euro-Par 2025)
 - Proceedings of the Platform for Advanced Scientific Computing Conference (PASC 2025)
 - Parallel Processing Workshops (Euro-Par 2024)
 - Numerical Mathematics and Advanced Applications (ENUMATH 2023)

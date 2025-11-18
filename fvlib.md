@@ -11,9 +11,7 @@ title: FVLib – The Great Finite Volume Library
 
 <p style="margin-bottom:1cm;"></p>
 
-The FVLib code is a library of advanced computational algorithms and numerical methods to solve partial differential equations within the **finite volume philosophy**. The project aims to deliver **high-accurate**, **high-performance**, and **high-efficient** simulations of a wide range of physics and mechanics problems in relevant aerospace, manufacturing, environmental, and biomedical applications.
-
-The FVLib code is the result of years of dedication and passion for applied mathematics and scientific computing, and the ambition of **pushing the limits of numerical simulation even further** in serving the scientific knowledge and technological innovation.
+_The FVLib code is a library of advanced computational algorithms and numerical methods to solve partial differential equations within the **finite volume philosophy**. The project aims to deliver **high-accurate**, **high-performance**, and **high-efficient** simulations of a wide range of physics and mechanics problems in relevant aerospace, manufacturing, environmental, and biomedical applications. The FVLib code is the result of years of dedication and passion for applied mathematics and scientific computing, and the ambition of **pushing the limits of numerical simulation even further** in serving the scientific knowledge and technological innovation._
 
 ---
 

@@ -17,10 +17,10 @@ DOI: [https://doi.org/10.21814/uminho.ed.174](https://doi.org/10.21814/uminho.ed
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:90%; display:block; margin-left:auto; margin-right:auto;" src="public/alga1.png">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/alga1.png">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:90%; display:block; margin-left:auto; margin-right:auto;" src="public/alga2.png">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/alga2.png">
   </div>
 </div>
 <div class="row">
@@ -31,6 +31,8 @@ DOI: [https://doi.org/10.21814/uminho.ed.174](https://doi.org/10.21814/uminho.ed
     Back cover.
   </div>
 </div>
+
+<p style="margin-bottom:1cm;"></p>
 
 Escrevemos este livro para estudantes de cursos de Matemática Aplicada, Física e Engenharia, que estudam Álgebra Linear no primeiro ano da Universidade, o que explica a escolha da matéria e o nível de generalidade da apresentação. Incluímos no livro apenas os conceitos e resultados importantes para as aplicações da Matemática e as demonstrações foram feitas sem tentar atingir a máxima generalidade. Do nosso ponto de vista, o nome "Álgebra Linear" não é o mais adequado para chamar a esta disciplina. O nome mais adequado seria "Geometria de Espaços de Dimensão Finita". No entanto, decidimos dar ao livro o título "Álgebra Linear do Ponto de Vista Geométrico" para não confundir o leitor sobre o seu conteúdo. Salientamos, porém, que é daquele ponto de vista que expomos a matéria neste livro.
 
@@ -50,12 +52,14 @@ O livro não tem exercícios. É aconselhável o uso do livro de exercícios _Se
 
 Escrevemos este texto como uma introdução à Álgebra Linear. Ao leitor interessado em conhecer os resultados mais profundos desta parte da Matemática podemos recomendar os seguintes livros: _Felix R. Gantmacher, The Theory of Matrices, AMS Chelsea Publishing, 1959_; _Georgi E. Shilov, Linear Algebra, Dover Publications, 1977_; _Paul Halmos, Finite-Dimensional vetor Spaces, Springer, 1987_; _Luís Magalhães, Álgebra Linear como Introdução a Matemática Aplicada, Texto Editora, 1996_; _Igor R. Shafarevich and Alexey O. Remizov, Linear Algebra and Geometry, Springer, 2013_; _Sheldon Axler, Linear Algebra Done Right, Springer, 2015_.
 
+<p style="margin-bottom:1cm;"></p>
+
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:90%; display:block; margin-left:auto; margin-right:auto;" src="public/alga3.png">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/alga3.png">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:90%; display:block; margin-left:auto; margin-right:auto;" src="public/alga4.png">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/alga4.png">
   </div>
 </div>
 <div class="row">

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ALGA book
+title: Álgebra Linear do ponto de vista geométrico
 ---
 
 <p style="margin-bottom:1cm;"></p>

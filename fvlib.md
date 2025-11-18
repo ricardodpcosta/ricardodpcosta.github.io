@@ -7,7 +7,7 @@ title: FVLib – The Great Finite Volume Library
 
 ---
 
-## <span style="color:lightgrey">The Great </span>F<span style="color:lightgrey">inite</span> V<span style="color:lightgrey">olume</span> Lib<span style="color:lightgrey">rary</span>
+<!-- ## <span style="color:lightgrey">The Great </span>F<span style="color:lightgrey">inite</span> V<span style="color:lightgrey">olume</span> Lib<span style="color:lightgrey">rary</span> -->
 
 <p style="margin-bottom:1cm;"></p>
 

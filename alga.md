@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Álgebra Linear do ponto de vista geométrico
+title: ALGA – Álgebra Linear do ponto de vista geométrico
 ---
 
 <p style="margin-bottom:1cm;"></p>
@@ -60,6 +60,22 @@ Escrevemos este texto como uma introdução à Álgebra Linear. Ao leitor intere
   </div>
   <div class="column" style="width:50%; text-align:center;">
     <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/alga4.png">
+  </div>
+</div>
+<div class="row">
+  <div class="column" style="width:50%; text-align:center;">
+    Sample page.
+  </div>
+  <div class="column" style="width:50%; text-align:center;">
+    Sample page.
+  </div>
+</div>
+<div class="row">
+  <div class="column" style="width:50%; text-align:center;">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/alga5.png">
+  </div>
+  <div class="column" style="width:50%; text-align:center;">
+    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/alga6.png">
   </div>
 </div>
 <div class="row">

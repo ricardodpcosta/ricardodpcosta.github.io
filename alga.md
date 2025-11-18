@@ -17,10 +17,10 @@ DOI: [https://doi.org/10.21814/uminho.ed.174](https://doi.org/10.21814/uminho.ed
 
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/alga1.png">
+    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="public/alga1.png">
   </div>
   <div class="column" style="width:50%; text-align:center;">
-    <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/alga2.png">
+    <img style="width:60%; display:block; margin-left:auto; margin-right:auto;" src="public/alga2.png">
   </div>
 </div>
 <div class="row">
@@ -38,7 +38,7 @@ Escrevemos este livro para estudantes de cursos de Matemática Aplicada, Física
 
 <p style="margin-bottom:1cm;"></p>
 
-O livro contém doze capítulos. No primeiro capítulo introduzimos os conceitos principais do cálculo vetorial no plano. Estes conceitos são generalizados para o espaço de dimensão três no segundo capítulo. O espaço linear de dimensão $n$ é o objeto principal de estudo no terceiro capítulo. No quarto capítulo estudamos espaços normados e Euclidianos. No capítulo cinco consideramos as aplicações lineares e estabelecemos a correspondência entre aplicações lineares e matrizes. Introduzimos a noção de determinante como um objeto geométrico no sexto capítulo. Os vetores e valores próprios são o tema do sétimo capítulo. No oitavo capítulo estudamos os espaços afins que generalizam os espaços de vetores considerados nos primeiros dois capítulos do livro. No nono capítulo consideramos formas quadráticas. Dedicamos o capítulo dez às cónicas e o capítulo onze às quádricas. O último capítulo é destinado ao leitor mais preparado. Nele demonstramos o Teorema Fundamental da Álgebra e o teorema sobre a forma canónica de Jordan.
+O livro contém doze capítulos. No primeiro capítulo introduzimos os conceitos principais do cálculo vetorial no plano. Estes conceitos são generalizados para o espaço de dimensão três no segundo capítulo. O espaço linear de dimensão _n_ é o objeto principal de estudo no terceiro capítulo. No quarto capítulo estudamos espaços normados e Euclidianos. No capítulo cinco consideramos as aplicações lineares e estabelecemos a correspondência entre aplicações lineares e matrizes. Introduzimos a noção de determinante como um objeto geométrico no sexto capítulo. Os vetores e valores próprios são o tema do sétimo capítulo. No oitavo capítulo estudamos os espaços afins que generalizam os espaços de vetores considerados nos primeiros dois capítulos do livro. No nono capítulo consideramos formas quadráticas. Dedicamos o capítulo dez às cónicas e o capítulo onze às quádricas. O último capítulo é destinado ao leitor mais preparado. Nele demonstramos o Teorema Fundamental da Álgebra e o teorema sobre a forma canónica de Jordan.
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -70,6 +70,9 @@ Escrevemos este texto como uma introdução à Álgebra Linear. Ao leitor intere
     Sample page.
   </div>
 </div>
+
+<p style="margin-bottom:1cm;"></p>
+
 <div class="row">
   <div class="column" style="width:50%; text-align:center;">
     <img style="width:70%; display:block; margin-left:auto; margin-right:auto;" src="public/alga5.png">

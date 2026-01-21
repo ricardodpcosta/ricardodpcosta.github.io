@@ -101,6 +101,7 @@ September 21—22, 2022, Santander, Spain.\
 
 <p style="margin-bottom:1cm;"></p>
 
+- Contemporary Mathematics (Universal Wiser Publisher)
 - American Journal of Engineering and Applied Sciences (Science Publications)
 - Simulation Modelling Practice and Theory (Elsevier)
 - Scientific Reports (Springer Nature)

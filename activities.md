@@ -104,7 +104,6 @@ September 21—22, 2022, Santander, Spain.\
 - Contemporary Mathematics (Universal Wiser Publisher)
 - American Journal of Engineering and Applied Sciences (Science Publications)
 - Simulation Modelling Practice and Theory (Elsevier)
-- Scientific Reports (Springer Nature)
 - IEEE Transactions on Artificial Intelligence (IEEE)
 - Computers and Fluids (Elsevier)
 - International Journal of Fluid Engineering (AIP)

@@ -92,7 +92,7 @@ DOI: [https://doi.org/10.1016/j.jcp.2021.110604](https://doi.org/10.1016/j.jcp.2
 DOI: [https://doi.org/10.1016/j.cma.2019.07.029](https://doi.org/10.1016/j.cma.2019.07.029).
 
 1. **R. Costa**, J.M. Nóbrega, S. Clain, G.J. Machado, and R. Loubère,\
-<span style="color:blue">_Very high-order accurate finite volume scheme for the convection-diffusion equation with general boundary conditions on arbitrary curved domains_</span>,\
+<span style="color:blue">_Very high-order accurate finite volume scheme for the convection-diffusion equation with general boundary conditions on arbitrary curved boundaries_</span>,\
 **International Journal for Numerical Methods in Engineering** 117(2), 188-220, 2019.\
 DOI: [https://doi.org/10.1002/nme.5953](https://doi.org/10.1002/nme.5953).
 
@@ -117,7 +117,7 @@ DOI: [https://doi.org/10.1007/s10915-016-0348-9](https://doi.org/10.1007/s10915-
 DOI: [https://doi.org/10.1002/2015MS000603](https://doi.org/10.1002/2015MS000603).
 
 1. **R. Costa**, S. Clain, and G.J. Machado,\
-<span style="color:blue">_Sixth-order finite volume method for the 1D biharmonic operator: application to the intramedullary nail simulation_</span>,\
+<span style="color:blue">_A sixth-order finite volume method for the 1D biharmonic operator: application to the intramedullary nail simulation_</span>,\
 **International Journal of Applied Mathematics and Computer Science** 25(3), 529-537, 2015.\
 DOI: [https://doi.org/10.1515/amcs-2015-0039](https://doi.org/10.1515/amcs-2015-0039).
 

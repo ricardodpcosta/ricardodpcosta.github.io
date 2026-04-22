@@ -46,6 +46,11 @@ DOI: [https://doi.org/10.48550/arXiv.2506.05081](https://doi.org/10.48550/arXiv.
 
 <p style="margin-bottom:1cm;"></p>
 
+1. **R. Costa**, S. Clain, G.J. Machado, and J.M. Nóbrega,\
+<span style="color:blue">_Very high-order accurate wall vorticity treatment on curved boundaries with polygonal meshes for incompressible vorticity equations_</span>,\
+**Computers & Mathematics with Applications** 214, 94-134, 2026.\
+DOI: [https://doi.org/10.1016/j.camwa.2026.04.004](https://doi.org/10.1016/j.camwa.2026.04.004).
+
 1. B. Ramôa, **R. Costa**, F. Chinesta, and J.M. Nóbrega,\
 <span style="color:blue">_An open-source framework for modeling the evolution of fiber orientation_</span>,\
 **OpenFOAM Journal** 5, 17-37, 2025.\

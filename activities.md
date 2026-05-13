@@ -18,6 +18,7 @@ title: Activities
     - [Invited scientific and program committee member](https://ricardodpcosta.github.io/activities.html#scientific-committee)
     - [Invited reviewer for international journals](https://ricardodpcosta.github.io/activities.html#journal-reviewer)
     - [Invited reviewer for conference proceedings](https://ricardodpcosta.github.io/activities.html#conference-reviewer)
+    - [Invited evaluator for grant appraisals](https://ricardodpcosta.github.io/activities.html#grant-evaluator)
 <p style="margin-bottom:-0.4cm;"></p>
 - [Teaching and supervision](https://ricardodpcosta.github.io/activities.html#teaching)
     - [Courses taught](https://ricardodpcosta.github.io/activities.html#courses)
@@ -60,6 +61,17 @@ D. Maria II High School (Portugal).
 ### _Committee and refereeing_
 
 <p style="margin-bottom:1cm;"></p>
+
+---
+
+<div id="scientific-committee"></div>
+
+#### _Invited evaluator for grant appraisals_
+
+<p style="margin-bottom:1cm;"></p>
+
+
+- **ANI** – National Innovation Agency
 
 ---
 

@@ -64,7 +64,7 @@ D. Maria II High School (Portugal).
 
 ---
 
-<div id="scientific-committee"></div>
+<div id="grant-evaluator"></div>
 
 #### _Invited evaluator for grant appraisals_
 

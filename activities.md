@@ -113,6 +113,7 @@ September 21—22, 2022, Santander, Spain.\
 
 <p style="margin-bottom:1cm;"></p>
 
+- Engineered Science (Engineered Science Publisher)
 - Applied Mathematics and Computation (Elsevier)
 - Contemporary Mathematics (Universal Wiser Publisher)
 - American Journal of Engineering and Applied Sciences (Science Publications)

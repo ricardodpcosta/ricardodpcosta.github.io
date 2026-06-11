@@ -81,6 +81,10 @@ D. Maria II High School (Portugal).
 
 <p style="margin-bottom:1cm;"></p>
 
+- **EURO-PAR 2026** — International European Conference on Parallel and Distributed Computing,\
+August 24—28, 2026, Pisa, Italy.\
+[https://2026.euro-par.org/program/whpcsession](https://2026.euro-par.org/program/whpcsession).
+
 - **PASC 2026** – Platform for Advanced Scientific Computing Conference,\
 June 29-July 1, 2026, Bern, Switzerland.\
 [https://pasc26.pasc-conference.org/about/organization/papers-program-committee/](https://pasc26.pasc-conference.org/about/organization/papers-program-committee/).

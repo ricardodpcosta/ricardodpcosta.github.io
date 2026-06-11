@@ -94,6 +94,12 @@ February 26, 2015, Guimarães, Portugal.
 <p style="margin-bottom:1cm;"></p>
 
 1. **R. Costa**, S. Clain, G.J. Machado, and J.M. Nóbrega,\
+<span style="color:blue">_Finite volume solution of the incompressible Navier-Stokes equations with very high-order accuracy: a comparison between primitive-variable and streamfunction-vorticity formulations_</span>,\
+**WCDANM 2026 – X Workshop on Computational Data Analysis and Numerical Methods**,\
+June 11-13, 2026, Guimarães, Portugal.\
+[https://w3.math.uminho.pt/WCDANM2026](https://w3.math.uminho.pt/WCDANM2026)
+
+1. **R. Costa**, S. Clain, G.J. Machado, and J.M. Nóbrega,\
 <span style="color:blue">_Very high-order accurate finite volume schemes for vorticity-based formulations of the incompressible Navier-Stokes equations_</span>,\
 **PICASSO 2025 – Hyperbolic Models, Numerical Analysis and Scientific Computation**,\
 March 24-26, 2025, Málaga, Spain.\

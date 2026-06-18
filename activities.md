@@ -70,7 +70,6 @@ D. Maria II High School (Portugal).
 
 <p style="margin-bottom:1cm;"></p>
 
-
 - **ANI** – National Innovation Agency
 
 ---
@@ -147,7 +146,7 @@ September 21—22, 2022, Santander, Spain.\
 
 <p style="margin-bottom:1cm;"></p>
 
-
+- Parallel Processing Workshops (Euro-Par 2026)
 - Proceedings of the Platform for Advanced Scientific Computing Conference (PASC 2026)
 - Parallel Processing Workshops (Euro-Par 2025)
 - Proceedings of the Platform for Advanced Scientific Computing Conference (PASC 2025)
